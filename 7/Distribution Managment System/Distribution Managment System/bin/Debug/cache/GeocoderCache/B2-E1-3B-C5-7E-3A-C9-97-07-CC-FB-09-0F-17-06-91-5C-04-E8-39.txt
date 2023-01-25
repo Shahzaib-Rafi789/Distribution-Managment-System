@@ -1,0 +1,381 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "34M8+22G Naseer Pur Kalan, Pakistan",
+      "global_code" : "8J4M34M8+22G"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "34M8+22",
+               "short_name" : "34M8+22",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Naseer Pur Kalan",
+               "short_name" : "Naseer Pur Kalan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kot Momin",
+               "short_name" : "Kot Momin",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "34M8+22 Naseer Pur Kalan, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.082625,
+                  "lng" : 73.11512499999999
+               },
+               "southwest" : {
+                  "lat" : 32.0825,
+                  "lng" : 73.11499999999999
+               }
+            },
+            "location" : {
+               "lat" : 32.0825746,
+               "lng" : 73.11507809999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.08391148029149,
+                  "lng" : 73.11641148029149
+               },
+               "southwest" : {
+                  "lat" : 32.0812135197085,
+                  "lng" : 73.11371351970848
+               }
+            }
+         },
+         "place_id" : "GhIJej3zzZEKQEARF_-IcF1HUkA",
+         "plus_code" : {
+            "compound_code" : "34M8+22 Naseer Pur Kalan, Pakistan",
+            "global_code" : "8J4M34M8+22"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kot Momin",
+               "short_name" : "Kot Momin",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0831303,
+                  "lng" : 73.115332
+               },
+               "southwest" : {
+                  "lat" : 32.0800815,
+                  "lng" : 73.11297330000001
+               }
+            },
+            "location" : {
+               "lat" : 32.0815985,
+               "lng" : 73.114036
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0831303,
+                  "lng" : 73.1155016302915
+               },
+               "southwest" : {
+                  "lat" : 32.0800815,
+                  "lng" : 73.1128036697085
+               }
+            }
+         },
+         "place_id" : "ChIJETg9punyITkRQqp2u0AorOo",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Garhi Kala",
+               "short_name" : "Garhi Kala",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Kot Momin",
+               "short_name" : "Kot Momin",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Garhi Kala, Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.1389714,
+                  "lng" : 73.1905981
+               },
+               "southwest" : {
+                  "lat" : 32.0400375,
+                  "lng" : 73.105604
+               }
+            },
+            "location" : {
+               "lat" : 32.082571,
+               "lng" : 73.1467619
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.1389714,
+                  "lng" : 73.1905981
+               },
+               "southwest" : {
+                  "lat" : 32.0400375,
+                  "lng" : 73.105604
+               }
+            }
+         },
+         "place_id" : "ChIJbSNOQEPyITkRlMBTdcJgWcw",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kot Momin",
+               "short_name" : "Kot Momin",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kot Momin, Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.2969201,
+                  "lng" : 73.31019239999999
+               },
+               "southwest" : {
+                  "lat" : 31.892333,
+                  "lng" : 72.93846119999999
+               }
+            },
+            "location" : {
+               "lat" : 32.0699288,
+               "lng" : 73.13496049999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.2969201,
+                  "lng" : 73.31019239999999
+               },
+               "southwest" : {
+                  "lat" : 31.892333,
+                  "lng" : 72.93846119999999
+               }
+            }
+         },
+         "place_id" : "ChIJ0U66lI3yITkRgQZuIYAp954",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.5712785,
+                  "lng" : 73.31019239999999
+               },
+               "southwest" : {
+                  "lat" : 31.5566249,
+                  "lng" : 72.21704679999999
+               }
+            },
+            "location" : {
+               "lat" : 32.156592,
+               "lng" : 72.8042797
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.5712785,
+                  "lng" : 73.31019239999999
+               },
+               "southwest" : {
+                  "lat" : 31.5566249,
+                  "lng" : 72.21704679999999
+               }
+            }
+         },
+         "place_id" : "ChIJ0S6JJZadITkRmlmemFkTNjk",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

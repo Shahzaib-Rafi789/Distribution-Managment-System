@@ -1,0 +1,381 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "GR7P+25Q Tāngra, Pakistan",
+      "global_code" : "8J2HGR7P+25Q"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "GR7P+25",
+               "short_name" : "GR7P+25",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Tāngra",
+               "short_name" : "Tāngra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kabirwala",
+               "short_name" : "Kabirwala",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Khanewal",
+               "short_name" : "Khanewal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "GR7P+25 Tāngra, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.512625,
+                  "lng" : 71.8355
+               },
+               "southwest" : {
+                  "lat" : 30.5125,
+                  "lng" : 71.835375
+               }
+            },
+            "location" : {
+               "lat" : 30.5125828,
+               "lng" : 71.83547969999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.5139114802915,
+                  "lng" : 71.83678648029151
+               },
+               "southwest" : {
+                  "lat" : 30.51121351970851,
+                  "lng" : 71.83408851970849
+               }
+            }
+         },
+         "place_id" : "GhIJ-31aoDiDPkARM_7Yf3j1UUA",
+         "plus_code" : {
+            "compound_code" : "GR7P+25 Tāngra, Pakistan",
+            "global_code" : "8J2HGR7P+25"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kabirwala",
+               "short_name" : "Kabirwala",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Khanewal",
+               "short_name" : "Khanewal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Khanewal, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.5145777,
+                  "lng" : 71.83477739999999
+               },
+               "southwest" : {
+                  "lat" : 30.5141143,
+                  "lng" : 71.83473819999999
+               }
+            },
+            "location" : {
+               "lat" : 30.514346,
+               "lng" : 71.83475780000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.5156949802915,
+                  "lng" : 71.8361067802915
+               },
+               "southwest" : {
+                  "lat" : 30.5129970197085,
+                  "lng" : 71.8334088197085
+               }
+            }
+         },
+         "place_id" : "ChIJw_6vXfWlJDkRMuFyo6MXuL8",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chan Naurang",
+               "short_name" : "Chan Naurang",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Kabirwala",
+               "short_name" : "Kabirwala",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Khanewal",
+               "short_name" : "Khanewal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chan Naurang, Khanewal, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.5639361,
+                  "lng" : 71.87137849999999
+               },
+               "southwest" : {
+                  "lat" : 30.4560014,
+                  "lng" : 71.76125050000002
+               }
+            },
+            "location" : {
+               "lat" : 30.5008395,
+               "lng" : 71.82155449999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.5639361,
+                  "lng" : 71.87137849999999
+               },
+               "southwest" : {
+                  "lat" : 30.4560014,
+                  "lng" : 71.76125050000002
+               }
+            }
+         },
+         "place_id" : "ChIJQxLO532vJDkR8TqpgvnOASQ",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kabirwala",
+               "short_name" : "Kabirwala",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Khanewal",
+               "short_name" : "Khanewal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kabirwala, Khanewal, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.73066699999999,
+                  "lng" : 72.23753909999999
+               },
+               "southwest" : {
+                  "lat" : 30.2629669,
+                  "lng" : 71.56055499999999
+               }
+            },
+            "location" : {
+               "lat" : 30.4793487,
+               "lng" : 71.9045649
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.73066699999999,
+                  "lng" : 72.23753909999999
+               },
+               "southwest" : {
+                  "lat" : 30.2629669,
+                  "lng" : 71.56055499999999
+               }
+            }
+         },
+         "place_id" : "ChIJ33R4c_SoJDkREVAVmjY1qUc",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khanewal",
+               "short_name" : "Khanewal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khanewal, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.7306669,
+                  "lng" : 72.5036889
+               },
+               "southwest" : {
+                  "lat" : 29.9002348,
+                  "lng" : 71.56055499999999
+               }
+            },
+            "location" : {
+               "lat" : 30.4550445,
+               "lng" : 72.0468164
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.7306669,
+                  "lng" : 72.5036889
+               },
+               "southwest" : {
+                  "lat" : 29.9002348,
+                  "lng" : 71.56055499999999
+               }
+            }
+         },
+         "place_id" : "ChIJ14qiitSrPDkRpc_4SuJxG6Q",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

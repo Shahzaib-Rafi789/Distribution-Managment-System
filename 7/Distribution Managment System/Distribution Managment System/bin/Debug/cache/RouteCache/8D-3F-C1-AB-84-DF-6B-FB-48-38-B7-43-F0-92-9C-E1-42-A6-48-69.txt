@@ -1,0 +1,658 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJT5OdUBYBGTkR32j8udNqjlU",
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJydYebeMaGTkRUvfIepkBV_0",
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 31.5976996,
+               "lng" : 74.36940559999999
+            },
+            "southwest" : {
+               "lat" : 31.4260555,
+               "lng" : 74.2427029
+            }
+         },
+         "copyrights" : "Map data ©2022",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "26.8 km",
+                  "value" : 26811
+               },
+               "duration" : {
+                  "text" : "50 mins",
+                  "value" : 2978
+               },
+               "end_address" : "H9W7+JFW, Tariq Shaheed Rd, Gujjar Pura Kot Khawaja Saeed, Lahore, Punjab 54000, Pakistan",
+               "end_location" : {
+                  "lat" : 31.5969632,
+                  "lng" : 74.3628035
+               },
+               "start_address" : "C6GV+J2X C-Block Park, Block C Punjab University Employees Chs, Lahore, Punjab, Pakistan",
+               "start_location" : {
+                  "lat" : 31.4273048,
+                  "lng" : 74.2427029
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 628
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 112
+                     },
+                     "end_location" : {
+                        "lat" : 31.4274392,
+                        "lng" : 74.2485027
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Punjab University Employees Housing Scheme Town II (on the right)\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "scy~D{ocdMLWd@_An@sAf@gAN_@|@qBHSFQDQBU@O?O@SASOe@Qm@uBuGOc@q@oBy@mB"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4273048,
+                        "lng" : 74.2427029
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "15 m",
+                        "value" : 15
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 2
+                     },
+                     "end_location" : {
+                        "lat" : 31.4273735,
+                        "lng" : 74.24864529999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at Estate Channel onto \u003cb\u003eTariq Ismaeel Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ody~DctddML]"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4274392,
+                        "lng" : 74.2485027
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.2 km",
+                        "value" : 3188
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 273
+                     },
+                     "end_location" : {
+                        "lat" : 31.4483839,
+                        "lng" : 74.2695336
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eKhayaban-e-Jinnah\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Sixteen standards (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ady~DauddMCEk@eA_@m@c@q@c@m@_@a@eAkAa@c@MMQSg@q@w@}@c@g@{@eACESYW_@EGSUW]EESWW_@SYECY[OSIIMMKMY[Y]IIKMmAyAY[gAuAOQaAgAKMe@m@KKy@eAMQeAcBOY]s@s@uAcBgDMYSa@Uc@]e@QYk@kAM]_@q@q@iAQYeAeBKOSi@e@gAmAaCSc@c@{@_@s@_@q@iAsBeAiBwBeEc@_Ay@{AYc@MUu@eA]i@OMSSYQUMIEyAi@kFiAeAWkD}@g@MyE{@{Bg@uA]_@Gq@KaB]gASWEKCqAY}@SEAu@Q"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4273735,
+                        "lng" : 74.24864529999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1106
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 109
+                     },
+                     "end_location" : {
+                        "lat" : 31.4558058,
+                        "lng" : 74.2768033
+                     },
+                     "html_instructions" : "At BAJWA ESTATE Advisor, continue onto \u003cb\u003eKhayaban-e-Firdousi\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Sundae Swivel (on the left in 850m)\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "kg}~DqwhdM[IiDaAkCs@yC}@WMWOYOk@m@EEW_@]c@sFkIEGqC_Em@_A}EeHkAkBkAcB"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4483839,
+                        "lng" : 74.2695336
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 617
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 67
+                     },
+                     "end_location" : {
+                        "lat" : 31.4612006,
+                        "lng" : 74.2754065
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at Hassan Marriage Bureau onto \u003cb\u003eMain Blvd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by G M Photo Studio (on the left in 350m)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "yu~~D_ejdMq@MaANa@J{@RuBb@k@NWFk@Hm@JcAReDp@a@JUF_@Fm@Lc@Fw@LwANWFSB"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4558058,
+                        "lng" : 74.2768033
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 978
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 125
+                     },
+                     "end_location" : {
+                        "lat" : 31.469703,
+                        "lng" : 74.2727769
+                     },
+                     "html_instructions" : "Continue straight past Meer Daad Chowk to stay on \u003cb\u003eMain Blvd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Askari Dental Care (on the right)\u003c/div\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "ow__Ei|idM_@JeFpA_APcCf@_@JmHpAWFQFm@Ni@L_@Jc@HiAR_B\\yH|AgB\\kB`@MB"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4612006,
+                        "lng" : 74.2754065
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.8 km",
+                        "value" : 1754
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 289
+                     },
+                     "end_location" : {
+                        "lat" : 31.481061,
+                        "lng" : 74.281204
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at \u003cb\u003eKhokhar Chowk\u003c/b\u003e onto \u003cb\u003eAbdul Haque Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Rent A Car In Johar Town | Rent A Car In Model Town (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "sla_E{kidMQFODEc@EWAQOaAIq@_@{BM{@QuA?CGe@o@qEMoAOg@IYWk@KUOSUWOMYOwAeAuByAm@c@o@c@_B{@MKEAmGiDe@Ww@a@e@U}As@y@Ws@QiBu@q@UCAYIkA_@w@S_@Ga@IOAK?M@OBMDg@TyAr@WJwAl@QFA@ID_@LGBEBA@KDMFYLQJK[Sq@CEQY"
+                     },
+                     "start_location" : {
+                        "lat" : 31.469703,
+                        "lng" : 74.2727769
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.6 km",
+                        "value" : 3572
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 259
+                     },
+                     "end_location" : {
+                        "lat" : 31.5017289,
+                        "lng" : 74.30943549999999
+                     },
+                     "html_instructions" : "Merge onto \u003cb\u003eCanal Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Speedo Bus Stop Doctor's Hospital N (on the left)\u003c/div\u003e",
+                     "maneuver" : "merge",
+                     "polyline" : {
+                        "points" : "ssc_Eo`kdMyA{E}@wCc@qAk@kBs@yBmAqDGOy@aCiAsCAAeB}Dg@mAO]cAaCEMm@sAmAiC[q@k@iAaB{Ck@gASa@Yk@}@aBOYAAQ]cAiBUa@GK{@gBcAeBMQU[OQQS_CgDkCkDi@_Ak@aACEGIKOgA_BgA}AsCoDEGs@y@Y]eBuBw@}@Y[Y[q@u@]]ACoAoAY[CCsAwAkAiAAC_B_BoE_ECAaA{@OOsAoACAaB}Ay@w@kD_DAACAACgDyC[[AAYW_@[w@u@UYEGEGY[s@o@_Ay@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.481061,
+                        "lng" : 74.281204
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 760
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : 31.507039,
+                        "lng" : 74.31446919999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eKashmir Underpass\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "ytg_E_qpdMYa@UYsBgBOMoAiA{@s@y@o@y@o@a@a@SQ?AMKGGEE_@]_@_@w@w@{@{@kEiEyAqAeA_A"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5017289,
+                        "lng" : 74.30943549999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.5 km",
+                        "value" : 1514
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 105
+                     },
+                     "end_location" : {
+                        "lat" : 31.5177135,
+                        "lng" : 74.3243645
+                     },
+                     "html_instructions" : "Merge onto \u003cb\u003eCanal Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Green Network (on the right in 400m)\u003c/div\u003e",
+                     "maneuver" : "merge",
+                     "polyline" : {
+                        "points" : "_vh_EmpqdMiQiPi@g@}FkFoC_C}AsA]W[YgCiCeAgAuAsA_A}@mAgAs@m@_BcBy@q@wAiASOYUqAcAs@g@o@i@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.507039,
+                        "lng" : 74.31446919999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 995
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 74
+                     },
+                     "end_location" : {
+                        "lat" : 31.5246138,
+                        "lng" : 74.33098819999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e at Steel Complex (Pvt) LTD onto \u003cb\u003eCanal Rd\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eLiaquat Ali Khan Underpass\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Canal Rd\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Baby Care House Diaper Store (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "uxj_EgnsdMY_@OMSSYQwAgAQMiAs@AA[U]UKI]W[Wu@u@CCy@w@WWo@u@EGMMSWWWSWo@o@}BoCk@s@IKEGACACACmBiB[YkCsCw@w@SQQKe@Y{@m@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5177135,
+                        "lng" : 74.3243645
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.3 km",
+                        "value" : 1272
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 91
+                     },
+                     "end_location" : {
+                        "lat" : 31.5335608,
+                        "lng" : 74.33932940000001
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCanal Rd\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eFC College Underpass (No. 6)\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Canal Rd\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by icland (on the right in 350m)\u003c/div\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "ycl_EuwtdMMQKM{BwBsAgAy@q@y@s@i@g@[[y@u@MMe@a@CCy@y@i@m@g@g@WUEGi@c@OMSOa@SyA}AMKk@k@y@u@qAmAkCeCgD}Cu@u@qB}AaAy@oC_C"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5246138,
+                        "lng" : 74.33098819999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 505
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 31.53708249999999,
+                        "lng" : 74.342648
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e to continue on \u003cb\u003eWaris Shah Underpass\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Saboor Medical &amp; Diagnostic Center (on the right)\u003c/div\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "w{m_EykvdMYOOMi@a@YYMK_@]q@i@]SYQCASKSMIEIGUSUWg@c@KK[Yu@w@KMOMWYAAGGi@m@{@cASYIOEO"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5335608,
+                        "lng" : 74.33932940000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 814
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 62
+                     },
+                     "end_location" : {
+                        "lat" : 31.5427627,
+                        "lng" : 74.3480601
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCanal Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by PHA Nursery Shaheen Monoment (on the left in 450m)\u003c/div\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "wqn_Eq`wdMgF}EWSqBkBw@y@AAoAoAMOMK?AqAqAoAkAkAiAkBgBoC_CmBaB"
+                     },
+                     "start_location" : {
+                        "lat" : 31.53708249999999,
+                        "lng" : 74.342648
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 502
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 31.5462731,
+                        "lng" : 74.3513708
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to continue on \u003cb\u003eFaiz Ahmed Faiz Underpass\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by 24/\u003cwbr/\u003e7 Logistics (on the right in 350m)\u003c/div\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "guo_EkbxdMgBoB{AiAw@s@a@]q@o@[[A?qBmBiCoCi@c@SOUK"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5427627,
+                        "lng" : 74.3480601
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 881
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 82
+                     },
+                     "end_location" : {
+                        "lat" : 31.5525559,
+                        "lng" : 74.35702379999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eCanal Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Acoba Cricket Ground (on the left)\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "ekp_EawxdMy@w@kF}E{@w@oBiBqFcFsCgCg@[qBcBcAq@eAq@iAcAc@]"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5462731,
+                        "lng" : 74.3513708
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 264
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 31.5547969,
+                        "lng" : 74.35650629999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eMayo Gardens Rd\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "orq_EkzydM[IQCOCMAUCQAI?M?S@_@Bi@F{@LQFC@OFIDMFQL]Tk@^"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5525559,
+                        "lng" : 74.35702379999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.6 km",
+                        "value" : 1584
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 216
+                     },
+                     "end_location" : {
+                        "lat" : 31.5645871,
+                        "lng" : 74.34441529999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eAllama Iqbal Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Abdullah Autos (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "o`r_EewydM}@r@Sb@[p@c@`AW`@g@r@eAzAy@hAeAxAw@fAu@~@Y\\{BtCy@bAi@n@uAbBqA`BA@aB|BKN{AnB[\\iAtAs@bAW`@KJYZaBxBQTc@n@[^ILw@jAKPGJy@t@i@t@e@j@WZa@b@_@^]d@c@l@i@r@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5547969,
+                        "lng" : 74.35650629999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 436
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 74
+                     },
+                     "end_location" : {
+                        "lat" : 31.5678935,
+                        "lng" : 74.34675450000002
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at Chand Studio Garhi Shahu onto \u003cb\u003eGarhi Shahu Rd\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eQueen Mary Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "u}s_EskwdMILMMoAu@_CaBCA]UsA_AcAm@k@[e@YYSeCiB"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5645871,
+                        "lng" : 74.34441529999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 912
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 86
+                     },
+                     "end_location" : {
+                        "lat" : 31.5756302,
+                        "lng" : 74.3487062
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eGarhi Shahu Bridge\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by New Ittefaq Cargo Lines (on the left)\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "irt_EezwdMSOSOcAs@g@_@UOe@Yc@QOGsCiA_Bo@SK}@a@q@USIcBo@QEQEUCO?a@@s@Ds@DyAJ}@Fi@Fc@Hw@DY@]@_@@WBuB?OAA?OAICSC"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5678935,
+                        "lng" : 74.34675450000002
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.8 km",
+                        "value" : 1832
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 229
+                     },
+                     "end_location" : {
+                        "lat" : 31.5786218,
+                        "lng" : 74.3675909
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eG. T. Road\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eAH1\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow AH1\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Domeno Hut (on the left in 1.8 km)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ubv_EmfxdMWCBYEwD_@kEUsCcA_PGk@c@cFWqDGe@C[u@}HW_CQgBMcAEKAECIAGCIIsAy@}Ia@mEYeDC_@o@{GQaBE[e@mF"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5756302,
+                        "lng" : 74.3487062
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.9 km",
+                        "value" : 1936
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 423
+                     },
+                     "end_location" : {
+                        "lat" : 31.5955825,
+                        "lng" : 74.368431
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e after Rescue 1122 (on the left)\u003cdiv style=\"font-size:0.9em\"\u003ePass by Golden Cue Club (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kuv_Em|{dMMAG?IAEAQEu@S[GC?m@Mi@KMCIAeBWmBa@SCWAQ?K@K@KBm@DQ?Y@g@Cm@CG?}ASo@KuAUEA{Bo@{@Mc@ICCCEEEECGAE?EAeBBqA?{@Bc@@yBL}@BkBDm@@kA@i@A{@KaFu@kAMaBQuAOKCK?IAO@Q@U@IBIBKDc@TuA|@]P}@h@SJe@Pa@LOBSBQ?sCI}@AaAAy@As@C"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5786218,
+                        "lng" : 74.3675909
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 403
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 76
+                     },
+                     "end_location" : {
+                        "lat" : 31.5960369,
+                        "lng" : 74.36421279999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at Shaheen Satellite\u003cdiv style=\"font-size:0.9em\"\u003ePass by Quality Fancy Birds (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "k_z_Eua|dMQ`DUrE?BOrCOvCSdD"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5955825,
+                        "lng" : 74.368431
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 189
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 31.5976996,
+                        "lng" : 74.36417730000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eMain Blvd China Scheme\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Al madina marquee (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gbz_Eig{dMMCuDWQAO@O@Q@OBODIDIBOH"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5960369,
+                        "lng" : 74.36421279999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 154
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 31.5969632,
+                        "lng" : 74.3628035
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eTariq Shaheed Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "slz_Ecg{dMrCpG?@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5976996,
+                        "lng" : 74.36417730000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "scy~D{ocdMr@wAvA{ClAqCPe@Hg@@_@?g@a@sAeCyHq@oBy@mBL]CEkAsBgA_BeBmBiBwB{CqDeAwAmCiD{DqEsDkEwBmCsAuBm@mAyDyHUc@]e@}@eBm@oAcAcBqAuBy@qBeDuGiBeD}DoH}A{Cg@y@sAoBc@a@o@_@cBo@qHaBsEkAyE{@{Bg@uBe@q@KaB]_BYaDs@gKqCyC}@WMq@_@q@s@u@cAyLsQiHqKkAcBq@McBZqDv@cAVyATaHxAiDj@oBVs@NeHbBcDr@eIxA_AVwDv@mRzD_@JODEc@Gi@YsB_AqGw@wFMoAOg@a@eA[i@e@e@qBuAcD}BoC_BgIoE}Aw@}As@y@Ws@QiBu@u@WeBi@wA[q@KY@]HaChAcCbAw@Zu@\\QJK[Ww@QYyA{EaBiFuDgLy@aCiAsCgB_EaC{F{B}EgA{B{DqHaB{C}C_GqAwBe@m@qC{DkCkDi@_Ao@gASYoC}DyCwDkFkGcCkCoBsBaGeGeHmGgLoK_FoEwAqA[a@EGY[s@o@_Ay@Ya@UYsBgB_BwAuBcBoBeB{KuK_DqCsRqQ}FkFoC_C{BkBcDcD{C{CmCeCsCqC_EaDeCkBo@i@Y_@c@a@qByAyByAi@_@y@o@kCiCqHsI}@kACGiCcCcEkEe@]aBgAY_@{BwBsAgAsBeBmCgCmCmCoBiBc@]a@SyA}Ay@w@kCcCsHcHu@u@qB}AqEyDi@]qBeBoA}@]S{@g@_B{AoCqCeBqB]i@EOgF}EiC_CwC{CoDkDwDqD}FaFgBoB{AiAyAqAaEyDiCoCi@c@i@[qMwLeKkJg@[qBcBiCcBmBaBkAS_AEs@DeBTo@ViBjA}@r@Sb@_ArB_EzFmE~FuHlJsAbBmBlCwBlC}BxCc@l@{BtC{ArBcA|AaA`AoA`By@~@}@dAmA`BILMMoAu@_CaBa@WwCmBqAu@_D}BsCsB{@i@s@YeIgDeA_@uBu@g@Iq@@_G^mAPqAF}@BmCBk@Gk@GBYEwDu@_JkAkQ{@uKKaAmA}L_@kDMc@M}A{AkP]eEaA}Jk@iGUAwA]wBa@WEeBWmBa@k@E]@wAJaAAu@CiFw@{Bo@{@Mg@MIKMEKAwDB_BDwDPyCFuB?}GaAmD_@wBUa@B_@DUHc@TuA|@{Az@y@\\q@Pe@BmIOs@CQ`DUvE_@jHSdDMCgEY_@Ba@DYJYLrCrG"
+         },
+         "summary" : "Canal Rd",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

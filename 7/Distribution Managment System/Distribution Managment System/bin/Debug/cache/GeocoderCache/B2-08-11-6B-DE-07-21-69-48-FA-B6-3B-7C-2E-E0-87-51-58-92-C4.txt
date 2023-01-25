@@ -1,0 +1,312 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "R74H+7GV Chungar, Pakistan",
+      "global_code" : "8J4MR74H+7GV"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "R74H+7G",
+               "short_name" : "R74H+7G",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Chungar",
+               "short_name" : "Chungar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jhelum",
+               "short_name" : "Jhelum",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Jhelum",
+               "short_name" : "Jhelum",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "R74H+7G Chungar, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.80575,
+                  "lng" : 73.278875
+               },
+               "southwest" : {
+                  "lat" : 32.805625,
+                  "lng" : 73.27875
+               }
+            },
+            "location" : {
+               "lat" : 32.8057447,
+               "lng" : 73.27880859999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.80703648029149,
+                  "lng" : 73.2801614802915
+               },
+               "southwest" : {
+                  "lat" : 32.8043385197085,
+                  "lng" : 73.27746351970849
+               }
+            }
+         },
+         "place_id" : "GhIJcbZvpCJnQEAR_LUGANhRUkA",
+         "plus_code" : {
+            "compound_code" : "R74H+7G Chungar, Pakistan",
+            "global_code" : "8J4MR74H+7G"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ara",
+               "short_name" : "Ara",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ara, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.8616342,
+                  "lng" : 73.2834603
+               },
+               "southwest" : {
+                  "lat" : 32.7034329,
+                  "lng" : 73.09808860000001
+               }
+            },
+            "location" : {
+               "lat" : 32.7615949,
+               "lng" : 73.2057595
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8616342,
+                  "lng" : 73.2834603
+               },
+               "southwest" : {
+                  "lat" : 32.7034329,
+                  "lng" : 73.09808860000001
+               }
+            }
+         },
+         "place_id" : "ChIJnSBwNNYwIDkRCz8Uph834ro",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sohawa",
+               "short_name" : "Sohawa",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Jhelum",
+               "short_name" : "Jhelum",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sohawa, Jhelum, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.2529921,
+                  "lng" : 73.59330299999999
+               },
+               "southwest" : {
+                  "lat" : 32.779368,
+                  "lng" : 73.15270150000001
+               }
+            },
+            "location" : {
+               "lat" : 32.9749701,
+               "lng" : 73.323708
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.2529921,
+                  "lng" : 73.59330299999999
+               },
+               "southwest" : {
+                  "lat" : 32.779368,
+                  "lng" : 73.15270150000001
+               }
+            }
+         },
+         "place_id" : "ChIJM1sURvghIDkRP5tYf8u4aCg",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jhelum",
+               "short_name" : "Jhelum",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jhelum, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.2552479,
+                  "lng" : 73.7960001
+               },
+               "southwest" : {
+                  "lat" : 32.392984,
+                  "lng" : 72.64735089999999
+               }
+            },
+            "location" : {
+               "lat" : 32.762217,
+               "lng" : 73.37086959999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.2552479,
+                  "lng" : 73.7960001
+               },
+               "southwest" : {
+                  "lat" : 32.392984,
+                  "lng" : 72.64735089999999
+               }
+            }
+         },
+         "place_id" : "ChIJeUOu6bYwIDkRNndY6pvPzVU",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

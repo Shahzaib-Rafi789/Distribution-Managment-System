@@ -1,0 +1,429 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "X3MW+22G Lakseen, Pakistan",
+      "global_code" : "8J3MX3MW+22G"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "X3MW+22",
+               "short_name" : "X3MW+22",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Lakseen",
+               "short_name" : "Lakseen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kot Momin",
+               "short_name" : "Kot Momin",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "X3MW+22 Lakseen, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.982625,
+                  "lng" : 73.095125
+               },
+               "southwest" : {
+                  "lat" : 31.9825,
+                  "lng" : 73.095
+               }
+            },
+            "location" : {
+               "lat" : 31.9825746,
+               "lng" : 73.09507809999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9839114802915,
+                  "lng" : 73.09641148029149
+               },
+               "southwest" : {
+                  "lat" : 31.9812135197085,
+                  "lng" : 73.09371351970849
+               }
+            }
+         },
+         "place_id" : "GhIJW-FMAor7P0ARNoR0whVGUkA",
+         "plus_code" : {
+            "compound_code" : "X3MW+22 Lakseen, Pakistan",
+            "global_code" : "8J3MX3MW+22"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kot Momin",
+               "short_name" : "Kot Momin",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dera Said Ka, Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.9835572,
+               "lng" : 73.0921257
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9849061802915,
+                  "lng" : 73.09347468029151
+               },
+               "southwest" : {
+                  "lat" : 31.9822082197085,
+                  "lng" : 73.09077671970849
+               }
+            }
+         },
+         "place_id" : "ChIJ89bCrBr1ITkRuMf8srXATbA",
+         "plus_code" : {
+            "compound_code" : "X3MR+CV Lakseen, Pakistan",
+            "global_code" : "8J3MX3MR+CV"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kot Momin",
+               "short_name" : "Kot Momin",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.9837349,
+                  "lng" : 73.0932701
+               },
+               "southwest" : {
+                  "lat" : 31.9835358,
+                  "lng" : 73.09221269999999
+               }
+            },
+            "location" : {
+               "lat" : 31.9836354,
+               "lng" : 73.09274139999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9849843302915,
+                  "lng" : 73.0940903802915
+               },
+               "southwest" : {
+                  "lat" : 31.9822863697085,
+                  "lng" : 73.0913924197085
+               }
+            }
+         },
+         "place_id" : "ChIJvdlUztP0ITkRboRYJnTgIug",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jan Muhammad",
+               "short_name" : "Jan Muhammad",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Kot Momin",
+               "short_name" : "Kot Momin",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jan Muhammad, Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0223191,
+                  "lng" : 73.15055749999999
+               },
+               "southwest" : {
+                  "lat" : 31.9206684,
+                  "lng" : 73.06110989999999
+               }
+            },
+            "location" : {
+               "lat" : 31.9657572,
+               "lng" : 73.0995528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0223191,
+                  "lng" : 73.15055749999999
+               },
+               "southwest" : {
+                  "lat" : 31.9206684,
+                  "lng" : 73.06110989999999
+               }
+            }
+         },
+         "place_id" : "ChIJXR8d-iP1ITkRMa-Jkv-41cY",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kot Momin",
+               "short_name" : "Kot Momin",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kot Momin, Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.2969201,
+                  "lng" : 73.31019239999999
+               },
+               "southwest" : {
+                  "lat" : 31.892333,
+                  "lng" : 72.93846119999999
+               }
+            },
+            "location" : {
+               "lat" : 32.0699288,
+               "lng" : 73.13496049999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.2969201,
+                  "lng" : 73.31019239999999
+               },
+               "southwest" : {
+                  "lat" : 31.892333,
+                  "lng" : 72.93846119999999
+               }
+            }
+         },
+         "place_id" : "ChIJ0U66lI3yITkRgQZuIYAp954",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.5712785,
+                  "lng" : 73.31019239999999
+               },
+               "southwest" : {
+                  "lat" : 31.5566249,
+                  "lng" : 72.21704679999999
+               }
+            },
+            "location" : {
+               "lat" : 32.156592,
+               "lng" : 72.8042797
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.5712785,
+                  "lng" : 73.31019239999999
+               },
+               "southwest" : {
+                  "lat" : 31.5566249,
+                  "lng" : 72.21704679999999
+               }
+            }
+         },
+         "place_id" : "ChIJ0S6JJZadITkRmlmemFkTNjk",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,445 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "MXC5+RXP Kudalthi Morr, Pakistan",
+      "global_code" : "8J3MMXC5+RXP"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "MXC5+RX",
+               "short_name" : "MXC5+RX",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Kudalthi Morr",
+               "short_name" : "Kudalthi Morr",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sheikhupura",
+               "short_name" : "Sheikhupura",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sheikhupura",
+               "short_name" : "Sheikhupura",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "MXC5+RX Kudalthi Morr, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.672125,
+                  "lng" : 73.95999999999999
+               },
+               "southwest" : {
+                  "lat" : 31.672,
+                  "lng" : 73.959875
+               }
+            },
+            "location" : {
+               "lat" : 31.6720835,
+               "lng" : 73.9599609
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.6734114802915,
+                  "lng" : 73.96128648029151
+               },
+               "southwest" : {
+                  "lat" : 31.6707135197085,
+                  "lng" : 73.9585885197085
+               }
+            }
+         },
+         "place_id" : "GhIJZa4Mqg2sP0ARFLzX_299UkA",
+         "plus_code" : {
+            "compound_code" : "MXC5+RX Kudalthi Morr, Pakistan",
+            "global_code" : "8J3MMXC5+RX"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kudalthi Morr",
+               "short_name" : "Kudalthi Morr",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sheikhupura",
+               "short_name" : "Sheikhupura",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sheikhupura",
+               "short_name" : "Sheikhupura",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Kudalthi Morr, Sheikhupura, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.6725674,
+                  "lng" : 73.96063149999999
+               },
+               "southwest" : {
+                  "lat" : 31.671898,
+                  "lng" : 73.9599609
+               }
+            },
+            "location" : {
+               "lat" : 31.6720154,
+               "lng" : 73.96051489999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.67358168029149,
+                  "lng" : 73.96164518029151
+               },
+               "southwest" : {
+                  "lat" : 31.6708837197085,
+                  "lng" : 73.95894721970849
+               }
+            }
+         },
+         "place_id" : "ChIJP5fUJMDpGDkRdg-5TUo0rLA",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kudalthi Morr",
+               "short_name" : "Kudalthi Morr",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sheikhupura",
+               "short_name" : "Sheikhupura",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sheikhupura",
+               "short_name" : "Sheikhupura",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kudalthi Morr, Sheikhupura, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.6840493,
+                  "lng" : 73.9685171
+               },
+               "southwest" : {
+                  "lat" : 31.6714663,
+                  "lng" : 73.9494394
+               }
+            },
+            "location" : {
+               "lat" : 31.6786561,
+               "lng" : 73.96243270000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.6840493,
+                  "lng" : 73.9685171
+               },
+               "southwest" : {
+                  "lat" : 31.6714663,
+                  "lng" : 73.9494394
+               }
+            }
+         },
+         "place_id" : "ChIJX9QN0enpGDkRDcAKxwDfXzE",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kudhlathi",
+               "short_name" : "Kudhlathi",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Sheikhupura",
+               "short_name" : "Sheikhupura",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sheikhupura",
+               "short_name" : "Sheikhupura",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kudhlathi, Sheikhupura, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.70408,
+                  "lng" : 74.0193029
+               },
+               "southwest" : {
+                  "lat" : 31.6492887,
+                  "lng" : 73.9377731
+               }
+            },
+            "location" : {
+               "lat" : 31.67625769999999,
+               "lng" : 73.96537150000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.70408,
+                  "lng" : 74.0193029
+               },
+               "southwest" : {
+                  "lat" : 31.6492887,
+                  "lng" : 73.9377731
+               }
+            }
+         },
+         "place_id" : "ChIJ5x_F6svpGDkRp9NDmwkyH24",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sheikhupura",
+               "short_name" : "Sheikhupura",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sheikhupura",
+               "short_name" : "Sheikhupura",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sheikhupura, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.9810401,
+                  "lng" : 74.12809899999999
+               },
+               "southwest" : {
+                  "lat" : 31.4956249,
+                  "lng" : 73.626077
+               }
+            },
+            "location" : {
+               "lat" : 31.7274621,
+               "lng" : 73.88894990000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9810401,
+                  "lng" : 74.12809899999999
+               },
+               "southwest" : {
+                  "lat" : 31.4956249,
+                  "lng" : 73.626077
+               }
+            }
+         },
+         "place_id" : "ChIJ-60_9e_AGDkRjLLNwR_QsyE",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sheikhupura",
+               "short_name" : "Sheikhupura",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sheikhupura, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.06100290000001,
+                  "lng" : 74.69156459999999
+               },
+               "southwest" : {
+                  "lat" : 31.3647049,
+                  "lng" : 73.62607679999999
+               }
+            },
+            "location" : {
+               "lat" : 31.624306,
+               "lng" : 74.12399599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.06100290000001,
+                  "lng" : 74.69156459999999
+               },
+               "southwest" : {
+                  "lat" : 31.3647049,
+                  "lng" : 73.62607679999999
+               }
+            }
+         },
+         "place_id" : "ChIJjROUl2TuGDkRZbSzM-u3lwk",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

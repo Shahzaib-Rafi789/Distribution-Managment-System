@@ -1,0 +1,622 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "3CFG+22G Waijh, Pakistan",
+      "global_code" : "8J4J3CFG+22G"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3CCG+G77",
+               "short_name" : "3CCG+G77",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Vijh",
+               "short_name" : "Vijh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shahpur",
+               "short_name" : "Shahpur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "3CCG+G77, Vijh, Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0713307,
+                  "lng" : 72.42576319999999
+               },
+               "southwest" : {
+                  "lat" : 32.0712509,
+                  "lng" : 72.4256541
+               }
+            },
+            "location" : {
+               "lat" : 32.0713019,
+               "lng" : 72.4256874
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0726397802915,
+                  "lng" : 72.4270576302915
+               },
+               "southwest" : {
+                  "lat" : 32.0699418197085,
+                  "lng" : 72.42435966970849
+               }
+            }
+         },
+         "place_id" : "ChIJH4-WtDJpITkRr6Y1jwMbDNQ",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3CFG+22",
+               "short_name" : "3CFG+22",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Waijh",
+               "short_name" : "Waijh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shahpur",
+               "short_name" : "Shahpur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "3CFG+22 Waijh, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.072625,
+                  "lng" : 72.42512499999999
+               },
+               "southwest" : {
+                  "lat" : 32.0725,
+                  "lng" : 72.425
+               }
+            },
+            "location" : {
+               "lat" : 32.0725746,
+               "lng" : 72.42507809999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.07391148029149,
+                  "lng" : 72.42641148029151
+               },
+               "southwest" : {
+                  "lat" : 32.07121351970849,
+                  "lng" : 72.4237135197085
+               }
+            }
+         },
+         "place_id" : "GhIJmMLeH0oJQEARu2_GejQbUkA",
+         "plus_code" : {
+            "compound_code" : "3CFG+22 Waijh, Pakistan",
+            "global_code" : "8J4J3CFG+22"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3CCG+63P",
+               "short_name" : "3CCG+63P",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Old Bazar Road",
+               "short_name" : "Old Bazar Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vijh",
+               "short_name" : "Vijh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shahpur",
+               "short_name" : "Shahpur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "3CCG+63P, Old Bazar Rd, Vijh, Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.0705847,
+               "lng" : 72.4251898
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0719336802915,
+                  "lng" : 72.42653878029151
+               },
+               "southwest" : {
+                  "lat" : 32.0692357197085,
+                  "lng" : 72.4238408197085
+               }
+            }
+         },
+         "place_id" : "ChIJ7esXrzJpITkRAtU0c8aaDlY",
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vijh",
+               "short_name" : "Vijh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shahpur",
+               "short_name" : "Shahpur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Vijh, Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0736356,
+                  "lng" : 72.4250309
+               },
+               "southwest" : {
+                  "lat" : 32.0722708,
+                  "lng" : 72.4244801
+               }
+            },
+            "location" : {
+               "lat" : 32.0729547,
+               "lng" : 72.4247451
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0743021802915,
+                  "lng" : 72.4261044802915
+               },
+               "southwest" : {
+                  "lat" : 32.0716042197085,
+                  "lng" : 72.42340651970849
+               }
+            }
+         },
+         "place_id" : "ChIJ6XxLTjNpITkRnmjHv1Zly5M",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vijh",
+               "short_name" : "Vijh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shahpur",
+               "short_name" : "Shahpur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vijh, Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0727928,
+                  "lng" : 72.433269
+               },
+               "southwest" : {
+                  "lat" : 32.0610097,
+                  "lng" : 72.41629589999999
+               }
+            },
+            "location" : {
+               "lat" : 32.0686265,
+               "lng" : 72.42433510000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0727928,
+                  "lng" : 72.433269
+               },
+               "southwest" : {
+                  "lat" : 32.0610097,
+                  "lng" : 72.41629589999999
+               }
+            }
+         },
+         "place_id" : "ChIJvcfr2yxpITkRPB3x_5NRJXY",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Waijh",
+               "short_name" : "Waijh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shahpur",
+               "short_name" : "Shahpur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Waijh, Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0758565,
+                  "lng" : 72.4328723
+               },
+               "southwest" : {
+                  "lat" : 32.0623029,
+                  "lng" : 72.41533149999999
+               }
+            },
+            "location" : {
+               "lat" : 32.0686265,
+               "lng" : 72.42433510000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0758565,
+                  "lng" : 72.4328723
+               },
+               "southwest" : {
+                  "lat" : 32.0623029,
+                  "lng" : 72.41533149999999
+               }
+            }
+         },
+         "place_id" : "ChIJ1zEbaS1pITkRKte3Cog4OPc",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sultanpur",
+               "short_name" : "Sultanpur",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sultanpur, Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0967474,
+                  "lng" : 72.44302929999999
+               },
+               "southwest" : {
+                  "lat" : 32.002068,
+                  "lng" : 72.33986709999999
+               }
+            },
+            "location" : {
+               "lat" : 32.0431371,
+               "lng" : 72.39030529999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0967474,
+                  "lng" : 72.44302929999999
+               },
+               "southwest" : {
+                  "lat" : 32.002068,
+                  "lng" : 72.33986709999999
+               }
+            }
+         },
+         "place_id" : "ChIJUXuiXONoITkRFaOIk3F7k3k",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shahpur",
+               "short_name" : "Shahpur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shahpur, Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.398447,
+                  "lng" : 72.732675
+               },
+               "southwest" : {
+                  "lat" : 32.002398,
+                  "lng" : 72.325019
+               }
+            },
+            "location" : {
+               "lat" : 32.2553728,
+               "lng" : 72.5678041
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.398447,
+                  "lng" : 72.732675
+               },
+               "southwest" : {
+                  "lat" : 32.002398,
+                  "lng" : 72.325019
+               }
+            }
+         },
+         "place_id" : "ChIJrYvPKaxyITkRdgBDrQkvuUY",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.5712785,
+                  "lng" : 73.31019239999999
+               },
+               "southwest" : {
+                  "lat" : 31.5566249,
+                  "lng" : 72.21704679999999
+               }
+            },
+            "location" : {
+               "lat" : 32.156592,
+               "lng" : 72.8042797
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.5712785,
+                  "lng" : 73.31019239999999
+               },
+               "southwest" : {
+                  "lat" : 31.5566249,
+                  "lng" : 72.21704679999999
+               }
+            }
+         },
+         "place_id" : "ChIJ0S6JJZadITkRmlmemFkTNjk",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

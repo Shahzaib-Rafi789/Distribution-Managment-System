@@ -1,0 +1,229 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJR3tF4L8FGTkRPp8LHrgI5Ng",
+         "types" : [ "establishment", "point_of_interest", "police" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJyy4QPO0FGTkRxqIRIzX1YHs",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 31.5025594,
+               "lng" : 74.39211539999999
+            },
+            "southwest" : {
+               "lat" : 31.495977,
+               "lng" : 74.37617329999999
+            }
+         },
+         "copyrights" : "Map data ©2022",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.0 km",
+                  "value" : 2991
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 429
+               },
+               "end_address" : "Bedian Rd, Cantt, Lahore, Punjab, Pakistan",
+               "end_location" : {
+                  "lat" : 31.5005109,
+                  "lng" : 74.39113519999999
+               },
+               "start_address" : "G92J+VPM, Walton Cantt Board Officers Housing Society Cantt, Lahore, Punjab, Pakistan",
+               "start_location" : {
+                  "lat" : 31.5021347,
+                  "lng" : 74.3802086
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 219
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 31.5025594,
+                        "lng" : 74.37822319999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e toward \u003cb\u003eWalton Road\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "iwg_Eik~dMU?]DC@C@CDABADKfECbAAfB"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5021347,
+                        "lng" : 74.3802086
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 680
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 79
+                     },
+                     "end_location" : {
+                        "lat" : 31.4968755,
+                        "lng" : 74.37617329999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eWalton Road\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_zg_E{~}dMt@?x@M\\?d@?~@BtANR?\\AL@LDDBt@RvA^pCr@lA`@bBr@x@d@pAz@^Tn@n@b@b@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5025594,
+                        "lng" : 74.37822319999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1067
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 139
+                     },
+                     "end_location" : {
+                        "lat" : 31.4960135,
+                        "lng" : 74.3870836
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eFaisal Ghuman Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Family Welfare Center (FWC) CWC (on the left in 700m)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ovf_Ear}dMV?FAHCHCDEDIDK@G@Q@q@BkE@q@FuEB}A@uH?cC?k@?c@FuBF{AHmE?GDa@BSBMLo@BOBUBu@@w@DwBBoD"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4968755,
+                        "lng" : 74.37617329999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 468
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 85
+                     },
+                     "end_location" : {
+                        "lat" : 31.495977,
+                        "lng" : 74.39197999999999
+                     },
+                     "html_instructions" : "Continue straight past Raja Autos onto \u003cb\u003eHazrat Sher Rabbani Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Nishat Honda Centre (on the right)\u003c/div\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "aqf_Egv_eMGECEAEAEASAU?u@DgBD}@BgA?k@?yAA_BHgF?M@_@A_A@Q?_@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4960135,
+                        "lng" : 74.3870836
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 212
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 31.4978784,
+                        "lng" : 74.39211539999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at Ghousia Store",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{pf_E{t`eMcAAE?s@Ai@AK?UCYCy@Cs@Ci@E"
+                     },
+                     "start_location" : {
+                        "lat" : 31.495977,
+                        "lng" : 74.39197999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 122
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : 31.49851989999999,
+                        "lng" : 74.3910953
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "w|f_Ewu`eMEVAFINIPMRMVST[\\IJM\\"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4978784,
+                        "lng" : 74.39211539999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 223
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 45
+                     },
+                     "end_location" : {
+                        "lat" : 31.5005109,
+                        "lng" : 74.39113519999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "w`g_Eko`eMCAMAw@KYCy@A]CM?a@?m@@}@Fu@F"
+                     },
+                     "start_location" : {
+                        "lat" : 31.49851989999999,
+                        "lng" : 74.3910953
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "iwg_Eik~dMs@DGBEHMlEEjDt@?x@MbA?~@BtANp@AZFz@VhFrApDtAjC`B^Tn@n@b@b@V?PENIJUBYNeODsK?oDXcMDi@Fa@P_AFkAFoDBoDGEEKCYAkAJeDBsBAyDHuF?_B@q@iAA_CGqDQG^S`@[j@o@r@Wh@QCqAOwAEo@?kBHu@F"
+         },
+         "summary" : "Faisal Ghuman Rd",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,651 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "HC42+X8M Lahore, Pakistan",
+      "global_code" : "8J3PHC42+X8M"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "HC52+3G6",
+               "short_name" : "HC52+3G6",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Ghaziabad",
+               "short_name" : "Ghaziabad",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lahore Cantt",
+               "short_name" : "Lahore Cantt",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "HC52+3G6, Ghaziabad, Lahore, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.5577499,
+                  "lng" : 74.40136620000001
+               },
+               "southwest" : {
+                  "lat" : 31.5576042,
+                  "lng" : 74.4012341
+               }
+            },
+            "location" : {
+               "lat" : 31.5576984,
+               "lng" : 74.4012864
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.5590260302915,
+                  "lng" : 74.40264913029151
+               },
+               "southwest" : {
+                  "lat" : 31.5563280697085,
+                  "lng" : 74.3999511697085
+               }
+            }
+         },
+         "place_id" : "ChIJNU_OuFkFGTkRq4nGC_xfVTI",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "289",
+               "short_name" : "289",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Main Rd",
+               "short_name" : "Main Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "C Block",
+               "short_name" : "C Block",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ghaziabad",
+               "short_name" : "Ghaziabad",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lahore Cantt",
+               "short_name" : "Lahore Cantt",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "289 Main Rd, C Block Ghaziabad, Lahore, Punjab, Pakistan",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.5570045,
+               "lng" : 74.4011491
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.55835348029149,
+                  "lng" : 74.40249808029151
+               },
+               "southwest" : {
+                  "lat" : 31.5556555197085,
+                  "lng" : 74.3998001197085
+               }
+            }
+         },
+         "place_id" : "ChIJ01dOan8FGTkRbAuBFLtaPso",
+         "plus_code" : {
+            "compound_code" : "HC42+RF Lahore, Pakistan",
+            "global_code" : "8J3PHC42+RF"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "HC42+X8",
+               "short_name" : "HC42+X8",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "HC42+X8 Lahore, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.5575,
+                  "lng" : 74.400875
+               },
+               "southwest" : {
+                  "lat" : 31.557375,
+                  "lng" : 74.40075
+               }
+            },
+            "location" : {
+               "lat" : 31.5574742,
+               "lng" : 74.4007874
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.5587864802915,
+                  "lng" : 74.4021614802915
+               },
+               "southwest" : {
+                  "lat" : 31.5560885197085,
+                  "lng" : 74.39946351970849
+               }
+            }
+         },
+         "place_id" : "GhIJH10RobaOP0ARh-kxgKaZUkA",
+         "plus_code" : {
+            "compound_code" : "HC42+X8 Lahore, Pakistan",
+            "global_code" : "8J3PHC42+X8"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kashmir Road",
+               "short_name" : "Kashmir Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ghaziabad",
+               "short_name" : "Ghaziabad",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lahore Cantt",
+               "short_name" : "Lahore Cantt",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kashmir Rd, Ghaziabad, Lahore, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.5575762,
+                  "lng" : 74.40119419999999
+               },
+               "southwest" : {
+                  "lat" : 31.5572507,
+                  "lng" : 74.4011
+               }
+            },
+            "location" : {
+               "lat" : 31.5574135,
+               "lng" : 74.4011471
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.5587624302915,
+                  "lng" : 74.4024960802915
+               },
+               "southwest" : {
+                  "lat" : 31.5560644697085,
+                  "lng" : 74.39979811970849
+               }
+            }
+         },
+         "place_id" : "ChIJJ5HOlVkFGTkRRttm2aeyDz8",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Al-faisal Town",
+               "short_name" : "Al-faisal Town",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lahore Cantt",
+               "short_name" : "Lahore Cantt",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Al-faisal Town, Lahore, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.5575949,
+                  "lng" : 74.4118677
+               },
+               "southwest" : {
+                  "lat" : 31.546421,
+                  "lng" : 74.40005859999999
+               }
+            },
+            "location" : {
+               "lat" : 31.5524731,
+               "lng" : 74.4041953
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.5575949,
+                  "lng" : 74.4118677
+               },
+               "southwest" : {
+                  "lat" : 31.546421,
+                  "lng" : 74.40005859999999
+               }
+            }
+         },
+         "place_id" : "ChIJSyeniPUPGTkRx_TN1hjN9XM",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ghaziabad",
+               "short_name" : "Ghaziabad",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lahore Cantt",
+               "short_name" : "Lahore Cantt",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ghaziabad, Lahore, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.5620744,
+                  "lng" : 74.4062026
+               },
+               "southwest" : {
+                  "lat" : 31.5527189,
+                  "lng" : 74.38880709999999
+               }
+            },
+            "location" : {
+               "lat" : 31.5573088,
+               "lng" : 74.3983317
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.5620744,
+                  "lng" : 74.4062026
+               },
+               "southwest" : {
+                  "lat" : 31.5527189,
+                  "lng" : 74.38880709999999
+               }
+            }
+         },
+         "place_id" : "ChIJn8Lgr1oFGTkROWRois0_HX8",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lahore Cantt",
+               "short_name" : "Lahore Cantt",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lahore Cantt, Lahore, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.7326737,
+                  "lng" : 74.64111319999999
+               },
+               "southwest" : {
+                  "lat" : 31.281605,
+                  "lng" : 74.2479031
+               }
+            },
+            "location" : {
+               "lat" : 31.53204,
+               "lng" : 74.4525627
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.7326737,
+                  "lng" : 74.64111319999999
+               },
+               "southwest" : {
+                  "lat" : 31.281605,
+                  "lng" : 74.2479031
+               }
+            }
+         },
+         "place_id" : "ChIJJ75MHRkPGTkRJIDFq6b2v2k",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lahore, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.69848649999999,
+                  "lng" : 74.55323989999999
+               },
+               "southwest" : {
+                  "lat" : 31.2673942,
+                  "lng" : 74.1155387
+               }
+            },
+            "location" : {
+               "lat" : 31.5203696,
+               "lng" : 74.35874729999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.69848649999999,
+                  "lng" : 74.55323989999999
+               },
+               "southwest" : {
+                  "lat" : 31.2673942,
+                  "lng" : 74.1155387
+               }
+            }
+         },
+         "place_id" : "ChIJ2QeB5YMEGTkRYiR-zGy-OsI",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lahore, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.7326739,
+                  "lng" : 74.64111319999999
+               },
+               "southwest" : {
+                  "lat" : 31.2543339,
+                  "lng" : 74.0068495
+               }
+            },
+            "location" : {
+               "lat" : 31.4312704,
+               "lng" : 74.35874729999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.7326739,
+                  "lng" : 74.64111319999999
+               },
+               "southwest" : {
+                  "lat" : 31.2543339,
+                  "lng" : 74.0068495
+               }
+            }
+         },
+         "place_id" : "ChIJNfyfu-sDGTkRca4X8W4UGb4",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,301 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJLyvT_PVNIzkRMFYQ4ETaimY",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ11K7JeVLIzkR1izkc6zeZCU",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 30.4746836,
+               "lng" : 72.2488396
+            },
+            "southwest" : {
+               "lat" : 30.4511896,
+               "lng" : 72.13623819999999
+            }
+         },
+         "copyrights" : "Map data ©2022",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "12.0 km",
+                  "value" : 11997
+               },
+               "duration" : {
+                  "text" : "27 mins",
+                  "value" : 1628
+               },
+               "end_address" : "Unnamed Road, Khanewal, Punjab, Pakistan",
+               "end_location" : {
+                  "lat" : 30.47468259999999,
+                  "lng" : 72.2488396
+               },
+               "start_address" : "Unnamed Road, Khanewal, Punjab, Pakistan",
+               "start_location" : {
+                  "lat" : 30.4519026,
+                  "lng" : 72.13623819999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1.3 km",
+                        "value" : 1341
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 205
+                     },
+                     "end_location" : {
+                        "lat" : 30.4512015,
+                        "lng" : 72.1493706
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "kszxDobhwLA}A?WCqEAm@AoB?_D?mC?QAeB?cAA}A?_A?a@@eBAiA?oD?{BAeC?c@A}ECyFCcE?kB@G@EBE@ABAJAp@Cl@A^AB?BAB?"
+                     },
+                     "start_location" : {
+                        "lat" : 30.4519026,
+                        "lng" : 72.13623819999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.9 km",
+                        "value" : 2868
+                     },
+                     "duration" : {
+                        "text" : "8 mins",
+                        "value" : 455
+                     },
+                     "end_location" : {
+                        "lat" : 30.465847,
+                        "lng" : 72.1735329
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_ozxDqtjwL@E?C@C?EAEmAaFcAkEaAcEOk@o@kCsAoFmAeFOo@q@qCm@{BSk@Qc@Sc@Wg@_@q@_A{AgBeCsAoBiAcB{ImMcD}Ek@w@qF_IuB{CqGqJi@s@aCcD_CmDiD_FyGkJ"
+                     },
+                     "start_location" : {
+                        "lat" : 30.4512015,
+                        "lng" : 72.1493706
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "13 m",
+                        "value" : 13
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 30.465745,
+                        "lng" : 72.1735884
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qj}xDqkowLTK"
+                     },
+                     "start_location" : {
+                        "lat" : 30.465847,
+                        "lng" : 72.1735329
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.2 km",
+                        "value" : 1206
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 267
+                     },
+                     "end_location" : {
+                        "lat" : 30.471569,
+                        "lng" : 72.18399160000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{i}xD}kowLEIuCgFGMq@yAyCwGuEeK}AiDOYOOCAIE_@Oo@a@c@y@_@}Ek@}@]m@S_@[o@_BuDmAoC"
+                     },
+                     "start_location" : {
+                        "lat" : 30.465745,
+                        "lng" : 72.1735884
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "32 m",
+                        "value" : 32
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 30.47128489999999,
+                        "lng" : 72.1839956
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at WASEEM SABZI WALA toward \u003cb\u003eRaja Bhai Jan Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "in~xD}lqwLn@AH?"
+                     },
+                     "start_location" : {
+                        "lat" : 30.471569,
+                        "lng" : 72.18399160000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "5.7 km",
+                        "value" : 5675
+                     },
+                     "duration" : {
+                        "text" : "10 mins",
+                        "value" : 579
+                     },
+                     "end_location" : {
+                        "lat" : 30.4717836,
+                        "lng" : 72.2432032
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eRaja Bhai Jan Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Govt. Hospital (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ol~xD_mqwLAE?cE?]AgB?aAAmC?mCAiC?}BCuNAwJAwJAqKAmDAqHAkFAiMAmIIuVGqTAcHA}K?aCEsPA}HAsJC_GAkME{R?S?cB?o@AcBA{D?cD?uA?aBCuG?GC}ICgKCkH?I?AAcCAgB?iEC}F"
+                     },
+                     "start_location" : {
+                        "lat" : 30.47128489999999,
+                        "lng" : 72.1839956
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 314
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 30.4746082,
+                        "lng" : 72.2431721
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "so~xD__}wLuPD"
+                     },
+                     "start_location" : {
+                        "lat" : 30.4717836,
+                        "lng" : 72.2432032
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 537
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 56
+                     },
+                     "end_location" : {
+                        "lat" : 30.4746358,
+                        "lng" : 72.24877769999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ia_yDy~|wL?{H?kGEyO"
+                     },
+                     "start_location" : {
+                        "lat" : 30.4746082,
+                        "lng" : 72.2431721
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "5 m",
+                        "value" : 5
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 30.4746836,
+                        "lng" : 72.2487768
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "oa_yD{a~wLG?"
+                     },
+                     "start_location" : {
+                        "lat" : 30.4746358,
+                        "lng" : 72.24877769999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "6 m",
+                        "value" : 6
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 30.47468259999999,
+                        "lng" : 72.2488396
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "wa_yD{a~wL?K"
+                     },
+                     "start_location" : {
+                        "lat" : 30.4746836,
+                        "lng" : 72.2487768
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "kszxDobhwLGuJAoLCgI@gCAyFCcOG}L@sBDKDCjCIFADE?SeMoh@_BmGe@oAk@kA_BmCaRgXwPqV{HeLaGqIcMkQTKEI}CuFkEqJsHoP_@i@MG_@Oo@a@c@y@_@}EiAkBS_@{BeFmAoCn@AH?AE?aFAiDCcPQmwAUy_AIqk@Mcz@Kwf@Kub@C}FuPD?gQEyOG??K"
+         },
+         "summary" : "Raja Bhai Jan Rd",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

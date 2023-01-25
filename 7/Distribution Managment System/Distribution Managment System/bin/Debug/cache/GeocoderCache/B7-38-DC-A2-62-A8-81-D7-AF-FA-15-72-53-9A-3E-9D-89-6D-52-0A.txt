@@ -1,0 +1,721 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "H84G+FQR Lahore, Pakistan",
+      "global_code" : "8J3PH84G+FQR"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lahore Zoo",
+               "short_name" : "Lahore Zoo",
+               "types" : [ "establishment", "point_of_interest" ]
+            },
+            {
+               "long_name" : "H84G+GJ5",
+               "short_name" : "H84G+GJ5",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Jubilee Town",
+               "short_name" : "Jubilee Town",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lahore Cantt",
+               "short_name" : "Lahore Cantt",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "54000",
+               "short_name" : "54000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "H84G+GJ5 Lahore Zoo, Jubilee Town, Lahore, Punjab 54000, Pakistan",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.5562704,
+               "lng" : 74.3266046
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.5576193802915,
+                  "lng" : 74.32795358029151
+               },
+               "southwest" : {
+                  "lat" : 31.5549214197085,
+                  "lng" : 74.3252556197085
+               }
+            }
+         },
+         "place_id" : "ChIJIVXboWsFGTkRvLz2f0UxW0s",
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "H84G+C8H",
+               "short_name" : "H84G+C8H",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Jubilee Town",
+               "short_name" : "Jubilee Town",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lahore Cantt",
+               "short_name" : "Lahore Cantt",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "54000",
+               "short_name" : "54000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "H84G+C8H, Jubilee Town, Lahore, Punjab 54000, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.5561504,
+                  "lng" : 74.3261929
+               },
+               "southwest" : {
+                  "lat" : 31.5557862,
+                  "lng" : 74.32559549999999
+               }
+            },
+            "location" : {
+               "lat" : 31.5559498,
+               "lng" : 74.3257995
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.5573172802915,
+                  "lng" : 74.3272431802915
+               },
+               "southwest" : {
+                  "lat" : 31.5546193197085,
+                  "lng" : 74.3245452197085
+               }
+            }
+         },
+         "place_id" : "ChIJNfkVMLIEGTkRZzV6qolB4_4",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "H84G+FQ",
+               "short_name" : "H84G+FQ",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "H84G+FQ Lahore, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.55625,
+                  "lng" : 74.327
+               },
+               "southwest" : {
+                  "lat" : 31.556125,
+                  "lng" : 74.326875
+               }
+            },
+            "location" : {
+               "lat" : 31.55623079999999,
+               "lng" : 74.32688709999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.5575364802915,
+                  "lng" : 74.3282864802915
+               },
+               "southwest" : {
+                  "lat" : 31.5548385197085,
+                  "lng" : 74.32558851970849
+               }
+            }
+         },
+         "place_id" : "GhIJJAdHJGWOP0AR_v7et-uUUkA",
+         "plus_code" : {
+            "compound_code" : "H84G+FQ Lahore, Pakistan",
+            "global_code" : "8J3PH84G+FQ"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jubilee Town",
+               "short_name" : "Jubilee Town",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lahore Cantt",
+               "short_name" : "Lahore Cantt",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "54000",
+               "short_name" : "54000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Jubilee Town, Lahore, Punjab 54000, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.5563251,
+                  "lng" : 74.3269698
+               },
+               "southwest" : {
+                  "lat" : 31.5557385,
+                  "lng" : 74.3266407
+               }
+            },
+            "location" : {
+               "lat" : 31.5559765,
+               "lng" : 74.3266763
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.5573807802915,
+                  "lng" : 74.3281542302915
+               },
+               "southwest" : {
+                  "lat" : 31.5546828197085,
+                  "lng" : 74.3254562697085
+               }
+            }
+         },
+         "place_id" : "ChIJu8ZB0rMEGTkRCPpnQ8okpoc",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jubilee Town",
+               "short_name" : "Jubilee Town",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lahore Cantt",
+               "short_name" : "Lahore Cantt",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "54000",
+               "short_name" : "54000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jubilee Town, Lahore, Punjab 54000, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.5592232,
+                  "lng" : 74.33577439999999
+               },
+               "southwest" : {
+                  "lat" : 31.5419497,
+                  "lng" : 74.31382429999999
+               }
+            },
+            "location" : {
+               "lat" : 31.5525146,
+               "lng" : 74.32648690000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.5592232,
+                  "lng" : 74.33577439999999
+               },
+               "southwest" : {
+                  "lat" : 31.5419497,
+                  "lng" : 74.31382429999999
+               }
+            }
+         },
+         "place_id" : "ChIJmyd6FLAEGTkRz2mXrFQ190A",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Race Course",
+               "short_name" : "Race Course",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lahore Cantt",
+               "short_name" : "Lahore Cantt",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Race Course, Lahore, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.5664919,
+                  "lng" : 74.349688
+               },
+               "southwest" : {
+                  "lat" : 31.5401624,
+                  "lng" : 74.3148527
+               }
+            },
+            "location" : {
+               "lat" : 31.5532484,
+               "lng" : 74.3323529
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.5664919,
+                  "lng" : 74.349688
+               },
+               "southwest" : {
+                  "lat" : 31.5401624,
+                  "lng" : 74.3148527
+               }
+            }
+         },
+         "place_id" : "ChIJpS-V_7YEGTkRmUqqOQ0DbSM",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "54000",
+               "short_name" : "54000",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lahore, Punjab 54000, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.60925569999999,
+                  "lng" : 74.408593
+               },
+               "southwest" : {
+                  "lat" : 31.472901,
+                  "lng" : 74.264883
+               }
+            },
+            "location" : {
+               "lat" : 31.5440886,
+               "lng" : 74.3839007
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.60925569999999,
+                  "lng" : 74.408593
+               },
+               "southwest" : {
+                  "lat" : 31.472901,
+                  "lng" : 74.264883
+               }
+            }
+         },
+         "place_id" : "ChIJRX3P62oFGTkRBviLWHxBNe0",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lahore Cantt",
+               "short_name" : "Lahore Cantt",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lahore Cantt, Lahore, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.7326737,
+                  "lng" : 74.64111319999999
+               },
+               "southwest" : {
+                  "lat" : 31.281605,
+                  "lng" : 74.2479031
+               }
+            },
+            "location" : {
+               "lat" : 31.53204,
+               "lng" : 74.4525627
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.7326737,
+                  "lng" : 74.64111319999999
+               },
+               "southwest" : {
+                  "lat" : 31.281605,
+                  "lng" : 74.2479031
+               }
+            }
+         },
+         "place_id" : "ChIJJ75MHRkPGTkRJIDFq6b2v2k",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lahore, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.69848649999999,
+                  "lng" : 74.55323989999999
+               },
+               "southwest" : {
+                  "lat" : 31.2673942,
+                  "lng" : 74.1155387
+               }
+            },
+            "location" : {
+               "lat" : 31.5203696,
+               "lng" : 74.35874729999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.69848649999999,
+                  "lng" : 74.55323989999999
+               },
+               "southwest" : {
+                  "lat" : 31.2673942,
+                  "lng" : 74.1155387
+               }
+            }
+         },
+         "place_id" : "ChIJ2QeB5YMEGTkRYiR-zGy-OsI",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lahore, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.7326739,
+                  "lng" : 74.64111319999999
+               },
+               "southwest" : {
+                  "lat" : 31.2543339,
+                  "lng" : 74.0068495
+               }
+            },
+            "location" : {
+               "lat" : 31.4312704,
+               "lng" : 74.35874729999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.7326739,
+                  "lng" : 74.64111319999999
+               },
+               "southwest" : {
+                  "lat" : 31.2543339,
+                  "lng" : 74.0068495
+               }
+            }
+         },
+         "place_id" : "ChIJNfyfu-sDGTkRca4X8W4UGb4",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

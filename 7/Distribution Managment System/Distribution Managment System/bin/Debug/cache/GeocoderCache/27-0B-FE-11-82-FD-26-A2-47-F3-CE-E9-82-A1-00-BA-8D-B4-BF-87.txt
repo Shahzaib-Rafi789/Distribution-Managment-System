@@ -1,0 +1,489 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "W7V4+22G Hindwan, Pakistan",
+      "global_code" : "8J3JW7V4+22G"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "W7V4+925",
+               "short_name" : "W7V4+925",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Nurpur",
+               "short_name" : "Nurpur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Khushab",
+               "short_name" : "Khushab",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "W7V4+925, Khushab, Punjab, Pakistan",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.9433755,
+               "lng" : 72.25510269999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9447244802915,
+                  "lng" : 72.25645168029149
+               },
+               "southwest" : {
+                  "lat" : 31.9420265197085,
+                  "lng" : 72.25375371970848
+               }
+            }
+         },
+         "place_id" : "ChIJHb0nT8ddITkRDd3JXLk3RMo",
+         "types" : [ "establishment", "point_of_interest", "primary_school", "school" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "W7V4+83R",
+               "short_name" : "W7V4+83R",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Nurpur",
+               "short_name" : "Nurpur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Khushab",
+               "short_name" : "Khushab",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "W7V4+83R, Khushab, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.9434499,
+                  "lng" : 72.25512920000001
+               },
+               "southwest" : {
+                  "lat" : 31.9433521,
+                  "lng" : 72.2550067
+               }
+            },
+            "location" : {
+               "lat" : 31.9434087,
+               "lng" : 72.25505769999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9447499802915,
+                  "lng" : 72.25641693029151
+               },
+               "southwest" : {
+                  "lat" : 31.9420520197085,
+                  "lng" : 72.25371896970849
+               }
+            }
+         },
+         "place_id" : "ChIJGaxScGFcITkRV3RVgAb27i4",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "W7V4+22",
+               "short_name" : "W7V4+22",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Hindwan",
+               "short_name" : "Hindwan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sahiwal (Sardogha)",
+               "short_name" : "Sahiwal (Sardogha)",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "W7V4+22 Hindwan, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.942625,
+                  "lng" : 72.25512499999999
+               },
+               "southwest" : {
+                  "lat" : 31.9425,
+                  "lng" : 72.255
+               }
+            },
+            "location" : {
+               "lat" : 31.9425746,
+               "lng" : 72.25507809999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9439114802915,
+                  "lng" : 72.25641148029149
+               },
+               "southwest" : {
+                  "lat" : 31.9412135197085,
+                  "lng" : 72.25371351970848
+               }
+            }
+         },
+         "place_id" : "GhIJTwqpkUzxP0ARQFsYM1MQUkA",
+         "plus_code" : {
+            "compound_code" : "W7V4+22 Hindwan, Pakistan",
+            "global_code" : "8J3JW7V4+22"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nurpur",
+               "short_name" : "Nurpur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Khushab",
+               "short_name" : "Khushab",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Khushab, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.9437882,
+                  "lng" : 72.2555217
+               },
+               "southwest" : {
+                  "lat" : 31.9430561,
+                  "lng" : 72.25542299999999
+               }
+            },
+            "location" : {
+               "lat" : 31.9434242,
+               "lng" : 72.2555026
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9447711302915,
+                  "lng" : 72.2568213302915
+               },
+               "southwest" : {
+                  "lat" : 31.9420731697085,
+                  "lng" : 72.25412336970849
+               }
+            }
+         },
+         "place_id" : "ChIJgZUGc2FcITkRrmnFSazUQVA",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jaura Kalan",
+               "short_name" : "Jaura Kalan",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Nurpur",
+               "short_name" : "Nurpur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Khushab",
+               "short_name" : "Khushab",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jaura Kalan, Khushab, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0109538,
+                  "lng" : 72.27946969999999
+               },
+               "southwest" : {
+                  "lat" : 31.8523248,
+                  "lng" : 72.14212909999999
+               }
+            },
+            "location" : {
+               "lat" : 31.91859449999999,
+               "lng" : 72.21269049999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0109538,
+                  "lng" : 72.27946969999999
+               },
+               "southwest" : {
+                  "lat" : 31.8523248,
+                  "lng" : 72.14212909999999
+               }
+            }
+         },
+         "place_id" : "ChIJA0Bm8aJbITkRI1w2YmE40SI",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nurpur",
+               "short_name" : "Nurpur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Khushab",
+               "short_name" : "Khushab",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nurpur, Khushab, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.2134421,
+                  "lng" : 72.28814199999999
+               },
+               "southwest" : {
+                  "lat" : 31.5302101,
+                  "lng" : 71.62501139999999
+               }
+            },
+            "location" : {
+               "lat" : 31.84487399999999,
+               "lng" : 71.8571331
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.2134421,
+                  "lng" : 72.28814199999999
+               },
+               "southwest" : {
+                  "lat" : 31.5302101,
+                  "lng" : 71.62501139999999
+               }
+            }
+         },
+         "place_id" : "ChIJG3IowE1TITkRolpo_M8cxgo",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khushab",
+               "short_name" : "Khushab",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khushab, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7130681,
+                  "lng" : 72.6641959
+               },
+               "southwest" : {
+                  "lat" : 31.5302101,
+                  "lng" : 71.62501139999999
+               }
+            },
+            "location" : {
+               "lat" : 32.3259122,
+               "lng" : 72.14161319999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7130681,
+                  "lng" : 72.6641959
+               },
+               "southwest" : {
+                  "lat" : 31.5302101,
+                  "lng" : 71.62501139999999
+               }
+            }
+         },
+         "place_id" : "ChIJLxN-009IITkRkCg_bdeC5GU",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

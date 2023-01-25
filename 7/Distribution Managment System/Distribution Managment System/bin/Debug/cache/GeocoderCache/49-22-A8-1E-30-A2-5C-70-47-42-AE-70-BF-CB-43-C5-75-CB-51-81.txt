@@ -1,0 +1,489 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "WWFP+22G Noorpur Thal, Pakistan",
+      "global_code" : "8J3HWWFP+22G"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "WWCM+VCG",
+               "short_name" : "WWCM+VCG",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Nurpur",
+               "short_name" : "Nurpur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Khushab",
+               "short_name" : "Khushab",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "WWCM+VCG, Khushab, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.9223655,
+                  "lng" : 71.933623
+               },
+               "southwest" : {
+                  "lat" : 31.922209,
+                  "lng" : 71.933543
+               }
+            },
+            "location" : {
+               "lat" : 31.9222862,
+               "lng" : 71.9335809
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9236362302915,
+                  "lng" : 71.93493198029151
+               },
+               "southwest" : {
+                  "lat" : 31.9209382697085,
+                  "lng" : 71.93223401970849
+               }
+            }
+         },
+         "place_id" : "ChIJrVPxqECtJjkRMd5CY9hC0lc",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "WWCM+VCM",
+               "short_name" : "WWCM+VCM",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Nurpur",
+               "short_name" : "Nurpur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Khushab",
+               "short_name" : "Khushab",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "WWCM+VCM, Khushab, Punjab, Pakistan",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.9222184,
+               "lng" : 71.93356110000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9235673802915,
+                  "lng" : 71.93491008029152
+               },
+               "southwest" : {
+                  "lat" : 31.9208694197085,
+                  "lng" : 71.93221211970851
+               }
+            }
+         },
+         "place_id" : "ChIJ1fRLDFCtJjkRydi5hILfHkw",
+         "types" : [ "establishment", "point_of_interest", "primary_school", "school" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "WWFP+22",
+               "short_name" : "WWFP+22",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Noorpur Thal",
+               "short_name" : "Noorpur Thal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nurpur",
+               "short_name" : "Nurpur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Khushab",
+               "short_name" : "Khushab",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "WWFP+22 Noorpur Thal, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.922625,
+                  "lng" : 71.935125
+               },
+               "southwest" : {
+                  "lat" : 31.9225,
+                  "lng" : 71.935
+               }
+            },
+            "location" : {
+               "lat" : 31.9225746,
+               "lng" : 71.9350781
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9239114802915,
+                  "lng" : 71.93641148029151
+               },
+               "southwest" : {
+                  "lat" : 31.92121351970851,
+                  "lng" : 71.9337135197085
+               }
+            }
+         },
+         "place_id" : "GhIJyh5X2S3sP0ARLK3QUdj7UUA",
+         "plus_code" : {
+            "compound_code" : "WWFP+22 Noorpur Thal, Pakistan",
+            "global_code" : "8J3HWWFP+22"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nurpur",
+               "short_name" : "Nurpur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Khushab",
+               "short_name" : "Khushab",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Khushab, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.9224859,
+                  "lng" : 71.93541859999999
+               },
+               "southwest" : {
+                  "lat" : 31.9222792,
+                  "lng" : 71.93478039999999
+               }
+            },
+            "location" : {
+               "lat" : 31.9223746,
+               "lng" : 71.9350956
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9237315302915,
+                  "lng" : 71.93644848029149
+               },
+               "southwest" : {
+                  "lat" : 31.9210335697085,
+                  "lng" : 71.93375051970848
+               }
+            }
+         },
+         "place_id" : "ChIJFY9mWEetJjkR7rq061aNVVQ",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Noor Pur",
+               "short_name" : "Noor Pur",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Nurpur",
+               "short_name" : "Nurpur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Khushab",
+               "short_name" : "Khushab",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Noor Pur, Khushab, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.9473312,
+                  "lng" : 71.9616205
+               },
+               "southwest" : {
+                  "lat" : 31.8031894,
+                  "lng" : 71.84291790000002
+               }
+            },
+            "location" : {
+               "lat" : 31.8703614,
+               "lng" : 71.8808499
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9473312,
+                  "lng" : 71.9616205
+               },
+               "southwest" : {
+                  "lat" : 31.8031894,
+                  "lng" : 71.84291790000002
+               }
+            }
+         },
+         "place_id" : "ChIJB0a3sF-sJjkRFlGIXaFpKAA",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nurpur",
+               "short_name" : "Nurpur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Khushab",
+               "short_name" : "Khushab",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nurpur, Khushab, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.2134421,
+                  "lng" : 72.28814199999999
+               },
+               "southwest" : {
+                  "lat" : 31.5302101,
+                  "lng" : 71.62501139999999
+               }
+            },
+            "location" : {
+               "lat" : 31.84487399999999,
+               "lng" : 71.8571331
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.2134421,
+                  "lng" : 72.28814199999999
+               },
+               "southwest" : {
+                  "lat" : 31.5302101,
+                  "lng" : 71.62501139999999
+               }
+            }
+         },
+         "place_id" : "ChIJG3IowE1TITkRolpo_M8cxgo",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khushab",
+               "short_name" : "Khushab",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khushab, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7130681,
+                  "lng" : 72.6641959
+               },
+               "southwest" : {
+                  "lat" : 31.5302101,
+                  "lng" : 71.62501139999999
+               }
+            },
+            "location" : {
+               "lat" : 32.3259122,
+               "lng" : 72.14161319999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7130681,
+                  "lng" : 72.6641959
+               },
+               "southwest" : {
+                  "lat" : 31.5302101,
+                  "lng" : 71.62501139999999
+               }
+            }
+         },
+         "place_id" : "ChIJLxN-009IITkRkCg_bdeC5GU",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

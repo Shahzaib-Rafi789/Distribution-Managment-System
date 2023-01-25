@@ -1,0 +1,434 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "42RW+JMH CHAK 27/kb, Pakistan",
+      "global_code" : "8J2M42RW+JMH"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "42RW+JM",
+               "short_name" : "42RW+JM",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "CHAK 27/kb",
+               "short_name" : "CHAK 27/kb",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arif Wala",
+               "short_name" : "Arif Wala",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Pakpattan",
+               "short_name" : "Pakpattan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "42RW+JM CHAK 27/kb, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.141625,
+                  "lng" : 73.04675
+               },
+               "southwest" : {
+                  "lat" : 30.1415,
+                  "lng" : 73.04662500000001
+               }
+            },
+            "location" : {
+               "lat" : 30.1415644,
+               "lng" : 73.04672239999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.1429114802915,
+                  "lng" : 73.04803648029151
+               },
+               "southwest" : {
+                  "lat" : 30.1402135197085,
+                  "lng" : 73.04533851970849
+               }
+            }
+         },
+         "place_id" : "GhIJIkeEkD0kPkARZv_yf_1CUkA",
+         "plus_code" : {
+            "compound_code" : "42RW+JM CHAK 27/kb, Pakistan",
+            "global_code" : "8J2M42RW+JM"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakpattan",
+               "short_name" : "Pakpattan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "CHAK 27/kb",
+               "short_name" : "CHAK 27/kb",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arif Wala",
+               "short_name" : "Arif Wala",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chak 27kb Road, CHAK 27/kb, Pakpattan, Punjab, Pakistan",
+         "geometry" : {
+            "location" : {
+               "lat" : 30.1392,
+               "lng" : 73.04679329999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.1405489802915,
+                  "lng" : 73.0481422802915
+               },
+               "southwest" : {
+                  "lat" : 30.1378510197085,
+                  "lng" : 73.04544431970849
+               }
+            }
+         },
+         "place_id" : "ChIJvQYIOcoVPTkROXZOYQkXdW0",
+         "plus_code" : {
+            "compound_code" : "42QW+MP CHAK 27/kb, Pakistan",
+            "global_code" : "8J2M42QW+MP"
+         },
+         "types" : [ "establishment", "point_of_interest", "school" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Arif Wala",
+               "short_name" : "Arif Wala",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Pakpattan",
+               "short_name" : "Pakpattan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Pakpattan, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.1423852,
+                  "lng" : 73.0476185
+               },
+               "southwest" : {
+                  "lat" : 30.1419011,
+                  "lng" : 73.0469628
+               }
+            },
+            "location" : {
+               "lat" : 30.1420791,
+               "lng" : 73.0472309
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.1434921302915,
+                  "lng" : 73.0486396302915
+               },
+               "southwest" : {
+                  "lat" : 30.1407941697085,
+                  "lng" : 73.04594166970848
+               }
+            }
+         },
+         "place_id" : "ChIJjbkdMnwVPTkRHjNxl0d6Y4Y",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Qaboola",
+               "short_name" : "Qaboola",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Arif Wala",
+               "short_name" : "Arif Wala",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Pakpattan",
+               "short_name" : "Pakpattan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Qaboola, Pakpattan, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.1653269,
+                  "lng" : 73.07374100000001
+               },
+               "southwest" : {
+                  "lat" : 30.1209752,
+                  "lng" : 73.03539409999999
+               }
+            },
+            "location" : {
+               "lat" : 30.1507188,
+               "lng" : 73.0464309
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.1653269,
+                  "lng" : 73.07374100000001
+               },
+               "southwest" : {
+                  "lat" : 30.1209752,
+                  "lng" : 73.03539409999999
+               }
+            }
+         },
+         "place_id" : "ChIJfQg0A2MVPTkRhE7nZ2xUvmg",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Arif Wala",
+               "short_name" : "Arif Wala",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Pakpattan",
+               "short_name" : "Pakpattan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Arif Wala, Pakpattan, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.485926,
+                  "lng" : 73.27243489999999
+               },
+               "southwest" : {
+                  "lat" : 29.9619919,
+                  "lng" : 72.83014799999999
+               }
+            },
+            "location" : {
+               "lat" : 30.2787202,
+               "lng" : 73.0405277
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.485926,
+                  "lng" : 73.27243489999999
+               },
+               "southwest" : {
+                  "lat" : 29.9619919,
+                  "lng" : 72.83014799999999
+               }
+            }
+         },
+         "place_id" : "ChIJaZIkWSU_PTkRGPCRIeu_Lss",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakpattan",
+               "short_name" : "Pakpattan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakpattan, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.611603,
+                  "lng" : 73.64800029999999
+               },
+               "southwest" : {
+                  "lat" : 29.9619919,
+                  "lng" : 72.83014799999999
+               }
+            },
+            "location" : {
+               "lat" : 30.2526507,
+               "lng" : 73.1821623
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.611603,
+                  "lng" : 73.64800029999999
+               },
+               "southwest" : {
+                  "lat" : 29.9619919,
+                  "lng" : 72.83014799999999
+               }
+            }
+         },
+         "place_id" : "ChIJf2RS3-haPTkRZIR3-oO4MrY",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,445 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "4C52+7VM Kasur, Pakistan",
+      "global_code" : "8J3P4C52+7VM"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4C53+85",
+               "short_name" : "4C53+85",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Kasur",
+               "short_name" : "Kasur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kasur",
+               "short_name" : "Kasur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Kasur",
+               "short_name" : "Kasur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "4C53+85, Kasur, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.1083452,
+                  "lng" : 74.4029958
+               },
+               "southwest" : {
+                  "lat" : 31.1081814,
+                  "lng" : 74.4028455
+               }
+            },
+            "location" : {
+               "lat" : 31.1082802,
+               "lng" : 74.40293559999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.10961228029149,
+                  "lng" : 74.40426963029149
+               },
+               "southwest" : {
+                  "lat" : 31.10691431970849,
+                  "lng" : 74.40157166970849
+               }
+            }
+         },
+         "place_id" : "ChIJa9yB11i3GTkRWSs-jTe3RPo",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "4C52+7V",
+               "short_name" : "4C52+7V",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Kasur",
+               "short_name" : "Kasur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kasur",
+               "short_name" : "Kasur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Kasur",
+               "short_name" : "Kasur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "4C52+7V Kasur, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.10825,
+                  "lng" : 74.40225
+               },
+               "southwest" : {
+                  "lat" : 31.10812499999999,
+                  "lng" : 74.402125
+               }
+            },
+            "location" : {
+               "lat" : 31.1082128,
+               "lng" : 74.4021606
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.10953648029149,
+                  "lng" : 74.40353648029149
+               },
+               "southwest" : {
+                  "lat" : 31.1068385197085,
+                  "lng" : 74.40083851970849
+               }
+            }
+         },
+         "place_id" : "GhIJMgKF1bMbP0ARWC_Q_7yZUkA",
+         "plus_code" : {
+            "compound_code" : "4C52+7V Kasur, Pakistan",
+            "global_code" : "8J3P4C52+7V"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sahari Road",
+               "short_name" : "Sahari Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kasur",
+               "short_name" : "Kasur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Kasur",
+               "short_name" : "Kasur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sahari Rd, Kasur, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.1085113,
+                  "lng" : 74.4027378
+               },
+               "southwest" : {
+                  "lat" : 31.1084763,
+                  "lng" : 74.40138329999999
+               }
+            },
+            "location" : {
+               "lat" : 31.1085104,
+               "lng" : 74.402061
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.1098427802915,
+                  "lng" : 74.4034095302915
+               },
+               "southwest" : {
+                  "lat" : 31.1071448197085,
+                  "lng" : 74.40071156970849
+               }
+            }
+         },
+         "place_id" : "ChIJ87NzRFm3GTkR2ttMOsZ3lDQ",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kasur-3",
+               "short_name" : "Kasur-3",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Kasur",
+               "short_name" : "Kasur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Kasur",
+               "short_name" : "Kasur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kasur-3, Kasur, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.1086006,
+                  "lng" : 74.41065789999999
+               },
+               "southwest" : {
+                  "lat" : 31.0841312,
+                  "lng" : 74.37689899999999
+               }
+            },
+            "location" : {
+               "lat" : 31.0960424,
+               "lng" : 74.3997976
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.1086006,
+                  "lng" : 74.41065789999999
+               },
+               "southwest" : {
+                  "lat" : 31.0841312,
+                  "lng" : 74.37689899999999
+               }
+            }
+         },
+         "place_id" : "ChIJM-bToGi3GTkRbPV53JJqGoA",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kasur",
+               "short_name" : "Kasur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Kasur",
+               "short_name" : "Kasur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kasur, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.3639261,
+                  "lng" : 74.6866788
+               },
+               "southwest" : {
+                  "lat" : 30.7762802,
+                  "lng" : 74.0350911
+               }
+            },
+            "location" : {
+               "lat" : 31.1130747,
+               "lng" : 74.3118212
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.3639261,
+                  "lng" : 74.6866788
+               },
+               "southwest" : {
+                  "lat" : 30.7762802,
+                  "lng" : 74.0350911
+               }
+            }
+         },
+         "place_id" : "ChIJPQk1cqu3GTkRJ54k6lyXN3g",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kasur",
+               "short_name" : "Kasur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kasur, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.3639261,
+                  "lng" : 74.6866788
+               },
+               "southwest" : {
+                  "lat" : 30.6487399,
+                  "lng" : 73.660612
+               }
+            },
+            "location" : {
+               "lat" : 31.0895947,
+               "lng" : 74.12399599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.3639261,
+                  "lng" : 74.6866788
+               },
+               "southwest" : {
+                  "lat" : 30.6487399,
+                  "lng" : 73.660612
+               }
+            }
+         },
+         "place_id" : "ChIJu8JeVVpKGDkRfgdjkWeeebs",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

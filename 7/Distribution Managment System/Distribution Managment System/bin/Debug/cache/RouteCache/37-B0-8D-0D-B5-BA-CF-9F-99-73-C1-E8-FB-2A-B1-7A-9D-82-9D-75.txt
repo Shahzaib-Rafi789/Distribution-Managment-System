@@ -1,0 +1,517 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJT5OdUBYBGTkR32j8udNqjlU",
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJgfsYeEYJGTkRMj_JKAL4yrU",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 31.4812834,
+               "lng" : 74.4817551
+            },
+            "southwest" : {
+               "lat" : 31.36683519999999,
+               "lng" : 74.2427029
+            }
+         },
+         "copyrights" : "Map data ©2022",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "39.2 km",
+                  "value" : 39239
+               },
+               "duration" : {
+                  "text" : "42 mins",
+                  "value" : 2542
+               },
+               "end_address" : "Plot 1073, Sector S Phase 7, Lahore, Punjab, Pakistan",
+               "end_location" : {
+                  "lat" : 31.4777683,
+                  "lng" : 74.4817551
+               },
+               "start_address" : "C6GV+J2X C-Block Park, Block C Punjab University Employees Chs, Lahore, Punjab, Pakistan",
+               "start_location" : {
+                  "lat" : 31.4273048,
+                  "lng" : 74.2427029
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 628
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 112
+                     },
+                     "end_location" : {
+                        "lat" : 31.4274392,
+                        "lng" : 74.2485027
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Punjab University Employees Housing Scheme Town II (on the right)\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "scy~D{ocdMLWd@_An@sAf@gAN_@|@qBHSFQDQBU@O?O@SASOe@Qm@uBuGOc@q@oBy@mB"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4273048,
+                        "lng" : 74.2427029
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "15 m",
+                        "value" : 15
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 2
+                     },
+                     "end_location" : {
+                        "lat" : 31.4273735,
+                        "lng" : 74.24864529999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at Estate Channel onto \u003cb\u003eTariq Ismaeel Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ody~DctddML]"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4274392,
+                        "lng" : 74.2485027
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 877
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 70
+                     },
+                     "end_location" : {
+                        "lat" : 31.43290649999999,
+                        "lng" : 74.25520910000002
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eKhayaban-e-Jinnah\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Sixteen standards (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ady~DauddMCEk@eA_@m@c@q@c@m@_@a@eAkAa@c@MMQSg@q@w@}@c@g@{@eACESYW_@EGSUW]EESWW_@SYECY[OSIIMMKMY[Y]IIKMmAyAY[gAuAOQaAgAKM"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4273735,
+                        "lng" : 74.24864529999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 145
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 31.4325222,
+                        "lng" : 74.2551753
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eKhayaban-e-Jinnah\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "ufz~Da~edMAOCKIOKKGIEIAI?EDGHCF@DFb@t@PTFJFFFBD?F?"
+                     },
+                     "start_location" : {
+                        "lat" : 31.43290649999999,
+                        "lng" : 74.25520910000002
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1112
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 85
+                     },
+                     "end_location" : {
+                        "lat" : 31.4260927,
+                        "lng" : 74.246292
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eKhayaban-e-Jinnah\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Consultancy Network (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "gdz~D{}edMHLhAbBHLb@n@pAlBLPPRpAtAHJNPvAjB~ArBd@n@|CnD`AfArA~ATZ^d@t@lAn@jADFZr@l@xAjAxCpArDHP"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4325222,
+                        "lng" : 74.2551753
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "78 m",
+                        "value" : 78
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 31.4254398,
+                        "lng" : 74.2460962
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003ePine Ave\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eValencia Main Blvd\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "a|x~DifddMPLLHLDJDNBPBPARC"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4260927,
+                        "lng" : 74.246292
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 1050
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 80
+                     },
+                     "end_location" : {
+                        "lat" : 31.4165356,
+                        "lng" : 74.2496519
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e at Madni Flowers onto \u003cb\u003ePine Ave\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eValencia Main Blvd\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "_xx~DceddMl@_@p@c@RMZKHEJCf@KPElE}@j@Mt@OxA]j@OfAYbBg@f@Ox@UpBk@lA_@NELEbAY\\Id@MxA]pBc@x@SLCf@OVIj@Wd@U^Ub@W"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4254398,
+                        "lng" : 74.2460962
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.5 km",
+                        "value" : 2531
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 170
+                     },
+                     "end_location" : {
+                        "lat" : 31.3939046,
+                        "lng" : 74.2482921
+                     },
+                     "html_instructions" : "At \u003cb\u003eValencia Roundabout\u003c/b\u003e, take the \u003cb\u003e2nd\u003c/b\u003e exit onto \u003cb\u003ePine Ave\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by ShaadiNama.pk (on the right)\u003c/div\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "k`w~Di{ddMDEBEBEDCDEDADCFAD?FAF@F?D@FBDBDB@@@??@@?@@@@~@DN?J?nA@lBCtHCnA@|D?dGDrD?~BBlBBxABlFNlAFtADbAFfBHj@BP@~@D|AHP@J@~AHlBHtAHbAFnADdCL`ADvAHzBJb@BfAFhCL|BJtAFfAFhBJbADd@B|@Dj@D`@@d@DjADb@BJ?V@J?ZA"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4165356,
+                        "lng" : 74.2496519
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.7 km",
+                        "value" : 2656
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 195
+                     },
+                     "end_location" : {
+                        "lat" : 31.3715072,
+                        "lng" : 74.2575665
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit onto \u003cb\u003eAlternate Raiwind Rd\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003ePine Ave\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Ali Paan Shop (on the left)\u003c/div\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "{rr~DyrddMFGHGHGHEHCJEHCJAFAFAH?F?H?F?F@H@@?@?@@@@j@]j@QvLsDzFcBbF{AfGkBvDkAnA_@vAe@|@YRE~Cy@XIhDiAlCw@dCw@nF_BXKrGkBlEqAfCm@rBk@@AJCFCz@WbD_AnNeElCy@VMNKLKVg@Pa@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.3939046,
+                        "lng" : 74.2482921
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 206
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : 31.3707158,
+                        "lng" : 74.2591932
+                     },
+                     "html_instructions" : "At \u003cb\u003eKhayaban-e-Amin Interchange Roundabout\u003c/b\u003e, take the \u003cb\u003e1st\u003c/b\u003e exit",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "}fn~DylfdMXm@ZWZMVEd@KFUBIBS@O@Q@m@A[A_@C]"
+                     },
+                     "start_location" : {
+                        "lat" : 31.3715072,
+                        "lng" : 74.2575665
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "69 m",
+                        "value" : 69
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 31.3705939,
+                        "lng" : 74.259704
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit onto the \u003cb\u003eLahore Ring Rd\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eL-20\u003c/b\u003e ramp\u003cdiv style=\"font-size:0.9em\"\u003eToll road\u003c/div\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "_bn~D}vfdMAAAACAACAAAA?AAAACAC?CAC?C?C?C?C@C?C@C@A@C?A@ABEDCDCDAD?D?BM"
+                     },
+                     "start_location" : {
+                        "lat" : 31.3707158,
+                        "lng" : 74.2591932
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "23.3 km",
+                        "value" : 23275
+                     },
+                     "duration" : {
+                        "text" : "18 mins",
+                        "value" : 1094
+                     },
+                     "end_location" : {
+                        "lat" : 31.465516,
+                        "lng" : 74.4315173
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e, follow signs for \u003cb\u003eLahore Ring Road\u003c/b\u003e and merge onto \u003cb\u003eLahore Ring Rd\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eL-20\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eToll road\u003c/div\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "ean~DczfdM`@cCRqA^}Bd@_Dn@{Cp@sC^}AVuA\\_CVwB\\gELwBLu@FMDg@JuEFuEPyFXaJDcBBkAR{GNcFNwGLwDFqADuARcDDy@BWP}BFi@Dg@NsAJeAHs@VuBP}ARgBD_@LeCDq@BmA@i@Ai@?i@?i@?[AMGiAKeBGy@c@eEUeAc@oBo@{Bm@aBkBgEoAwBa@o@eDeFS[q@eA_AyACE_AyAqAuB_DaFyAcCW_@cAaBe@y@GGe@u@CCi@{@EGoAsBOWuAuBcA_Bc@u@Ya@aAiB}@aBcCeGaAkCk@cB_A_Da@aBq@qCm@qDIw@c@sDSiBE_@IiAYmHCu@[{K[qKSoGEmA?ECi@G}BCw@AMAi@Ao@Cw@I}BG}BOoFe@cQ]cLC}@SuGOaFGiBKqDE}AGeBAWK}CCs@Cc@Ac@A]C}@EeB?EAQIgEOwEAw@?IKgESuG_@gI]mEIo@Q}AK_AE]Ko@Kg@ESOy@Su@I]Qo@e@eBa@uAy@}Bo@gBy@gBu@{A}@cB_AcBaA{AcDgE{B_C{AwAw@{@a@e@aBeBsBsBiBkByB{B}A}A}A}A}A_BaAiAuA}AoAmBIKcAgBq@qAA?KWUg@Si@KYQe@Oe@So@EOOe@[kACIK[YkAAAOw@EWa@iCOmAAKOiAEq@Ee@ACEsACi@IyBCmBA}@?aBA{B?C?yAAaACw@EuAIcBKwAMwAIi@Ku@U}ASoA[_B[yAUaAm@cBy@wBg@eAe@}@g@w@y@oAaAwAe@k@Y[A?s@w@]Wu@i@kA}@OKk@_@[Sc@Um@_@q@WkAe@YIgCw@gB]uAQA?wAOyAEM?uA?mB@mEFiBB{CB{EFoFFqDD_@?gA@eA@C?qCF_@?_@@cBD[Ac@?aC?M?c@AgAAo@?{@C_@AWAo@CwAIq@Ea@CYAyCYQCmBSiBW}ASwCg@{AYyGmA{@KgCc@iB[wDq@uB]MAQCQCyASyC]sBWmC]mCa@{Ca@[Ee@Ig@GcAOYCc@Go@Iy@I}ASs@IwFu@u@KiLuAoIeAmDi@y@KmC[_BSIAYCoAQYCsASc@GmBWoB_@aCWy@KuB]}AOcBES?c@?gA?gADi@Bg@BI?y@FWBc@FG?w@LE?w@PaAT{@Rq@N]J{A^A@UDs@Fk@DW?eA@Y?qACAA_AIIAy@IQCa@Ii@Gq@O{@YsAo@m@]eAq@IGYWYWCCs@q@]_@OQ_@e@Ye@Uc@Q_@o@yA]aAAE_@yAOy@Mk@Mo@WmCAEAIIeBA}AFaCJiCl@yGPqA`@cDD]V{BBKV}BlAoJl@sERiBRmBJ{AFyAFmB?gB?I?}AC}AIaCK_BQkBMoAWgB[mBi@mC}CuOESiAaGeAsFkA_GcB}H_@wAa@yAgAcD}@eCkCiFgCeE}BeDwAuBqByCkAgBeBgCcAyAcA{AaB}Bm@w@MU}@qAwMqSyCeF}AoCsBcEeCgEk@s@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.3705939,
+                        "lng" : 74.259704
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 276
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 31.4676118,
+                        "lng" : 74.433052
+                     },
+                     "html_instructions" : "Take the exit toward \u003cb\u003eShabbir Sharif Rd\u003c/b\u003e",
+                     "maneuver" : "ramp-left",
+                     "polyline" : {
+                        "points" : "or`_E_lheMYQW[YW{@i@q@g@q@g@mA{@]Qa@Qg@Q"
+                     },
+                     "start_location" : {
+                        "lat" : 31.465516,
+                        "lng" : 74.4315173
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 290
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 31.4677288,
+                        "lng" : 74.4315761
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e at the fork and merge onto \u003cb\u003eShabbir Sharif Rd\u003c/b\u003e",
+                     "maneuver" : "fork-right",
+                     "polyline" : {
+                        "points" : "q_a_EquheMm@W[MSES?M@MDGDEBIJGLGPEN@\\@TDPDTPh@Rd@TXd@`@p@Z"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4676118,
+                        "lng" : 74.433052
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 829
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 104
+                     },
+                     "end_location" : {
+                        "lat" : 31.4699584,
+                        "lng" : 74.43739269999999
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e4th\u003c/b\u003e exit and stay on \u003cb\u003eShabbir Sharif Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by sofa poshish (on the right)\u003c/div\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "i`a_EklheMJ@F?D@D?FD@BBB@DBF@D@F?J?HALABILEFEFGFIDKFIBI@[BK@GCEACACCCCACCGCIAG?I?I@G?KE]Ia@G_@K]EKGKGGGGKa@EUE[AUAO@MB[@SBg@?cA@u@?k@@]?e@Am@?e@?KC]?MCYG]I_@K_@O]Uc@OSIIUYu@}@[m@Uc@Se@CGQ]"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4677288,
+                        "lng" : 74.4315761
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.9 km",
+                        "value" : 1918
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 189
+                     },
+                     "end_location" : {
+                        "lat" : 31.4812004,
+                        "lng" : 74.452714
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eShabbir Sharif Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by My Hair Clinic (Lahore) (on the left in 1.3 km)\u003c/div\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "gna_EupieMQa@MSCIWg@Q_@IMEGWc@sAqBkBsC_CeDm@{@w@qAu@eAs@eAo@}@q@_AWa@W_@Wc@eAeBKOm@w@KOk@_Ae@q@c@o@SWkAeB]i@OSsCuDo@}@Wi@Ua@_GyIoDwFKOqHyKg@s@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4699584,
+                        "lng" : 74.43739269999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.7 km",
+                        "value" : 1715
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 185
+                     },
+                     "end_location" : {
+                        "lat" : 31.4755709,
+                        "lng" : 74.4681897
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at innox Aluminium office onto \u003cb\u003eAvenue 1\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "otc_EmpleMOUVQJIHGHKFIHMfAkA|@eAhIwIlGyGfA_ANKHI?APSFKDIFODMBOBU@OBa@F}BBa@Ds@b@gLJ}CFsBBk@LeBJmCRmEFyAF}AHuAH}BFsBFaA"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4812004,
+                        "lng" : 74.452714
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 291
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 31.4780194,
+                        "lng" : 74.4687414
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eAvenue 8\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "iqb_EeqoeMGWCGEIEGCEMM_Mg@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4755709,
+                        "lng" : 74.4681897
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.3 km",
+                        "value" : 1278
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 116
+                     },
+                     "end_location" : {
+                        "lat" : 31.4777683,
+                        "lng" : 74.4817551
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAvenue 10\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by JAAN.M STUDIO ® (on the left)\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "s`c_EstoeMUAB[D{@|@qTL{CJuCLmBDg@Bi@FoBFcADmALqCJqC@S@a@@SASG_@EQWy@Uc@U_@]e@CCMa@Ke@G[?g@@e@@aADo@@QHs@Ho@BQ@IHW?A"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4780194,
+                        "lng" : 74.4687414
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "scy~D{ocdMjCsF~AwDJgA?g@a@sAeCyHkB}EL]CEkAsBgA_BeBmBiBwB{CqDeAwAmCiD{DqEsDkEKMAOM[SUGSDMPAbA~ANJL?`CnD~A~BbBhBpE|FxIfKt@`AdBxC`@z@xBrFzAdE^VXJ`@Fd@E~AcAdAc@rH}AbGwAfN_EnGyAfCq@pAm@bAm@RUXM\\?^PBBjDFbLGlG@fTLfIRbDLhFVbPx@`VhAxQ|@vDPjA?d@]j@O`@Cb@BD@l@[bNeE~[wJxFeBxDcAvHaCbToGlEqAfCm@tBm@rF_B|R_Gf@Yd@s@j@oAZWZM|@QPcAB_AC{@E_@ECEIEM@_@DITOJ?d@qCr@oEd@_Dn@{CpAqFt@uEt@_ILwBLu@Lu@RkLt@kW`Ao]f@eKb@gF|@cId@eEReDH_C?sAA}BSoDk@_Gy@uD}A}EkBgEoAwBgEuGiCaEkKuPcFaIyFaJ}DcHeEqKkBcGsAsFw@iFw@}GOiB]cJw@mX]mKOmFoByr@sAmc@WuI[aN_@}M_@gI]mEIo@]}Cc@iC_A}DgA{DiBeFoBcE}BgEaA{AcDgEwEwEyAaBuEyE_LcL_DiDuA}AoAmBmAsBs@qAaAcC{@kC{@wCq@}CcAmHSoDMcDEkDA{HEyBOyDYoDU_Bi@mDw@yDcAeDaB}DmAuB{BgDuB_CoDkCyCiB}B}@aDaA}Do@yAOgBEcE@oTVeWXcED{FCcDG{EWsHs@gEk@sFaAgQyCmIuAyJmAsMgBwKuAkWaD}NoBgEg@sEk@_Gw@oB_@aCWoDi@}AOwBEkB?qBHcCNiBTgFjAqCr@_BL}A@kBCaAKwBY{AWoCiAsBoAc@_@oBmBo@w@o@iAaBaEkAoFYsCKoBA}AFaCJiCl@yGr@uF\\yCvCmUf@wERuDFuE?gBM_F]kEe@wDeA{FsH_`@oD}PaAqDeCiHkCiFgCeEuE{G}DaGoI{L{@mAuOcVwFuJsBcEeCgEk@s@YQq@s@mFuD_Ac@uAi@o@Sa@@UJONO^Cl@Ff@V~@h@~@d@`@p@ZR@J@NRF`@AVKP]\\UJe@DSAICMSEe@@SO_AS}@MWOOQw@Gq@?]Do@BkBBeDE}BCg@Q}@[}@e@w@_@c@u@}@[m@i@iAUe@{@gBy@yAmJgNqE{GyBeDqAuBy@gAiCyDiBoCcDiEgAgBuG{J{DgGyImMOUVQTQbBoBfK}KlGyGfA_AXUPUZs@LwAt@{RRqGPqCn@sOb@iKWq@QSuMi@tAe\\XcGHqAb@sKP{EIs@]kAmAmBYgAG[?g@BgBFaAX_CHY"
+         },
+         "summary" : "Lahore Ring Rd/L-20",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

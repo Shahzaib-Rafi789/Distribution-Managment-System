@@ -1,0 +1,276 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJv2vjaasfGTkRH861UXLfEY4",
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJydYebeMaGTkRUvfIepkBV_0",
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 31.6593926,
+               "lng" : 74.3642466
+            },
+            "southwest" : {
+               "lat" : 31.5969632,
+               "lng" : 74.2817707
+            }
+         },
+         "copyrights" : "Map data ©2022",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "13.4 km",
+                  "value" : 13410
+               },
+               "duration" : {
+                  "text" : "34 mins",
+                  "value" : 2042
+               },
+               "end_address" : "H9W7+JFW, Tariq Shaheed Rd, Gujjar Pura Kot Khawaja Saeed, Lahore, Punjab 54000, Pakistan",
+               "end_location" : {
+                  "lat" : 31.5969632,
+                  "lng" : 74.3628035
+               },
+               "start_address" : "Plot # 10, Grand Trunk Rd, near THQ hospital, opposite to UBL, Kiranpark, Phase 1 Rachna Town, Ferozewala, Lahore, Punjab, Pakistan",
+               "start_location" : {
+                  "lat" : 31.6593926,
+                  "lng" : 74.2826853
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "87 m",
+                        "value" : 87
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 31.6593603,
+                        "lng" : 74.2817707
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e toward \u003cb\u003eGT Rd\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eNH 5\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eAH1\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eAH2\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Makki Goods Transport Co (on the right)\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "enf`EyikdM?tABhA@V"
+                     },
+                     "start_location" : {
+                        "lat" : 31.6593926,
+                        "lng" : 74.2826853
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "4.7 km",
+                        "value" : 4676
+                     },
+                     "duration" : {
+                        "text" : "11 mins",
+                        "value" : 657
+                     },
+                     "end_location" : {
+                        "lat" : 31.6179857,
+                        "lng" : 74.2905083
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eGT Rd\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eNH 5\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eAH1\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eAH2\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by International leather (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_nf`EadkdMfAM~C_@RExFq@rC_@hBQJAfEi@pEk@xAQx@InC_@nAOjFo@h@GzDi@zBYpAUdBMlCe@`BObBSdDc@fBUtHaAf@E`@G^Gf@EtBYlC_@b@IJCxAQPChKkAfAOl@Ij@E`BSl@KvAUbBSnGy@fCY|AOz@OdDe@hH{@lKsA^ExG{@rC]zFu@jEi@ZEtDc@\\Eb@GxLyAzL}Af@Ub@Q"
+                     },
+                     "start_location" : {
+                        "lat" : 31.6593603,
+                        "lng" : 74.2817707
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.7 km",
+                        "value" : 1733
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 378
+                     },
+                     "end_location" : {
+                        "lat" : 31.6090483,
+                        "lng" : 74.3035301
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at Fork N Knives onto \u003cb\u003eOld Ravi Bridge\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by J.B International (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mk~_EuzldMHCj@Qd@{AFk@Bg@@w@@y@@o@@sA@gA@qB@aB@gA?U@q@@g@?U@sA?qA?O@M?KBM@K?AD]FU?ABIFMP]JSFGHMLMHGp@k@LKVSVSh@c@j@_@^YVQ\\Y@AXUXWRQbAq@dAy@h@a@r@k@fBuAd@a@TQhA{@\\WFGnA_A\\WvAgAVSDCrCwBrB}A^Yz@q@FENI?AFCJG@A@AJG@AHE`@U"
+                     },
+                     "start_location" : {
+                        "lat" : 31.6179857,
+                        "lng" : 74.2905083
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 756
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 142
+                     },
+                     "end_location" : {
+                        "lat" : 31.6094598,
+                        "lng" : 74.311356
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Khadija Abaya House (on the right in 300m)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qs|_EalodMe@kBAKOe@[gAACWk@Gc@Ck@CaA@s@?CBqB@u@?A@sABoABkBBgBBoA@aA@_@B{@?EDgDB_C"
+                     },
+                     "start_location" : {
+                        "lat" : 31.6090483,
+                        "lng" : 74.3035301
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "4.4 km",
+                        "value" : 4390
+                     },
+                     "duration" : {
+                        "text" : "8 mins",
+                        "value" : 502
+                     },
+                     "end_location" : {
+                        "lat" : 31.6084683,
+                        "lng" : 74.3576454
+                     },
+                     "html_instructions" : "At Lesco Gird Station, continue onto \u003cb\u003eService Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Furqan Enterpresents. (on the right in 400m)\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "cv|_E_}pdM@i@@aBB{@@i@DyB?m@@iEAqDIiH@}A?eN@cABaB@eBBcDBsB@{@BgC?[@{ABeC@q@?IDyG?SD{DB}B@Y@{@?S?O@M@QDWFYFWBW@QC_@AIAG?AGYGYAY?Y?c@?S?A?oADsEBuB?G@a@D{GDcD?o@DoHBgB?{@?E?E?IDyFBwB?q@@i@BaE@iBBmBBoDF}E@cA@uB@_BBqE@yA@s@@]BuB?GDeC?c@?uB@_C?KHoF@w@@s@BkBBeFAABuA@_B@eDDmD@}B?Q@wC"
+                     },
+                     "start_location" : {
+                        "lat" : 31.6094598,
+                        "lng" : 74.311356
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 226
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : 31.6064677,
+                        "lng" : 74.35805999999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at Ahmad traders onto \u003cb\u003eChina Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by MashAllah Nursery Farm ماشاءاللہ نرسری فارم (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}o|_Ei~ydMfG{@tAMp@G"
+                     },
+                     "start_location" : {
+                        "lat" : 31.6084683,
+                        "lng" : 74.3576454
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 644
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 122
+                     },
+                     "end_location" : {
+                        "lat" : 31.6042287,
+                        "lng" : 74.3642466
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at data hajvery milk shap onto \u003cb\u003eAzhar Tanoli Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Ahmad Usman Enterprises Private Limited (on the left in 450m)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mc|_E{`zdMBeB@W@k@Bg@DUDQH[X_AZ{@t@uB~BoHv@_Cz@oC|@mC"
+                     },
+                     "start_location" : {
+                        "lat" : 31.6064677,
+                        "lng" : 74.35805999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 744
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 146
+                     },
+                     "end_location" : {
+                        "lat" : 31.5976996,
+                        "lng" : 74.36417730000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at Ahmad Poly Clinic onto \u003cb\u003eMain Blvd China Scheme\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Shakeel Hair Saloon (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "mu{_Eqg{dMXL~@Zd@L^HXBP@p@@r@D~CBdB@rAFfCDnELl@@R?X@XAVCVGXGr@[`Au@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.6042287,
+                        "lng" : 74.3642466
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 154
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 31.5969632,
+                        "lng" : 74.3628035
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eTariq Shaheed Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "slz_Ecg{dMrCpG?@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5976996,
+                        "lng" : 74.36417730000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "enf`EyikdMB~C@VfAMrDe@lKqAnOiBrJkAlQ{BpAUdBMlCe@`BOhGw@|KwApC[bGy@n@M|PqBxAOnC_@zDi@vKsA|AOz@OnMaBzYsDpq@oIjAg@t@Ud@{AFk@D_BFeGDqHF_IJy@Ro@n@gAvAmA|EsDr@m@vAcAjG}EbDgClEgDxKiIn@a@`@Ue@kBQq@]kAWk@Gc@Ck@AuBDmDLwJJmFXyS@wFK{M@cQDeDJyLHeKFiJLoK@q@Fi@Nq@Di@Ei@Q}@AwADyHJ{LNkRJ_PZaa@H}JHgH@uFH{FJ}LD}IHuMfG{@tAMp@GBeBBcAH}@Nm@t@{Bt@uB~BoHrBoG|@mCXLdBh@x@LbABr@D~CBdB@rAFvIR`A@r@?n@KXGr@[`Au@rCpG?@"
+         },
+         "summary" : "GT Rd and Service Rd",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

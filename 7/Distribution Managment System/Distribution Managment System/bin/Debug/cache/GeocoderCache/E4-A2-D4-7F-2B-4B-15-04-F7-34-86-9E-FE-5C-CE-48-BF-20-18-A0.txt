@@ -1,0 +1,381 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "WCV8+22G Wijhwan Sharif, Pakistan",
+      "global_code" : "8J3MWCV8+22G"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "WCV8+22",
+               "short_name" : "WCV8+22",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Wijhwan Sharif",
+               "short_name" : "Wijhwan Sharif",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pindi Bhattian",
+               "short_name" : "Pindi Bhattian",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Hafizabad",
+               "short_name" : "Hafizabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "WCV8+22 Wijhwan Sharif, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.942625,
+                  "lng" : 73.415125
+               },
+               "southwest" : {
+                  "lat" : 31.9425,
+                  "lng" : 73.41499999999999
+               }
+            },
+            "location" : {
+               "lat" : 31.9425746,
+               "lng" : 73.4150781
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9439114802915,
+                  "lng" : 73.4164114802915
+               },
+               "southwest" : {
+                  "lat" : 31.9412135197085,
+                  "lng" : 73.41371351970849
+               }
+            }
+         },
+         "place_id" : "GhIJTwqpkUzxP0ARSzK8o5BaUkA",
+         "plus_code" : {
+            "compound_code" : "WCV8+22 Wijhwan Sharif, Pakistan",
+            "global_code" : "8J3MWCV8+22"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pindi Bhattian",
+               "short_name" : "Pindi Bhattian",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Hafizabad",
+               "short_name" : "Hafizabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Hafizabad, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.9473737,
+                  "lng" : 73.42061319999999
+               },
+               "southwest" : {
+                  "lat" : 31.9435598,
+                  "lng" : 73.4148826
+               }
+            },
+            "location" : {
+               "lat" : 31.9444687,
+               "lng" : 73.41655969999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9473737,
+                  "lng" : 73.42061319999999
+               },
+               "southwest" : {
+                  "lat" : 31.9435598,
+                  "lng" : 73.4148826
+               }
+            }
+         },
+         "place_id" : "ChIJNcAAKLMBIjkRAngvPbME8D0",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thatha Kheru",
+               "short_name" : "Thatha Kheru",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Pindi Bhattian",
+               "short_name" : "Pindi Bhattian",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Hafizabad",
+               "short_name" : "Hafizabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thatha Kheru, Hafizabad, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.9616745,
+                  "lng" : 73.46182659999999
+               },
+               "southwest" : {
+                  "lat" : 31.8199639,
+                  "lng" : 73.3186396
+               }
+            },
+            "location" : {
+               "lat" : 31.8745397,
+               "lng" : 73.4062342
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9616745,
+                  "lng" : 73.46182659999999
+               },
+               "southwest" : {
+                  "lat" : 31.8199639,
+                  "lng" : 73.3186396
+               }
+            }
+         },
+         "place_id" : "ChIJkX_0FkkBIjkRco0VuqPyEE8",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pindi Bhattian",
+               "short_name" : "Pindi Bhattian",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Hafizabad",
+               "short_name" : "Hafizabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pindi Bhattian, Hafizabad, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.1827314,
+                  "lng" : 73.62347389999999
+               },
+               "southwest" : {
+                  "lat" : 31.7615505,
+                  "lng" : 73.1597093
+               }
+            },
+            "location" : {
+               "lat" : 31.9314181,
+               "lng" : 73.4180211
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.1827314,
+                  "lng" : 73.62347389999999
+               },
+               "southwest" : {
+                  "lat" : 31.7615505,
+                  "lng" : 73.1597093
+               }
+            }
+         },
+         "place_id" : "ChIJMzUNgF__ITkRY7TazMQ7j_w",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hafizabad",
+               "short_name" : "Hafizabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hafizabad, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.3421286,
+                  "lng" : 73.8308619
+               },
+               "southwest" : {
+                  "lat" : 31.7615504,
+                  "lng" : 73.1597093
+               }
+            },
+            "location" : {
+               "lat" : 32.0828952,
+               "lng" : 73.55941279999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.3421286,
+                  "lng" : 73.8308619
+               },
+               "southwest" : {
+                  "lat" : 31.7615504,
+                  "lng" : 73.1597093
+               }
+            }
+         },
+         "place_id" : "ChIJU5BQC_pZHzkRw9KtQn0CiZQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

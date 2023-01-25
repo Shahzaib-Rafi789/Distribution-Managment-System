@@ -1,0 +1,721 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "2MMW+22G Sargodha, Pakistan",
+      "global_code" : "8J4J2MMW+22G"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2MJV+XW5",
+               "short_name" : "2MJV+XW5",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Noor Colony",
+               "short_name" : "Noor Colony",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Noor Colony",
+               "short_name" : "Noor Colony",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "2MJV+XW5, Noor Colony Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0325331,
+                  "lng" : 72.69501799999999
+               },
+               "southwest" : {
+                  "lat" : 32.0323517,
+                  "lng" : 72.694816
+               }
+            },
+            "location" : {
+               "lat" : 32.0324613,
+               "lng" : 72.6949142
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0337913802915,
+                  "lng" : 72.6962659802915
+               },
+               "southwest" : {
+                  "lat" : 32.0310934197085,
+                  "lng" : 72.69356801970849
+               }
+            }
+         },
+         "place_id" : "ChIJXU0LIBN4ITkRNM5qiofunFM",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2MJW+V2P",
+               "short_name" : "2MJW+V2P",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Noor Colony",
+               "short_name" : "Noor Colony",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Noor Colony",
+               "short_name" : "Noor Colony",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "2MJW+V2P, Noor Colony Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.0322239,
+               "lng" : 72.69509049999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.03357288029149,
+                  "lng" : 72.6964394802915
+               },
+               "southwest" : {
+                  "lat" : 32.03087491970849,
+                  "lng" : 72.6937415197085
+               }
+            }
+         },
+         "place_id" : "ChIJEzos3xJ4ITkRQH3VhMdoews",
+         "types" : [ "establishment", "food", "point_of_interest", "store" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2MMW+22",
+               "short_name" : "2MMW+22",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "2MMW+22 Sargodha, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.032625,
+                  "lng" : 72.69512499999999
+               },
+               "southwest" : {
+                  "lat" : 32.0325,
+                  "lng" : 72.69499999999999
+               }
+            },
+            "location" : {
+               "lat" : 32.0325746,
+               "lng" : 72.6950781
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.03391148029149,
+                  "lng" : 72.69641148029149
+               },
+               "southwest" : {
+                  "lat" : 32.0312135197085,
+                  "lng" : 72.69371351970848
+               }
+            }
+         },
+         "place_id" : "GhIJE9eMZysEQEARneraKHwsUkA",
+         "plus_code" : {
+            "compound_code" : "2MMW+22 Sargodha, Pakistan",
+            "global_code" : "8J4J2MMW+22"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mushaf Ali Mir Road",
+               "short_name" : "Mushaf Ali Mir Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mushaf Ali Mir Rd, Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0326066,
+                  "lng" : 72.6951876
+               },
+               "southwest" : {
+                  "lat" : 32.032054,
+                  "lng" : 72.6942792
+               }
+            },
+            "location" : {
+               "lat" : 32.0323346,
+               "lng" : 72.6947369
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0336792802915,
+                  "lng" : 72.6960823802915
+               },
+               "southwest" : {
+                  "lat" : 32.0309813197085,
+                  "lng" : 72.69338441970849
+               }
+            }
+         },
+         "place_id" : "ChIJVRaoIRN4ITkRKK-ubHiEDgE",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Noor Colony",
+               "short_name" : "Noor Colony",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Noor Colony",
+               "short_name" : "Noor Colony",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Noor Colony Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0343751,
+                  "lng" : 72.6975266
+               },
+               "southwest" : {
+                  "lat" : 32.0315036,
+                  "lng" : 72.6942621
+               }
+            },
+            "location" : {
+               "lat" : 32.0330287,
+               "lng" : 72.6960457
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0343751,
+                  "lng" : 72.6975266
+               },
+               "southwest" : {
+                  "lat" : 32.0315036,
+                  "lng" : 72.6942621
+               }
+            }
+         },
+         "place_id" : "ChIJC9Bj7RJ4ITkRnZ1ZlLEWr70",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Noor Colony",
+               "short_name" : "Noor Colony",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Noor Colony, Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0355871,
+                  "lng" : 72.69829969999999
+               },
+               "southwest" : {
+                  "lat" : 32.0316141,
+                  "lng" : 72.69430869999999
+               }
+            },
+            "location" : {
+               "lat" : 32.0337175,
+               "lng" : 72.6960457
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0355871,
+                  "lng" : 72.69829969999999
+               },
+               "southwest" : {
+                  "lat" : 32.0316141,
+                  "lng" : 72.69430869999999
+               }
+            }
+         },
+         "place_id" : "ChIJS7ce8xJ4ITkRXAIz8wJIR2I",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sargodha - 9",
+               "short_name" : "Sargodha - 9",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sargodha - 9, Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0494901,
+                  "lng" : 72.70967759999999
+               },
+               "southwest" : {
+                  "lat" : 32.0280691,
+                  "lng" : 72.6825779
+               }
+            },
+            "location" : {
+               "lat" : 32.0362472,
+               "lng" : 72.6919814
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0494901,
+                  "lng" : 72.70967759999999
+               },
+               "southwest" : {
+                  "lat" : 32.0280691,
+                  "lng" : 72.6825779
+               }
+            }
+         },
+         "place_id" : "ChIJP1mWuRF4ITkREh0C88fPE7Q",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.1301621,
+                  "lng" : 72.77598019999999
+               },
+               "southwest" : {
+                  "lat" : 31.979758,
+                  "lng" : 72.6180858
+               }
+            },
+            "location" : {
+               "lat" : 32.0739787,
+               "lng" : 72.6860696
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.1301621,
+                  "lng" : 72.77598019999999
+               },
+               "southwest" : {
+                  "lat" : 31.979758,
+                  "lng" : 72.6180858
+               }
+            }
+         },
+         "place_id" : "ChIJ45QmUDl0ITkRcLzL7da64VU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.286783,
+                  "lng" : 73.050966
+               },
+               "southwest" : {
+                  "lat" : 31.818546,
+                  "lng" : 72.44248899999999
+               }
+            },
+            "location" : {
+               "lat" : 32.0177852,
+               "lng" : 72.7570024
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.286783,
+                  "lng" : 73.050966
+               },
+               "southwest" : {
+                  "lat" : 31.818546,
+                  "lng" : 72.44248899999999
+               }
+            }
+         },
+         "place_id" : "ChIJtVMxttGCITkRergQwfHo5yw",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.5712785,
+                  "lng" : 73.31019239999999
+               },
+               "southwest" : {
+                  "lat" : 31.5566249,
+                  "lng" : 72.21704679999999
+               }
+            },
+            "location" : {
+               "lat" : 32.156592,
+               "lng" : 72.8042797
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.5712785,
+                  "lng" : 73.31019239999999
+               },
+               "southwest" : {
+                  "lat" : 31.5566249,
+                  "lng" : 72.21704679999999
+               }
+            }
+         },
+         "place_id" : "ChIJ0S6JJZadITkRmlmemFkTNjk",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

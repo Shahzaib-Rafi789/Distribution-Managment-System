@@ -1,0 +1,150 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "F822+222 Kalali, Jammu and Kashmir",
+      "global_code" : "8J5PF822+222"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "F822+22",
+               "short_name" : "F822+22",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Kalali",
+               "short_name" : "Kalali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rajouri",
+               "short_name" : "Rajouri",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Jammu and Kashmir",
+               "short_name" : "JK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "F822+22 Kalali, Jammu and Kashmir",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.450125,
+                  "lng" : 74.30012499999999
+               },
+               "southwest" : {
+                  "lat" : 33.45,
+                  "lng" : 74.3
+               }
+            },
+            "location" : {
+               "lat" : 33.45,
+               "lng" : 74.3
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.4514114802915,
+                  "lng" : 74.30141148029149
+               },
+               "southwest" : {
+                  "lat" : 33.4487135197085,
+                  "lng" : 74.29871351970849
+               }
+            }
+         },
+         "place_id" : "GhIJmpmZmZm5QEARMzMzMzOTUkA",
+         "plus_code" : {
+            "compound_code" : "F822+22 Kalali, Jammu and Kashmir",
+            "global_code" : "8J5PF822+22"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalali",
+               "short_name" : "Kalali",
+               "types" : [ "locality", "political" ]
+            }
+         ],
+         "formatted_address" : "Kalali",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.45714,
+                  "lng" : 74.31331
+               },
+               "southwest" : {
+                  "lat" : 33.4378901,
+                  "lng" : 74.27309
+               }
+            },
+            "location" : {
+               "lat" : 33.4470887,
+               "lng" : 74.3030212
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.45714,
+                  "lng" : 74.31331
+               },
+               "southwest" : {
+                  "lat" : 33.4378901,
+                  "lng" : 74.27309
+               }
+            }
+         },
+         "place_id" : "ChIJMQGhRskrHjkRBnbDgiDKqnQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "185131",
+               "short_name" : "185131",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "185131",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.5026032,
+                  "lng" : 74.3676292
+               },
+               "southwest" : {
+                  "lat" : 33.3391325,
+                  "lng" : 74.16521399999999
+               }
+            },
+            "location" : {
+               "lat" : 33.3817121,
+               "lng" : 74.24140919999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.5026032,
+                  "lng" : 74.3676292
+               },
+               "southwest" : {
+                  "lat" : 33.3391325,
+                  "lng" : 74.16521399999999
+               }
+            }
+         },
+         "place_id" : "ChIJYWUZop0rHjkRUolKM4oNhi8",
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,445 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "WJV8+22G Bitti, Pakistan",
+      "global_code" : "8J3HWJV8+22G"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "WJV8+22",
+               "short_name" : "WJV8+22",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Bitti",
+               "short_name" : "Bitti",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kalurkot",
+               "short_name" : "Kalurkot",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bhakkar",
+               "short_name" : "Bhakkar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "WJV8+22 Bitti, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.942625,
+                  "lng" : 71.61512499999999
+               },
+               "southwest" : {
+                  "lat" : 31.9425,
+                  "lng" : 71.61499999999999
+               }
+            },
+            "location" : {
+               "lat" : 31.9425746,
+               "lng" : 71.61507809999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9439114802915,
+                  "lng" : 71.6164114802915
+               },
+               "southwest" : {
+                  "lat" : 31.9412135197085,
+                  "lng" : 71.6137135197085
+               }
+            }
+         },
+         "place_id" : "GhIJTwqpkUzxP0ARF_-IcF3nUUA",
+         "plus_code" : {
+            "compound_code" : "WJV8+22 Bitti, Pakistan",
+            "global_code" : "8J3HWJV8+22"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bitti",
+               "short_name" : "Bitti",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kalurkot",
+               "short_name" : "Kalurkot",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bhakkar",
+               "short_name" : "Bhakkar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Bitti, Bhakkar, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.944397,
+                  "lng" : 71.6158939
+               },
+               "southwest" : {
+                  "lat" : 31.9413414,
+                  "lng" : 71.61447249999999
+               }
+            },
+            "location" : {
+               "lat" : 31.9431612,
+               "lng" : 71.61558939999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.944397,
+                  "lng" : 71.6165321802915
+               },
+               "southwest" : {
+                  "lat" : 31.9413414,
+                  "lng" : 71.61383421970849
+               }
+            }
+         },
+         "place_id" : "ChIJndbUN6q9JjkRcN7RuX5VECA",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bitti",
+               "short_name" : "Bitti",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kalurkot",
+               "short_name" : "Kalurkot",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bhakkar",
+               "short_name" : "Bhakkar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bitti, Bhakkar, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.9606816,
+                  "lng" : 71.6280778
+               },
+               "southwest" : {
+                  "lat" : 31.9380806,
+                  "lng" : 71.6000052
+               }
+            },
+            "location" : {
+               "lat" : 31.9462881,
+               "lng" : 71.6139348
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9606816,
+                  "lng" : 71.6280778
+               },
+               "southwest" : {
+                  "lat" : 31.9380806,
+                  "lng" : 71.6000052
+               }
+            }
+         },
+         "place_id" : "ChIJgffvqK29JjkRpHJ_SdZLVkg",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chak No. 063/D.B",
+               "short_name" : "Chak No. 063/D.B",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Kalurkot",
+               "short_name" : "Kalurkot",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bhakkar",
+               "short_name" : "Bhakkar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chak No. 063/D.B, Bhakkar, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0593891,
+                  "lng" : 71.7663919
+               },
+               "southwest" : {
+                  "lat" : 31.912042,
+                  "lng" : 71.5675554
+               }
+            },
+            "location" : {
+               "lat" : 31.9671872,
+               "lng" : 71.6436028
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0593891,
+                  "lng" : 71.7663919
+               },
+               "southwest" : {
+                  "lat" : 31.912042,
+                  "lng" : 71.5675554
+               }
+            }
+         },
+         "place_id" : "ChIJf_2yYAe8JjkRl-LSO6KD35o",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalurkot",
+               "short_name" : "Kalurkot",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bhakkar",
+               "short_name" : "Bhakkar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kalurkot, Bhakkar, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.205153,
+                  "lng" : 71.7760519
+               },
+               "southwest" : {
+                  "lat" : 31.899314,
+                  "lng" : 71.0653126
+               }
+            },
+            "location" : {
+               "lat" : 32.0887231,
+               "lng" : 71.4299364
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.205153,
+                  "lng" : 71.7760519
+               },
+               "southwest" : {
+                  "lat" : 31.899314,
+                  "lng" : 71.0653126
+               }
+            }
+         },
+         "place_id" : "ChIJW-DTqC_tJjkR4JO10WSvkc8",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhakkar",
+               "short_name" : "Bhakkar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bhakkar, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.2051529,
+                  "lng" : 72.0227185
+               },
+               "southwest" : {
+                  "lat" : 31.1373828,
+                  "lng" : 70.8071142
+               }
+            },
+            "location" : {
+               "lat" : 31.8621101,
+               "lng" : 71.3824374
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.2051529,
+                  "lng" : 72.0227185
+               },
+               "southwest" : {
+                  "lat" : 31.1373828,
+                  "lng" : 70.8071142
+               }
+            }
+         },
+         "place_id" : "ChIJMZ9MzU6bJjkRVJ6EKVpZeeY",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

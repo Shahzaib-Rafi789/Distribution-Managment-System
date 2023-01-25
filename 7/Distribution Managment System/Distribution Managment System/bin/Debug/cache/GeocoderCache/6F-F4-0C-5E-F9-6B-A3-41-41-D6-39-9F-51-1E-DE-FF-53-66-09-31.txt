@@ -1,0 +1,568 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "2M7G+22G Sohay Wala, Pakistan",
+      "global_code" : "8J4H2M7G+22G"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2M7G+56M",
+               "short_name" : "2M7G+56M",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Disst",
+               "short_name" : "Disst",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sohay Wala",
+               "short_name" : "Sohay Wala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kalurkot",
+               "short_name" : "Kalurkot",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bhakkar",
+               "short_name" : "Bhakkar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "2M7G+56M, Disst, Sohay Wala, Bhakkar, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0131862,
+                  "lng" : 71.675585
+               },
+               "southwest" : {
+                  "lat" : 32.0129638,
+                  "lng" : 71.6754973
+               }
+            },
+            "location" : {
+               "lat" : 32.0130716,
+               "lng" : 71.6755508
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0144239802915,
+                  "lng" : 71.67689013029151
+               },
+               "southwest" : {
+                  "lat" : 32.0117260197085,
+                  "lng" : 71.6741921697085
+               }
+            }
+         },
+         "place_id" : "ChIJ8YzvB0m5JjkRW_yb2sLESOs",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2M6F+WJM",
+               "short_name" : "2M6F+WJM",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Sohay Wala",
+               "short_name" : "Sohay Wala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kalurkot",
+               "short_name" : "Kalurkot",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bhakkar",
+               "short_name" : "Bhakkar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "2M6F+WJM, Sohay Wala, Bhakkar, Punjab, Pakistan",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.0123308,
+               "lng" : 71.6740355
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0136797802915,
+                  "lng" : 71.6753844802915
+               },
+               "southwest" : {
+                  "lat" : 32.0109818197085,
+                  "lng" : 71.67268651970849
+               }
+            }
+         },
+         "place_id" : "ChIJdXO-s9S5JjkRooLhgyR9Dl8",
+         "types" : [ "establishment", "point_of_interest", "school" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2M7G+22",
+               "short_name" : "2M7G+22",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Sohay Wala",
+               "short_name" : "Sohay Wala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kalurkot",
+               "short_name" : "Kalurkot",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bhakkar",
+               "short_name" : "Bhakkar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "2M7G+22 Sohay Wala, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.012625,
+                  "lng" : 71.67512499999999
+               },
+               "southwest" : {
+                  "lat" : 32.0125,
+                  "lng" : 71.675
+               }
+            },
+            "location" : {
+               "lat" : 32.0125746,
+               "lng" : 71.67507809999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0139114802915,
+                  "lng" : 71.67641148029151
+               },
+               "southwest" : {
+                  "lat" : 32.0112135197085,
+                  "lng" : 71.6737135197085
+               }
+            }
+         },
+         "place_id" : "GhIJUeFjC5wBQEARu2_GejTrUUA",
+         "plus_code" : {
+            "compound_code" : "2M7G+22 Sohay Wala, Pakistan",
+            "global_code" : "8J4H2M7G+22"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sohay Wala",
+               "short_name" : "Sohay Wala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kalurkot",
+               "short_name" : "Kalurkot",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bhakkar",
+               "short_name" : "Bhakkar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Sohay Wala, Bhakkar, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0127972,
+                  "lng" : 71.6752922
+               },
+               "southwest" : {
+                  "lat" : 32.0125396,
+                  "lng" : 71.6750588
+               }
+            },
+            "location" : {
+               "lat" : 32.012703,
+               "lng" : 71.67513719999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0140173802915,
+                  "lng" : 71.6765244802915
+               },
+               "southwest" : {
+                  "lat" : 32.0113194197085,
+                  "lng" : 71.6738265197085
+               }
+            }
+         },
+         "place_id" : "ChIJm88oCUm5JjkReHyy8VK1b8Y",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sohay Wala",
+               "short_name" : "Sohay Wala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kalurkot",
+               "short_name" : "Kalurkot",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bhakkar",
+               "short_name" : "Bhakkar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sohay Wala, Bhakkar, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0187278,
+                  "lng" : 71.68286359999999
+               },
+               "southwest" : {
+                  "lat" : 32.00846,
+                  "lng" : 71.66653409999999
+               }
+            },
+            "location" : {
+               "lat" : 32.013227,
+               "lng" : 71.67623449999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0187278,
+                  "lng" : 71.68286359999999
+               },
+               "southwest" : {
+                  "lat" : 32.00846,
+                  "lng" : 71.66653409999999
+               }
+            }
+         },
+         "place_id" : "ChIJkz9tmEm5JjkRw6Gar9H2m5k",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chak No. 063/D.B",
+               "short_name" : "Chak No. 063/D.B",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Kalurkot",
+               "short_name" : "Kalurkot",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bhakkar",
+               "short_name" : "Bhakkar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chak No. 063/D.B, Bhakkar, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0593891,
+                  "lng" : 71.7663919
+               },
+               "southwest" : {
+                  "lat" : 31.912042,
+                  "lng" : 71.5675554
+               }
+            },
+            "location" : {
+               "lat" : 31.9671872,
+               "lng" : 71.6436028
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0593891,
+                  "lng" : 71.7663919
+               },
+               "southwest" : {
+                  "lat" : 31.912042,
+                  "lng" : 71.5675554
+               }
+            }
+         },
+         "place_id" : "ChIJf_2yYAe8JjkRl-LSO6KD35o",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalurkot",
+               "short_name" : "Kalurkot",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bhakkar",
+               "short_name" : "Bhakkar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kalurkot, Bhakkar, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.205153,
+                  "lng" : 71.7760519
+               },
+               "southwest" : {
+                  "lat" : 31.899314,
+                  "lng" : 71.0653126
+               }
+            },
+            "location" : {
+               "lat" : 32.0887231,
+               "lng" : 71.4299364
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.205153,
+                  "lng" : 71.7760519
+               },
+               "southwest" : {
+                  "lat" : 31.899314,
+                  "lng" : 71.0653126
+               }
+            }
+         },
+         "place_id" : "ChIJW-DTqC_tJjkR4JO10WSvkc8",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhakkar",
+               "short_name" : "Bhakkar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bhakkar, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.2051529,
+                  "lng" : 72.0227185
+               },
+               "southwest" : {
+                  "lat" : 31.1373828,
+                  "lng" : 70.8071142
+               }
+            },
+            "location" : {
+               "lat" : 31.8621101,
+               "lng" : 71.3824374
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.2051529,
+                  "lng" : 72.0227185
+               },
+               "southwest" : {
+                  "lat" : 31.1373828,
+                  "lng" : 70.8071142
+               }
+            }
+         },
+         "place_id" : "ChIJMZ9MzU6bJjkRVJ6EKVpZeeY",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

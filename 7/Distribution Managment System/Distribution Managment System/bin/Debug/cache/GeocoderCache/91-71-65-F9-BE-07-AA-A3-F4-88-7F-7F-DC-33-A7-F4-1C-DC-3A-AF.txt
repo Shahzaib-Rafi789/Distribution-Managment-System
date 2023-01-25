@@ -1,0 +1,445 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "GRH6+M42 Shahamad, Pakistan",
+      "global_code" : "8J2MGRH6+M42"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "GRH6+M4",
+               "short_name" : "GRH6+M4",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Shahamad",
+               "short_name" : "Shahamad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Depalpur",
+               "short_name" : "Depalpur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Okara",
+               "short_name" : "Okara",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "GRH6+M4 Shahamad, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.52924999999999,
+                  "lng" : 73.81037499999999
+               },
+               "southwest" : {
+                  "lat" : 30.529125,
+                  "lng" : 73.81025
+               }
+            },
+            "location" : {
+               "lat" : 30.529145,
+               "lng" : 73.8102722
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.5305364802915,
+                  "lng" : 73.81166148029149
+               },
+               "southwest" : {
+                  "lat" : 30.5278385197085,
+                  "lng" : 73.80896351970848
+               }
+            }
+         },
+         "place_id" : "GhIJiNf1C3aHPkAR6fbtf9tzUkA",
+         "plus_code" : {
+            "compound_code" : "GRH6+M4 Shahamad, Pakistan",
+            "global_code" : "8J2MGRH6+M4"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "GRG6+V66",
+               "short_name" : "GRG6+V66",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Basīrpur",
+               "short_name" : "Basīrpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Depalpur",
+               "short_name" : "Depalpur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Okara",
+               "short_name" : "Okara",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "GRG6+V66, Basīrpur, Okara, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.5271959,
+                  "lng" : 73.8105401
+               },
+               "southwest" : {
+                  "lat" : 30.5271187,
+                  "lng" : 73.8104561
+               }
+            },
+            "location" : {
+               "lat" : 30.5271559,
+               "lng" : 73.8105109
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.5285062802915,
+                  "lng" : 73.8118470802915
+               },
+               "southwest" : {
+                  "lat" : 30.5258083197085,
+                  "lng" : 73.80914911970849
+               }
+            }
+         },
+         "place_id" : "ChIJj2KDHZH0FzkRP8t5-5a8B_Y",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Depalpur",
+               "short_name" : "Depalpur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Okara",
+               "short_name" : "Okara",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Okara, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.5315679,
+                  "lng" : 73.8105717
+               },
+               "southwest" : {
+                  "lat" : 30.527248,
+                  "lng" : 73.81055929999999
+               }
+            },
+            "location" : {
+               "lat" : 30.5294079,
+               "lng" : 73.81056319999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.5315679,
+                  "lng" : 73.81191448029151
+               },
+               "southwest" : {
+                  "lat" : 30.527248,
+                  "lng" : 73.8092165197085
+               }
+            }
+         },
+         "place_id" : "ChIJ61uPg5H0FzkRHIzWBNdIUiw",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mancharian",
+               "short_name" : "Mancharian",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Depalpur",
+               "short_name" : "Depalpur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Okara",
+               "short_name" : "Okara",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mancharian, Okara, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.5768727,
+                  "lng" : 73.83504859999999
+               },
+               "southwest" : {
+                  "lat" : 30.4899865,
+                  "lng" : 73.7275509
+               }
+            },
+            "location" : {
+               "lat" : 30.5432379,
+               "lng" : 73.78308609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.5768727,
+                  "lng" : 73.83504859999999
+               },
+               "southwest" : {
+                  "lat" : 30.4899865,
+                  "lng" : 73.7275509
+               }
+            }
+         },
+         "place_id" : "ChIJ4XSQ60L0FzkR5jO2Hrmv4es",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Depalpur",
+               "short_name" : "Depalpur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Okara",
+               "short_name" : "Okara",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Depalpur, Okara, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.892415,
+                  "lng" : 74.16676939999999
+               },
+               "southwest" : {
+                  "lat" : 30.2525369,
+                  "lng" : 73.4692185
+               }
+            },
+            "location" : {
+               "lat" : 30.6842464,
+               "lng" : 73.74778569999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.892415,
+                  "lng" : 74.16676939999999
+               },
+               "southwest" : {
+                  "lat" : 30.2525369,
+                  "lng" : 73.4692185
+               }
+            }
+         },
+         "place_id" : "ChIJaw-cez31FzkRRf-gl-kLsyY",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Okara",
+               "short_name" : "Okara",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Okara, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.1391218,
+                  "lng" : 74.16676939999999
+               },
+               "southwest" : {
+                  "lat" : 30.2525369,
+                  "lng" : 73.26932789999999
+               }
+            },
+            "location" : {
+               "lat" : 30.6842464,
+               "lng" : 73.74778569999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.1391218,
+                  "lng" : 74.16676939999999
+               },
+               "southwest" : {
+                  "lat" : 30.2525369,
+                  "lng" : 73.26932789999999
+               }
+            }
+         },
+         "place_id" : "ChIJB60wLBgbGDkRN45uA7TXBbo",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

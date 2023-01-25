@@ -1,0 +1,440 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "WGVG+22G Joya, Pakistan",
+      "global_code" : "8J3HWGVG+22G"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "WGVG+22",
+               "short_name" : "WGVG+22",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Joya",
+               "short_name" : "Joya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Darya Khan",
+               "short_name" : "Darya Khan",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bhakkar",
+               "short_name" : "Bhakkar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "WGVG+22 Joya, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.942625,
+                  "lng" : 71.525125
+               },
+               "southwest" : {
+                  "lat" : 31.9425,
+                  "lng" : 71.52499999999999
+               }
+            },
+            "location" : {
+               "lat" : 31.9425746,
+               "lng" : 71.5250781
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9439114802915,
+                  "lng" : 71.5264114802915
+               },
+               "southwest" : {
+                  "lat" : 31.9412135197085,
+                  "lng" : 71.52371351970849
+               }
+            }
+         },
+         "place_id" : "GhIJTwqpkUzxP0ARItYs4ZrhUUA",
+         "plus_code" : {
+            "compound_code" : "WGVG+22 Joya, Pakistan",
+            "global_code" : "8J3HWGVG+22"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Darya Khan",
+               "short_name" : "Darya Khan",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bhakkar",
+               "short_name" : "Bhakkar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Bhakkar, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.9424572,
+                  "lng" : 71.52585420000001
+               },
+               "southwest" : {
+                  "lat" : 31.94166419999999,
+                  "lng" : 71.5240859
+               }
+            },
+            "location" : {
+               "lat" : 31.9420607,
+               "lng" : 71.52497
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9434096802915,
+                  "lng" : 71.52631903029152
+               },
+               "southwest" : {
+                  "lat" : 31.9407117197085,
+                  "lng" : 71.52362106970851
+               }
+            }
+         },
+         "place_id" : "ChIJOwh3nViWJjkR5AKaFaK35C4",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Joiya",
+               "short_name" : "Joiya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Darya Khan",
+               "short_name" : "Darya Khan",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bhakkar",
+               "short_name" : "Bhakkar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Joiya, Bhakkar, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.9485573,
+                  "lng" : 71.5411234
+               },
+               "southwest" : {
+                  "lat" : 31.9335532,
+                  "lng" : 71.5245152
+               }
+            },
+            "location" : {
+               "lat" : 31.9425407,
+               "lng" : 71.5338184
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9485573,
+                  "lng" : 71.5411234
+               },
+               "southwest" : {
+                  "lat" : 31.9335532,
+                  "lng" : 71.5245152
+               }
+            }
+         },
+         "place_id" : "ChIJ_yJyQlqWJjkRWVCjrtASNQI",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jhamat Shumali",
+               "short_name" : "Jhamat Shumali",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Darya Khan",
+               "short_name" : "Darya Khan",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bhakkar",
+               "short_name" : "Bhakkar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jhamat Shumali, Bhakkar, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.9553609,
+                  "lng" : 71.6916257
+               },
+               "southwest" : {
+                  "lat" : 31.7423094,
+                  "lng" : 71.39611810000001
+               }
+            },
+            "location" : {
+               "lat" : 31.8395932,
+               "lng" : 71.5249154
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9553609,
+                  "lng" : 71.6916257
+               },
+               "southwest" : {
+                  "lat" : 31.7423094,
+                  "lng" : 71.39611810000001
+               }
+            }
+         },
+         "place_id" : "ChIJR6XPFlyYJjkRN9NfUxDzvZ4",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Darya Khan",
+               "short_name" : "Darya Khan",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bhakkar",
+               "short_name" : "Bhakkar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Darya Khan, Bhakkar, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.9553609,
+                  "lng" : 71.6916257
+               },
+               "southwest" : {
+                  "lat" : 31.65452,
+                  "lng" : 70.9922399
+               }
+            },
+            "location" : {
+               "lat" : 31.8109958,
+               "lng" : 71.3349322
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9553609,
+                  "lng" : 71.6916257
+               },
+               "southwest" : {
+                  "lat" : 31.65452,
+                  "lng" : 70.9922399
+               }
+            }
+         },
+         "place_id" : "ChIJWdzCw_uEJjkRHeic__eZoUA",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhakkar",
+               "short_name" : "Bhakkar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bhakkar, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.2051529,
+                  "lng" : 72.0227185
+               },
+               "southwest" : {
+                  "lat" : 31.1373828,
+                  "lng" : 70.8071142
+               }
+            },
+            "location" : {
+               "lat" : 31.8621101,
+               "lng" : 71.3824374
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.2051529,
+                  "lng" : 72.0227185
+               },
+               "southwest" : {
+                  "lat" : 31.1373828,
+                  "lng" : 70.8071142
+               }
+            }
+         },
+         "place_id" : "ChIJMZ9MzU6bJjkRVJ6EKVpZeeY",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

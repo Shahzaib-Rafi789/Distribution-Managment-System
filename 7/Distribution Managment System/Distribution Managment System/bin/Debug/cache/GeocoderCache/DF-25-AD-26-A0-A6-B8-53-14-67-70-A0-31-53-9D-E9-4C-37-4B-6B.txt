@@ -1,0 +1,148 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "6503",
+               "short_name" : "6503",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Metropolitan Avenue",
+               "short_name" : "Metropolitan Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Middle Village",
+               "short_name" : "Middle Village",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11379",
+               "short_name" : "11379",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "6503 Metropolitan Ave, Queens, NY 11379, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7110209,
+               "lng" : -73.89160819999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7130234302915,
+                  "lng" : -73.89064859999999
+               },
+               "southwest" : {
+                  "lat" : 40.7103254697085,
+                  "lng" : -73.8935745
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJtRxmqodewokRcfI9PgRB0aw",
+         "plus_code" : {
+            "compound_code" : "P465+C9 New York, NY",
+            "global_code" : "87G8P465+C9"
+         },
+         "types" : [ "establishment", "point_of_interest", "shopping_mall" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "73",
+               "short_name" : "73",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Peachtree Street Southwest",
+               "short_name" : "Peachtree St SW",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South Downtown",
+               "short_name" : "South Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Atlanta",
+               "short_name" : "Atlanta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fulton County",
+               "short_name" : "Fulton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "30303",
+               "short_name" : "30303",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3150",
+               "short_name" : "3150",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "73 Peachtree St SW, Atlanta, GA 30303, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.752804,
+               "lng" : -84.39194689999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.7540751302915,
+                  "lng" : -84.3904715197085
+               },
+               "southwest" : {
+                  "lat" : 33.7513771697085,
+                  "lng" : -84.3931694802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJF-Tl44MD9YgRbd4y9LQWL0I",
+         "plus_code" : {
+            "compound_code" : "QJ35+46 Atlanta, GA",
+            "global_code" : "865QQJ35+46"
+         },
+         "types" : [ "establishment", "point_of_interest", "shopping_mall" ]
+      }
+   ],
+   "status" : "OK"
+}

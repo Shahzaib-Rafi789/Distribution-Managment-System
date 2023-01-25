@@ -1,0 +1,514 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "2MVP+22G Chak 63 DB, Pakistan",
+      "global_code" : "8J4H2MVP+22G"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2MVP+94W",
+               "short_name" : "2MVP+94W",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Chak 63 DB Road",
+               "short_name" : "Chak 63 DB Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chak 63 DB",
+               "short_name" : "Chak 63 DB",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kalurkot",
+               "short_name" : "Kalurkot",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bhakkar",
+               "short_name" : "Bhakkar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "2MVP+94W, Chak 63 DB Rd, Chak 63 DB, Bhakkar, Punjab, Pakistan",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.0434935,
+               "lng" : 71.68533339999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.04484248029149,
+                  "lng" : 71.6866823802915
+               },
+               "southwest" : {
+                  "lat" : 32.04214451970849,
+                  "lng" : 71.68398441970848
+               }
+            }
+         },
+         "place_id" : "ChIJN9T2htG5JjkR_SqPMEkUZ8M",
+         "types" : [ "establishment", "food", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2MVP+22",
+               "short_name" : "2MVP+22",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Chak 63 DB",
+               "short_name" : "Chak 63 DB",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kalurkot",
+               "short_name" : "Kalurkot",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bhakkar",
+               "short_name" : "Bhakkar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "2MVP+22 Chak 63 DB, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.042625,
+                  "lng" : 71.685125
+               },
+               "southwest" : {
+                  "lat" : 32.0425,
+                  "lng" : 71.685
+               }
+            },
+            "location" : {
+               "lat" : 32.0425746,
+               "lng" : 71.6850781
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0439114802915,
+                  "lng" : 71.68641148029151
+               },
+               "southwest" : {
+                  "lat" : 32.0412135197085,
+                  "lng" : 71.68371351970849
+               }
+            }
+         },
+         "place_id" : "GhIJ9VGhFXMFQEARLK3QUdjrUUA",
+         "plus_code" : {
+            "compound_code" : "2MVP+22 Chak 63 DB, Pakistan",
+            "global_code" : "8J4H2MVP+22"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2MVP+VPW",
+               "short_name" : "2MVP+VPW",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Chak 63 DB Road",
+               "short_name" : "Chak 63 DB Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chak 63 DB",
+               "short_name" : "Chak 63 DB",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kalurkot",
+               "short_name" : "Kalurkot",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bhakkar",
+               "short_name" : "Bhakkar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "2MVP+VPW, Chak 63 DB Rd, Chak 63 DB, Bhakkar, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0447435,
+                  "lng" : 71.6868997
+               },
+               "southwest" : {
+                  "lat" : 32.0445707,
+                  "lng" : 71.6868276
+               }
+            },
+            "location" : {
+               "lat" : 32.0446666,
+               "lng" : 71.68686
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.04600608029149,
+                  "lng" : 71.6882126302915
+               },
+               "southwest" : {
+                  "lat" : 32.0433081197085,
+                  "lng" : 71.68551466970848
+               }
+            }
+         },
+         "place_id" : "ChIJ_8zMnt64JjkR1AAeYiyYbS8",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chak 63 DB Road",
+               "short_name" : "Chak 63 DB Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chak 63 DB",
+               "short_name" : "Chak 63 DB",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kalurkot",
+               "short_name" : "Kalurkot",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bhakkar",
+               "short_name" : "Bhakkar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chak 63 DB Rd, Chak 63 DB, Bhakkar, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0438961,
+                  "lng" : 71.68540159999999
+               },
+               "southwest" : {
+                  "lat" : 32.043896,
+                  "lng" : 71.68505589999999
+               }
+            },
+            "location" : {
+               "lat" : 32.0438961,
+               "lng" : 71.6852287
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0452450302915,
+                  "lng" : 71.68657773029149
+               },
+               "southwest" : {
+                  "lat" : 32.0425470697085,
+                  "lng" : 71.68387976970848
+               }
+            }
+         },
+         "place_id" : "ChIJHTbuT9m4JjkRTv9ljPyzUzg",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chak No. 063/D.B",
+               "short_name" : "Chak No. 063/D.B",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Kalurkot",
+               "short_name" : "Kalurkot",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bhakkar",
+               "short_name" : "Bhakkar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chak No. 063/D.B, Bhakkar, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0593891,
+                  "lng" : 71.7663919
+               },
+               "southwest" : {
+                  "lat" : 31.912042,
+                  "lng" : 71.5675554
+               }
+            },
+            "location" : {
+               "lat" : 31.9671872,
+               "lng" : 71.6436028
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0593891,
+                  "lng" : 71.7663919
+               },
+               "southwest" : {
+                  "lat" : 31.912042,
+                  "lng" : 71.5675554
+               }
+            }
+         },
+         "place_id" : "ChIJf_2yYAe8JjkRl-LSO6KD35o",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalurkot",
+               "short_name" : "Kalurkot",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bhakkar",
+               "short_name" : "Bhakkar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kalurkot, Bhakkar, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.205153,
+                  "lng" : 71.7760519
+               },
+               "southwest" : {
+                  "lat" : 31.899314,
+                  "lng" : 71.0653126
+               }
+            },
+            "location" : {
+               "lat" : 32.0887231,
+               "lng" : 71.4299364
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.205153,
+                  "lng" : 71.7760519
+               },
+               "southwest" : {
+                  "lat" : 31.899314,
+                  "lng" : 71.0653126
+               }
+            }
+         },
+         "place_id" : "ChIJW-DTqC_tJjkR4JO10WSvkc8",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhakkar",
+               "short_name" : "Bhakkar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bhakkar, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.2051529,
+                  "lng" : 72.0227185
+               },
+               "southwest" : {
+                  "lat" : 31.1373828,
+                  "lng" : 70.8071142
+               }
+            },
+            "location" : {
+               "lat" : 31.8621101,
+               "lng" : 71.3824374
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.2051529,
+                  "lng" : 72.0227185
+               },
+               "southwest" : {
+                  "lat" : 31.1373828,
+                  "lng" : 70.8071142
+               }
+            }
+         },
+         "place_id" : "ChIJMZ9MzU6bJjkRVJ6EKVpZeeY",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

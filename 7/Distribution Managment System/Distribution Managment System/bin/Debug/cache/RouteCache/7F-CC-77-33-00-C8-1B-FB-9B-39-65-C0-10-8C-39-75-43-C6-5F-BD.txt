@@ -1,0 +1,684 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJY3qswO_WPDkRwJUekdfQDC8",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJw_6vXfWlJDkRMuFyo6MXuL8",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 30.51457,
+               "lng" : 72.6494776
+            },
+            "southwest" : {
+               "lat" : 30.3152319,
+               "lng" : 71.83473819999999
+            }
+         },
+         "copyrights" : "Map data ©2022",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "114 km",
+                  "value" : 113599
+               },
+               "duration" : {
+                  "text" : "2 hours 30 mins",
+                  "value" : 8993
+               },
+               "end_address" : "Unnamed Road, Khanewal, Punjab, Pakistan",
+               "end_location" : {
+                  "lat" : 30.5141143,
+                  "lng" : 71.83473819999999
+               },
+               "start_address" : "Unnamed Road, Sahiwal District, Punjab, Pakistan",
+               "start_location" : {
+                  "lat" : 30.3289158,
+                  "lng" : 72.6488148
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 725
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 121
+                     },
+                     "end_location" : {
+                        "lat" : 30.3225657,
+                        "lng" : 72.64944659999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wrbxDaflzL|CwB\\I@?B@z@@dD?lCBtAAn@APAD?NBl@BD?tACz@Ed@Az@AF?lA?h@@f@@dA@"
+                     },
+                     "start_location" : {
+                        "lat" : 30.3289158,
+                        "lng" : 72.6488148
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.6 km",
+                        "value" : 1635
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 288
+                     },
+                     "end_location" : {
+                        "lat" : 30.3225541,
+                        "lng" : 72.63241769999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at Latif Salon",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "akaxDajlzLBtA?fA?DBxF?hGC~ACt@A`CA|A@bD?\\@tCBbEBvC@rD?lBEj@ArA?jN?xA?bAArPBZ"
+                     },
+                     "start_location" : {
+                        "lat" : 30.3225657,
+                        "lng" : 72.64944659999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "5.9 km",
+                        "value" : 5939
+                     },
+                     "duration" : {
+                        "text" : "8 mins",
+                        "value" : 485
+                     },
+                     "end_location" : {
+                        "lat" : 30.3699235,
+                        "lng" : 72.60393089999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at Malka Trading Shops onto \u003cb\u003eOkan Wala Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Jamia Ayesha lalbnat (on the right in 5.9 km)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}jaxDs_izLgDdBiKfF{KnFsHpDSHiEtBkLzFQHmX`N_K`FsBbAyCxAgAh@yCzAeJrEsIjEuAn@OH_Bv@gBz@}BdAqAr@sCrASNGDi`@zQ{[bPaHjD_Ad@qB`A}Al@cB|@}@f@q@Z}Av@{CzAcD|A{Ap@}FrCaBx@WPiBjAeGtEkD~Bk@\\{@p@w@h@cBlA"
+                     },
+                     "start_location" : {
+                        "lat" : 30.3225541,
+                        "lng" : 72.63241769999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 304
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 43
+                     },
+                     "end_location" : {
+                        "lat" : 30.3698776,
+                        "lng" : 72.60075979999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at THE PIZZA HOUSE\u003cdiv style=\"font-size:0.9em\"\u003ePass by Friends Chick Biryani (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_sjxDqmczLAhC?dBHhK"
+                     },
+                     "start_location" : {
+                        "lat" : 30.3699235,
+                        "lng" : 72.60393089999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 233
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 30.3719547,
+                        "lng" : 72.6004269
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "wrjxDwybzLiALu@H}Gh@"
+                     },
+                     "start_location" : {
+                        "lat" : 30.3698776,
+                        "lng" : 72.60075979999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "35 m",
+                        "value" : 35
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 30.3719478,
+                        "lng" : 72.60005889999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at KPS COLLEGE toward \u003cb\u003eOkan Wala Rd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "u_kxDuwbzL?hA"
+                     },
+                     "start_location" : {
+                        "lat" : 30.3719547,
+                        "lng" : 72.6004269
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 270
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 64
+                     },
+                     "end_location" : {
+                        "lat" : 30.3743321,
+                        "lng" : 72.60033829999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eOkan Wala Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by the pharmacy (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "u_kxDkubzLe@Bo@BO@{DCW?{A]eA_@"
+                     },
+                     "start_location" : {
+                        "lat" : 30.3719478,
+                        "lng" : 72.60005889999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "53 m",
+                        "value" : 53
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 30.3747965,
+                        "lng" : 72.6004451
+                     },
+                     "html_instructions" : "At BISMILLAH SIRVES ACTION, continue onto \u003cb\u003eOkanwala Bangla Rd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qnkxDcwbzL}AU"
+                     },
+                     "start_location" : {
+                        "lat" : 30.3743321,
+                        "lng" : 72.60033829999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "44 m",
+                        "value" : 44
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 30.3750078,
+                        "lng" : 72.60008359999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at Talha Computers Okanwala Bangla",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "oqkxDywbzLEHA@C@EBEBA@ABABCHG^"
+                     },
+                     "start_location" : {
+                        "lat" : 30.3747965,
+                        "lng" : 72.6004451
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 99
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : 30.3758868,
+                        "lng" : 72.6001981
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at Aftab Traders",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yrkxDoubzLaCEm@Q"
+                     },
+                     "start_location" : {
+                        "lat" : 30.3750078,
+                        "lng" : 72.60008359999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 477
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 61
+                     },
+                     "end_location" : {
+                        "lat" : 30.3794609,
+                        "lng" : 72.5974848
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at Al HAFIZ SUPER STORE\u003cdiv style=\"font-size:0.9em\"\u003ePass by Allied School Bangla Okanwala (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ixkxDgvbzLs@t@s@r@_BxAcAp@g@Z_Al@uI~E"
+                     },
+                     "start_location" : {
+                        "lat" : 30.3758868,
+                        "lng" : 72.6001981
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "5.9 km",
+                        "value" : 5880
+                     },
+                     "duration" : {
+                        "text" : "8 mins",
+                        "value" : 461
+                     },
+                     "end_location" : {
+                        "lat" : 30.3817707,
+                        "lng" : 72.53761469999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "snlxDgebzL?|D?B?~A?nC@rD@rK?dJ?dA@jB?~D@jD@jI@tQBnF@xG?pA?`E@pLBzV@xFBpR@lIDhP?lA@pN?J@tA?pF@jH?rC@vC?jE@vB@`A?`AAjA@hJ@hB?zABrE?fA@pG@rIBzJBfL@jGEvCCt@QbAYr@Yj@g@v@u@bA{@bAs@|@g@h@c@^_Ah@iBn@"
+                     },
+                     "start_location" : {
+                        "lat" : 30.3794609,
+                        "lng" : 72.5974848
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "5.5 km",
+                        "value" : 5458
+                     },
+                     "duration" : {
+                        "text" : "12 mins",
+                        "value" : 708
+                     },
+                     "end_location" : {
+                        "lat" : 30.4171498,
+                        "lng" : 72.4988034
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Waheed Traders (on the right in 2.6 km)\u003c/div\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "a}lxDaovyLODgXhU_CnBwBtBuBnBcJ|IsEnEsElEiFdF}DxD}CxCsCrCoAnAgMbMKJeBbBgE~DiF`FwD|DsIjIMLsOjOiO~NYX_DrCGDiCdCiAdAy@z@{@`AUX}AfDgAxBwEzJqKbUyE|JeBrDq@jB"
+                     },
+                     "start_location" : {
+                        "lat" : 30.3817707,
+                        "lng" : 72.53761469999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "7.5 km",
+                        "value" : 7543
+                     },
+                     "duration" : {
+                        "text" : "11 mins",
+                        "value" : 632
+                     },
+                     "end_location" : {
+                        "lat" : 30.4688874,
+                        "lng" : 72.4605193
+                     },
+                     "html_instructions" : "Continue straight past New Punjab zari services onto \u003cb\u003eBurewala Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Chak 17/\u003cwbr/\u003e14 L (on the left in 450m)\u003c/div\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "ezsxDo|nyLyFnLyBvEu@pAIN}CrFqFbK}BlEA@CTOnBc@`@oEzDuHhFwIdGeH|EoDbCoGpEiKpHw@l@}AlAiJnHcUbQ_FvDkR~NwAhAiF`EkMzJ}I`H_E~C{KlIeAt@mG|EqIjGk@d@g@^oGzE_JvGaLfIkCdBKFgAr@uDvBi@T_@Nq@V[TIF]d@O\\EN]r@o@t@k@LgA@w@@m@Fg@?Q@q@@{@?I?QACACAAEACACc@uBCO_@cBUoAIa@ACk@yCEQYyAWuAUkAEOO_AGUCGEGCC?AEAGCC?G?UBg@HaANE@[H[Fg@Pq@XUF"
+                     },
+                     "start_location" : {
+                        "lat" : 30.4171498,
+                        "lng" : 72.4988034
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1076
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 119
+                     },
+                     "end_location" : {
+                        "lat" : 30.4656729,
+                        "lng" : 72.44998769999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eMultan Road\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Govt Boys Higher Secondary School Iqbal Nagar (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "q}}xDgmgyLB`@?HF~@Fn@L|@VzAhAvFP~@RdAhAzF~AjINr@b@vBh@`Cj@lDH^Pj@JXVt@f@dAd@dAFJBHBFBJ@F@F"
+                     },
+                     "start_location" : {
+                        "lat" : 30.4688874,
+                        "lng" : 72.4605193
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "49.2 km",
+                        "value" : 49170
+                     },
+                     "duration" : {
+                        "text" : "44 mins",
+                        "value" : 2640
+                     },
+                     "end_location" : {
+                        "lat" : 30.3277242,
+                        "lng" : 71.9921413
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e at Check post Iqbal Nagar onto \u003cb\u003eNH 5\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eAH2\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eToll road\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Tyre care (on the right in 3.8 km)\u003c/div\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "mi}xDmkeyL^b@TZV^h@fAZ~@d@vBt@rDh@hC|ChOJj@|@rEvDrRbAdF~@`FnAjGT~@l@~Ct@vD`@lB`AbF~@vEhAvFz@pEj@tCv@|DdB|I^bBn@`DnAnGjAdGf@bC\\dBdDpPBLDR`@pBvAjHjBrJl@pCJj@tArHfAtFjAhGhAdGdAnFjAzFx@vD~CpOdA~EzA|HvAjH~A`Ib@xBPv@hAvFJt@BdA?TE`AGp@Il@Ib@]nA[rA]zAaClKcBtHsA~FaAdEeAtEkAdF_AjEeBrHcBlH_AjE]tAYnAoGtXuAbGERSx@c@tBa@jB]vAU`AWlAUfAm@dC_@tBSlAMnAKfAIhAGdAAv@CbA?fB?vB@zBBvHD`KDfNDvF@rF@hE?nABhG@^@|ADrARhCJv@P|@R|@T|@\\dA\\`A`@~@b@v@l@dAJLh@v@\\b@zCjE`@j@bCdDdAvA`MdQbCjDfDxEpBpCV`@vCzDnFxH~@rA|CfExFdIxApBl@z@z@lAlBnCjDxExCdEzE~GjA~AjAbBn@z@t@z@|@~@p@h@t@j@r@d@z@b@`@NHDbCx@tCz@`EjAnA`@dBh@tA`@`FzA~F`BbCt@nEvAx@TrFzAfA`@RJRHPLJHRNFD\\d@Zd@X\\J`@Pr@TpAfArFP|@^pBd@bChAvFZxAXxA~@vEVrAvAhHFVhAzFxA~GzApHzA|HXtAfBzIz@fEdAvFTdAVjA\\dB\\bBfAtFr@nDfAhFDVrBjKp@dDpAfHjA~Fx@dE|@hExAvH|AvHrAxGzAtHh@nCd@zBz@nE~@nE`A~ENz@|@jEn@`D`@hBpAvGlBtJz@dE|@rEdAfFlAfGlAjGFV~@bFh@hCNz@~AzHh@nCt@xD~@rEz@pEfAnFhApFbAhFt@xD^jBXhBN`AN~ANfBNbBL~BJrA@ZD\\PnBPfADXPfAXrAj@jCd@vBx@`El@dDrAvGt@rDp@fDjA`G`ApEl@rCh@|Bd@fBNp@Fh@Fh@Dl@Bn@?l@A|@Ex@Ez@Gv@Y~GUfFUpEEv@E`AIjB?D?r@?f@@h@Dh@Fl@Hh@Jj@Rr@Lb@Rh@P\\PZl@|@JJvBnCvE|FZ`@xAdB`D`EbDbE\\f@p@`ALRN\\Xh@Zv@Xz@b@hBn@|Cn@bDNl@d@bCr@lDd@zBPx@pAtGzC`OjBbJn@|Cv@bER|@Pv@fAnF~@nE~@tEtCtNx@dE^hBx@`EVjAv@bEFX^lBb@lBFV^nBvAjHbBfIf@bC`@pBjA|Fp@bDNx@TfAr@pDNv@pBxJvAhHjBhJhDvPvC`Ob@vB@DDPLv@x@|Dv@tDv@zDP|@j@lC`BhIjA`Gh@jCNv@r@jDpAvGxAdHjA~FVnAVbBPvALzAHdADdB@b@?d@Ar@CzAGnAKrAMfAUjByApJs@bFa@fC[vBg@pDGd@aAlGCTe@~CqA~ImDxUc@`DUpAc@rCO|AGd@G`AIxACz@?pA@l@@fAFbAHpATbBRtAPx@^fBf@zAt@bBXr@j@~@JPRZNVr@bA`@^TVf@h@r@r@j@b@PLn@b@x@d@VN~@b@`A^rBp@^J^DRDvB\\fANtFt@xC`@rBZlBXfHbAdCZ~ATVBrFt@dAPnBVx@LrAR|@Vt@XfAn@b@\\d@`@`@`@X\\\\b@JNVd@Zj@LZRf@Pf@H^Lj@DVDTFf@Jz@PfCr@hJLjBZjE`@rFrAlQd@lG\\xENxB^zF^bDd@`Dd@tChA|Fn@hDd@~Bx@hEjAtFJp@fBxIx@~DnApGj@nCb@pBVxAhArFnBvJnAfGp@hDNv@TjAf@bC~@hEz@fEZxA`A|E~@nEf@jCtBdKnAjGh@fC\\hBFVH`@pAnG|@hEx@`E`BfInAnGzC|N~@zELj@nBtJjBdJPx@Z`Bl@xCj@pCb@tB`@tBrBjKtAdHhArFbAbFT~@Z|AXnAFXp@`Dh@jCnAjGjAvFfCbM\\~AXvAvA~G|A~HpBtJ`B|Hh@pCd@vB~AzHxAnHj@hCt@|Ch@tBb@|AV`AdAbDr@xBZz@fAjDx@lC~@tCDL^zALh@XtAt@hDNr@ZpADRv@lC`@zAp@nCh@vBR`Ax@tDNv@~@`El@nCZ|Af@~CJr@Db@Jn@RxBTlCNvBHhA@JJvAJ`BPnBFh@ThBLdALz@XbBRnAb@~BfBxI~@pEfAfFxAfH^nBTjAhApFzB`L~AfIfAjFlAfGJd@hAtFTjAJf@\\~ALn@F\\jAxFpApG^nBPt@t@rDDT\\`BrBzJx@`EJ`@f@zB"
+                     },
+                     "start_location" : {
+                        "lat" : 30.4656729,
+                        "lng" : 72.44998769999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "7.5 km",
+                        "value" : 7472
+                     },
+                     "duration" : {
+                        "text" : "8 mins",
+                        "value" : 460
+                     },
+                     "end_location" : {
+                        "lat" : 30.3186508,
+                        "lng" : 71.9178287
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eNH 5\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eAH2\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eToll road\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Khanewal Toll Plaza (on the right)\u003c/div\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "gkbxD{}kvLN~@P`AVfAJf@VlATdA~@tEbAbFd@zB|B~Kd@zBt@zDJh@fAxEZxAl@zBb@xA|@bClCjFz@pA|@rAz@xA|@dB`BzEj@pBXtA?Bf@fD^xCNrBDl@Bt@FbAHlDJzDDnADt@@RDr@H`AVnBTlAn@hDx@pDJf@Jj@ThALd@Jd@Jd@Jd@@Bj@tCF\\Fb@n@lC\\bBbAbFv@zDd@vBRfAlA|Fh@lCr@jDH`@`AvE|@fEJb@DVRt@ZzAXvARv@F^DXDl@@r@?^?l@BpE?fC?vC@bA?bA@rCBxI?dB?b@?`@@|C@pF?lBCz@Ep@MbAUfAUr@a@fA_CrEw@~Ai@pAQh@YdAOp@M|@If@I|@E~@Cb@G~AGrCEhBQbGGbAA\\?hBEvAMvDSvECVMzEE~ACvAAdAE`BEjAGpBIdB?DGrAGhAEjDElBQvFGdCCf@Ex@AH?ZMhBGrBC~@CjAA`@GxC"
+                     },
+                     "start_location" : {
+                        "lat" : 30.3277242,
+                        "lng" : 71.9921413
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 203
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : 30.3187074,
+                        "lng" : 71.9197791
+                     },
+                     "html_instructions" : "Make a \u003cb\u003eU-turn\u003c/b\u003e",
+                     "maneuver" : "uturn-right",
+                     "polyline" : {
+                        "points" : "qr`xDmm}uL[?@mCBcC@}@Fu@"
+                     },
+                     "start_location" : {
+                        "lat" : 30.3186508,
+                        "lng" : 71.9178287
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "10.3 km",
+                        "value" : 10273
+                     },
+                     "duration" : {
+                        "text" : "17 mins",
+                        "value" : 996
+                     },
+                     "end_location" : {
+                        "lat" : 30.3981232,
+                        "lng" : 71.8675375
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at K.E &amp; S.R Enterprises onto \u003cb\u003eKhanewal-Kabirwala Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Noor Mobile (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}r`xDsy}uLa@[ECOKKJQLOJULYJk@J{@HiBF}@JYD_@FYNkAv@m@b@_Al@c@VWNu@h@}BbBWPs@f@q@h@kBvAw@h@ULmAx@g@XMHs@`@]RMHoBpAOJgAt@q@`@uAbAu@f@_@Ts@`@qBnAu@f@WPkAt@MH]T]TSNIF]T]V]TGDSNA@]TEBMHID_@T]TUNgAp@sAz@OLmAv@uH~EIDcDvBuFhDy@h@_B`AoPnKy@f@w@`@u@b@UNeAj@e@Zk@^MFqAx@SJo@`@kBfA_An@s@b@iAr@m@`@gAn@yChBQJm@ZaB|@uA`A{@j@s@b@cDtBmAt@GFoA~@m@\\EBs@`@oMjJy@j@gAn@WPkCbBkBjAo@^yBvAw@d@mAv@k@\\WNWNIF[POJ_An@q@j@mA~@MJYTe@\\IFm@d@g@\\KHuFbEsFzDuA`AWP]TeAx@iCdBe@\\mAx@_EvCm@`@uB|AwB|AuF|DqA~@aCfB]V_HjF{BhBmBtASLy@l@MH]V[V]V]V[V]V]V]VKJqBzASN]V]V[VIF[V[X]XUPa@^eAv@yBfBKFg@`@{FrEA?[XYRCBIFOLC@[V]VUPED]V]X[VuAbAIH{KfIYTmA|@kAp@EBoJtEoOlHu@\\SJmB~@]PoAp@sCxAkAl@yDfBkAj@}@d@cEnBYJ[Dg@HUBI@kAP[Dg@DKBq@NiAVeANgAL{@HcAJU@o@H[B_Gj@u@FaABaA@w@@u@@mDA"
+                     },
+                     "start_location" : {
+                        "lat" : 30.3187074,
+                        "lng" : 71.9197791
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.9 km",
+                        "value" : 1896
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 197
+                     },
+                     "end_location" : {
+                        "lat" : 30.4126439,
+                        "lng" : 71.8711826
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e at Anees Hardware &amp; Zarai Instruments onto \u003cb\u003eBypass\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Al-Islam Tyres (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "gcpxDcssuL_@QYWa@aAOa@s@eBSe@Wo@KWKYKUmAyCu@{AQ[]{@y@mBYq@QYQSQO[UYU[QUMOICASG]EWAS?qB@[@kC?A?e@?Q?aD?wB?iB@i@@iABeCHgC^}Bd@mARWFy@NOD{@NkAVcBZgATy@NcB\\}Bd@[FYFa@BQ?MA"
+                     },
+                     "start_location" : {
+                        "lat" : 30.3981232,
+                        "lng" : 71.8675375
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.8 km",
+                        "value" : 3784
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 280
+                     },
+                     "end_location" : {
+                        "lat" : 30.4415544,
+                        "lng" : 71.89196219999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eJhang Rd\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eMultan Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Al-Madina Tiles &amp; Sanitary Haji AmanUllah &amp; Sons (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "_~rxD{ituLMEIE]Sa@W{@{@q@a@_HaE}A_AgDqBuAw@SMKIs@a@u@c@oAu@i@]}DuBQKuAw@o@a@e@WQOaCwAk@[uHmEIGwDmCuIkFeBgAgJqFuJyGuIcGQMkI{FAAAAqBuAwFuDqBsAmBoASOq@e@SOWQYSc@[SOu@e@WOAAmE_D[UwA}@IEiCkBkBoAWQy@k@kBuAkBoA"
+                     },
+                     "start_location" : {
+                        "lat" : 30.4126439,
+                        "lng" : 71.8711826
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "4.4 km",
+                        "value" : 4420
+                     },
+                     "duration" : {
+                        "text" : "8 mins",
+                        "value" : 506
+                     },
+                     "end_location" : {
+                        "lat" : 30.4746048,
+                        "lng" : 71.8765087
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "urxxDwkxuLA@oCvDoAhBeFnHi@r@UXCDqBpCUZEDC@KDG@qABE@E@A?CFGLY`@c@p@mC|D{AnBORCB}BdDgAzAyB~CCBWb@i@v@o@z@Y^QRSZ[d@]j@UZ_@h@KLCBE@?@G@[@o@@E@C@C@A@yAnBILCDAF?@ANEb@ENc@x@oCfFKRS`@e@fAaBfEy@hC]|@MREFCDMHKBq@EsAGcBMi@C]?cEAcAAc@A_@?q@AM?sAAy@AQ?mAAY?GAa@GQ?GAkBAmCCcGEyEEG?gCC_HCuCCoHEwKIcCCiGCuDG{ACeB@_ACsAEm@Ae@AS?O?m@@IA"
+                     },
+                     "start_location" : {
+                        "lat" : 30.4415544,
+                        "lng" : 71.89196219999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "73 m",
+                        "value" : 73
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 18
+                     },
+                     "end_location" : {
+                        "lat" : 30.4743943,
+                        "lng" : 71.87578739999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ga_yDekuuLBNDXJf@R|@"
+                     },
+                     "start_location" : {
+                        "lat" : 30.4746048,
+                        "lng" : 71.8765087
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 103
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 30.4750121,
+                        "lng" : 71.8763051
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}__yDufuuLe@NI@G?EAGEGIm@gB"
+                     },
+                     "start_location" : {
+                        "lat" : 30.4743943,
+                        "lng" : 71.87578739999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "6.4 km",
+                        "value" : 6382
+                     },
+                     "duration" : {
+                        "text" : "13 mins",
+                        "value" : 751
+                     },
+                     "end_location" : {
+                        "lat" : 30.5145777,
+                        "lng" : 71.83477739999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at Al Mumtaz Filling station",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "yc_yD}iuuL[NuDjCe@ZmTjOqGpEeH|EcCdBcH~EqA|@wEhDoAt@cDzBmBrAeC`BmBx@m@TmGbCiBt@e@Py@\\k@Tc@NiHlCiBr@wBz@gA`@uDxA{@ZkDrAkCbAqB|@wCnAu@Zc@PKF{DhBgAh@y@`@YPe@ZC@qAx@QJkAz@oClBw@f@wHfF_FdDuDdCk@`@{F~DiAp@mAz@gAt@w@h@yCtBoBrBm@l@ONu@x@O\\GXEd@WtCa@bFw@fJo@tHKbAaAbLYfDCXa@pDIx@W~CQtByAfQCb@w@xIAH"
+                     },
+                     "start_location" : {
+                        "lat" : 30.4750121,
+                        "lng" : 71.8763051
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "52 m",
+                        "value" : 52
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 30.5141143,
+                        "lng" : 71.83473819999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "c{fyDkfmuL|AF"
+                     },
+                     "start_location" : {
+                        "lat" : 30.5145777,
+                        "lng" : 71.83477739999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wrbxDaflzL`E_CdMB|GEvDCpABdA@BtA?lABbOKtJFzO?dNA|U@nQqPlIm\\`Pkr@h]og@|Vqr@r\\at@f^yNbHaNjHyOdL{CvBAnFHhKiALsIr@?hAe@B_ADsECaD}@cBKEBOLELG^aCEm@Qs@t@sClCaOzIBdl@Lt}@ZjwCHja@Fh`@C`[k@vBaAbBmEnFcBhAyBt@uc@~_@up@xo@eo@ln@mn@fm@qAzAeD`Hi\\pr@kHzOoDhHwOtYEVOnBc@`@oEzDuHhF}RbNa[tTkj@xb@yjAl}@eu@jj@uKxGwCrA}@zAmAhBsBN_DJiC?uA{F{C}Oq@}BuDd@kCz@RzCnIrc@bCfM|A`E|AbDrBbEbH~\\xOfx@`_@tkB~Jdh@nSzcAvHd`@zAnHNzBWvDaBbHsTdaA{Qfx@uFlWw@nHMhHZjaAFvMv@rIdBbG~BjEt_@bi@p`ApsAnFzGvE~CrWdI~d@jNdAp@zAnB|Gf]pK|h@t[v_Bh_@llB~\\hdBpKnj@bBhT|FhZfGtZ~DjQd@rDCtEiBr`@@jCb@lDfA~CbEtFnNfQ`G`I~AzDrCxMzO`w@tNjs@pT~fAf]ndBrNfs@lCjO^jHMdGiCxRmG~b@yHlh@cAxIKtGh@`IlBrIfChFxBvC|CxCrCfBtG`CvVlD|`@rF`GrArDpCzAvBnAvCb@xBxAtQrFzu@~@~KjAvHxEpVpLnl@hMnn@|[l_B`_@~iBn]rcBzGr[jDxLdIxWlGrWfCfLpDnQbB|Qp@rIjAnIvLfm@fPvx@zQn}@lGzZdF`WtDhOjEnJxBdDxB~DlClI`BzK`@zG`@nNh@xFfErSnOru@nF|VTzCBfLFx\\?xP_ApFcGlMiA~E]hEg@`RcAf\\i@hSiBbn@[?@mCDaEFu@a@[UOcAr@kFh@qCh@}E`DmNbKeYtQ}KrHiw@bg@qYfQiQpKa[bTs[fS_c@j[w[jUeWpR{N~K{TlQcGtEmOdLq]xP_U|KgJlEcBTeLfByQ|A}IBy@i@q@cBkBsE{CeHcCwFqAsA{A_AmAQiOBuIFmGh@kEx@}Cl@qHxAwGrAoACeCmBwQuKwO_JsToM}RiM}UkOgJqGaMuIkNiJ}F}D{QiMsGoEoNdSaDlE]N_BFiAhBaQjVkFxHeAvAi@F}@FiBdCI|@eEdIkGzOYLeCMoJSgJIeLSkv@g@g]]wB?ELP`AR|@e@NQ@cAyBe{@xl@}OxKsFtD{CnAwMhFcNfFs^xNcNxGcx@ri@cFjFu@rFwG|u@mCv[{@|JzAP"
+         },
+         "summary" : "NH 5/AH2",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,562 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ-XJ2OqgaGTkRfwyuCd7dlBY",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJv2vjaasfGTkRH861UXLfEY4",
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 31.7021051,
+               "lng" : 74.4048373
+            },
+            "southwest" : {
+               "lat" : 31.5797079,
+               "lng" : 74.2743608
+            }
+         },
+         "copyrights" : "Map data ©2022",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "29.5 km",
+                  "value" : 29498
+               },
+               "duration" : {
+                  "text" : "37 mins",
+                  "value" : 2248
+               },
+               "end_address" : "Plot # 10, Grand Trunk Rd, near THQ hospital, opposite to UBL, Kiranpark, Phase 1 Rachna Town, Ferozewala, Lahore, Punjab, Pakistan",
+               "end_location" : {
+                  "lat" : 31.6593926,
+                  "lng" : 74.2826853
+               },
+               "start_address" : "HCH3+VV6, Shalimar Housing Scheme, Lahore, Punjab 54000, Pakistan",
+               "start_location" : {
+                  "lat" : 31.5797079,
+                  "lng" : 74.4048373
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "19 m",
+                        "value" : 19
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 6
+                     },
+                     "end_location" : {
+                        "lat" : 31.579867,
+                        "lng" : 74.404792
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "e|v_EgeceMI?I@KF"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5797079,
+                        "lng" : 74.4048373
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "86 m",
+                        "value" : 86
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 31.5798992,
+                        "lng" : 74.40388969999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eShah Din Park Rd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "e}v_E}dceM?rA?j@Er@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.579867,
+                        "lng" : 74.404792
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "70 m",
+                        "value" : 70
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 31.5805253,
+                        "lng" : 74.40393779999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eShah Din Park Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Noor Pan Shop (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "k}v_Ei_ceM]AUASAK?QAWA"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5798992,
+                        "lng" : 74.40388969999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "56 m",
+                        "value" : 56
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : 31.5810204,
+                        "lng" : 74.40402659999999
+                     },
+                     "html_instructions" : "At Ali General Store, continue onto \u003cb\u003eShah Din Park Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Bismillah Homeo Clinic (on the right)\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "iaw_Es_ceMI?s@Ic@G"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5805253,
+                        "lng" : 74.40393779999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 190
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 64
+                     },
+                     "end_location" : {
+                        "lat" : 31.5815493,
+                        "lng" : 74.40247789999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by SAW Tech Software House (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kdw_Ee`ceMIbAE`AE~@Ed@A@?@A?A@}@GC@AB?DC~@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5810204,
+                        "lng" : 74.40402659999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "62 m",
+                        "value" : 62
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 31.5821029,
+                        "lng" : 74.40249249999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at Chisti jarnal store toward \u003cb\u003eStreet No. 1\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ugw_EovbeMm@AS?A?i@?"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5815493,
+                        "lng" : 74.40247789999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 146
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 31.582154,
+                        "lng" : 74.4009564
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eStreet No. 1\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by راجپوت ہاوس (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ckw_EqvbeMAb@AnAArA?FCrA?L"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5821029,
+                        "lng" : 74.40249249999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 144
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 31.5834519,
+                        "lng" : 74.4009717
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eSue Wala Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by SIDDIQUE HOSPITAL (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "mkw_E_mbeMcC?_CA"
+                     },
+                     "start_location" : {
+                        "lat" : 31.582154,
+                        "lng" : 74.4009564
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 245
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 51
+                     },
+                     "end_location" : {
+                        "lat" : 31.5830206,
+                        "lng" : 74.3984349
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at Dedar-e-Madina tours &amp; travel(pvt.Ltd) onto \u003cb\u003eSue Wala Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by RD traders (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qsw_EambeMFj@Ht@TlDLfADVXjC"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5834519,
+                        "lng" : 74.4009717
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 380
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 127
+                     },
+                     "end_location" : {
+                        "lat" : 31.5863298,
+                        "lng" : 74.39798780000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at Allah Tawakal Traders\u003cdiv style=\"font-size:0.9em\"\u003ePass by New Al Fateh Shadi Hall, Sue Wala Rd, Lahore (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{pw_Ee}aeMU@cBPy@HG@e@DM?S?_A@cADUBA?A@A@?@?@AD?D?BA@?@A??@A?A?A?y@Ba@?i@?gA@W@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5830206,
+                        "lng" : 74.3984349
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 414
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 51
+                     },
+                     "end_location" : {
+                        "lat" : 31.5858428,
+                        "lng" : 74.3936526
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at Naqsh-e-lasani Electronics onto \u003cb\u003eG. T. Road\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eAH1\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Sadaat Plaza (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qex_EmzaeMJhAXnGFv@ZtF?DJnBBp@Fr@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5863298,
+                        "lng" : 74.39798780000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 1029
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 127
+                     },
+                     "end_location" : {
+                        "lat" : 31.5870756,
+                        "lng" : 74.4042779
+                     },
+                     "html_instructions" : "Make a \u003cb\u003eU-turn\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Graphic Designing Courses In Lahore (on the left)\u003c/div\u003e",
+                     "maneuver" : "uturn-right",
+                     "polyline" : {
+                        "points" : "obx_Ei_aeMUBY_Ea@iIi@_KOiCSqEwAkZ"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5858428,
+                        "lng" : 74.3936526
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.9 km",
+                        "value" : 1876
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 285
+                     },
+                     "end_location" : {
+                        "lat" : 31.6034573,
+                        "lng" : 74.400037
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eBand Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Haji Auto Store (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gjx_EwaceMSBcFr@sEx@yB`@y@Ly@Jy@Nw@Ju@J_BVKBw@LgFr@G@yB^mEt@eEr@yC`@k@FuE|@eAFcAH}BRcDVC?{@F}BHk@BM@}@HQDe@JSFMDMHWLoC`By@l@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5870756,
+                        "lng" : 74.4042779
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 129
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 31.604366,
+                        "lng" : 74.3995556
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e3rd\u003c/b\u003e exit",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "sp{_EggbeM?N?B?FAFCDAFEDCDEBEBEBE@E?G?E?GAEAECEEa@HYHa@L"
+                     },
+                     "start_location" : {
+                        "lat" : 31.6034573,
+                        "lng" : 74.400037
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 882
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 77
+                     },
+                     "end_location" : {
+                        "lat" : 31.6091078,
+                        "lng" : 74.39385590000001
+                     },
+                     "html_instructions" : "Continue straight",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "iv{_EgdbeMaDvA_Br@wB|@oBz@eCfAaBr@QHSHg@RQHOH[RWRUTUZU^Q`@Ob@K`@G`@E^Cf@AH?b@?X@PD`@DXPjATlAHd@DR"
+                     },
+                     "start_location" : {
+                        "lat" : 31.604366,
+                        "lng" : 74.3995556
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 1026
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 93
+                     },
+                     "end_location" : {
+                        "lat" : 31.6115407,
+                        "lng" : 74.4014469
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by the park (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}s|_Es`aeM^RPDF?JALEXOBCDIBGBQBs@A_E?sEF_@De@P{@Hy@Cq@Cm@QyB?A]wBCQc@{Ba@qAe@iAg@w@k@m@q@g@g@U]OCAEGKQ]G}@G}@BO@G@s@La@B"
+                     },
+                     "start_location" : {
+                        "lat" : 31.6091078,
+                        "lng" : 74.39385590000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "13.2 km",
+                        "value" : 13213
+                     },
+                     "duration" : {
+                        "text" : "9 mins",
+                        "value" : 551
+                     },
+                     "end_location" : {
+                        "lat" : 31.696609,
+                        "lng" : 74.3244227
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eLahore Eastern Bypass\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eSialkot - Lahore Motorway\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eM-11\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "cc}_EapbeMUJKDMFKDcEfBYJ_@Na@PYLMDUJ}B|@MFKDqAf@QFeBp@MFMFQFmDrAw@`@mAl@mBlAGDkAt@gBnAoBxA]XsAdAIFuAjAONMLaBtA[X[XeA`AmAlAiBlBcEpEaBxBgCtDOTmCxDAByAbCKNINaAbBmBhDoAhCQ\\iA~BeBdEO^ABcB`EwAnEADyB`HgBxGeC|Kc@hCAD_AtFaA~HABUrBcArLw@dPEpC?DGfDCdCAVAXCrAG|BElAA`@?d@ExAGzAS`Dk@|F?Do@jEEVy@~EkAbFyAhFuAjEA@?@m@xAq@|ASh@Qb@i@~@Ud@}@fBADcAbBa@l@kCvDiCfDmAxAu@v@{A`BqAvAyA`By@~@cBnBi@l@yA~AoFhGkAnAYXuA|AyDfEkKlLwA`ByBbCoLrMQRmGhHQRsFbGyCdDq@r@a@Z]Z{B`B_Ap@gAz@ED}ArAYV{@p@UPMH{BvAwA|@uFrCMF{C~AcClA_@RmAl@qBt@kCz@MDcHtB_Bd@{HhBkCl@eAVeATE@UDg@HgCT_DXU@cHj@cEXkAH{ANUBm@F}@Hk@FM@{AN_DXyALK@gBPQBo@L_@D{AN_@@a@BkAFW@{AFeBHkALg@@o@AgBGk@?{NSsBAE?iDGiA?E?]A}EAoCAI?K?m@AiAAwCCk@@iA@iBPaBL_AF{ANeC\\kGp@{DXgD`@I@qI`AqEn@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.6115407,
+                        "lng" : 74.4014469
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.3 km",
+                        "value" : 1282
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 57
+                     },
+                     "end_location" : {
+                        "lat" : 31.7014844,
+                        "lng" : 74.3136954
+                     },
+                     "html_instructions" : "Take the exit toward \u003cb\u003eLahore Bypass\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eLahore Eastern Bypass\u003c/b\u003e",
+                     "maneuver" : "ramp-left",
+                     "polyline" : {
+                        "points" : "yvm`EsnsdMaA^oAd@}Bz@_Bz@kBtAoBjBkA|A[^o@`Ai@dAcA`Cs@pBw@bD]lBUhBMjBIrB@|BFbCHvBLdBXhD"
+                     },
+                     "start_location" : {
+                        "lat" : 31.696609,
+                        "lng" : 74.3244227
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.4 km",
+                        "value" : 3391
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 135
+                     },
+                     "end_location" : {
+                        "lat" : 31.7000034,
+                        "lng" : 74.27822479999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eLahore Bypass\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eLahore Eastern Bypass\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gun`EskqdML~@Jr@LxA?PDz@?n@@p@@|BIlBOvCEfAGr@e@dHc@fGMhCALK`CAXChAAFC~@GdCGvDCfD?jD?`BAdBDxF@bKCdI?D?lE?n@DtHAvF@j@BtAHtCFhCHxBZdHNrC`@tEZpDf@zEp@`GdAbHd@jC^lB`@zBH^"
+                     },
+                     "start_location" : {
+                        "lat" : 31.7014844,
+                        "lng" : 74.3136954
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "4.8 km",
+                        "value" : 4771
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 382
+                     },
+                     "end_location" : {
+                        "lat" : 31.6593603,
+                        "lng" : 74.2817707
+                     },
+                     "html_instructions" : "Exit onto \u003cb\u003eGT Rd\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eNH 5\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eAH1\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eAH2\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eToll road\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by RijjaFatima Events Management (on the left in 1.1 km)\u003c/div\u003e",
+                     "maneuver" : "ramp-left",
+                     "polyline" : {
+                        "points" : "_ln`E{mjdMT`@@@T~@BLb@|BBJNl@HTNXLPTTVLZLNBT@B?Z?f@KPE`@MXCVATBVBPDJDNHHBHFRRNPLPR^@DPZ@BBDPb@PRb@j@p@j@r@^z@Vb@Ht@Dh@?\\I`@Gb@Gz@?V@LCfIeAlASrEi@|G_ApBYVEhMyA`@GtFq@tGy@DAHAdBSfEi@`@Ev@KxAQn@KdAMdDc@pC_@pBWfGw@TCjDc@NCbGu@nGw@d@GjAMxKyAxG_Al@KZElHy@`Fm@h@IhAQ|OmBnDc@t@IhEk@n@InGu@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.7000034,
+                        "lng" : 74.27822479999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "87 m",
+                        "value" : 87
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 31.6593926,
+                        "lng" : 74.2826853
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Makki Goods Transport Co (on the left)\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_nf`EadkdMAWCiA?uA"
+                     },
+                     "start_location" : {
+                        "lat" : 31.6593603,
+                        "lng" : 74.2817707
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "e|v_EgeceMS@KF?rAE~As@CiAE}@Ic@GIbAK`CGf@aACC@AHC~@m@AU?i@?Ab@CbDCzA?LcC?_CAFj@^bFR~AXjCU@}CZm@FeDFYDADANCD_ABkDBJhAXnGb@lHVzEUBY_EkAiUc@{IwAkZSBcFr@sEx@yB`@eFt@yEt@oFt@gItA_JtAk@FuE|@iCPaHj@iFTkAJw@Pa@Le@VoC`By@l@?RG\\URYDYGEEa@H{@ViNdGmGnCy@\\k@\\m@h@k@z@a@dASbAIfAAl@@j@Jz@v@rEp@XRAf@UHMFY@sF?sEF_@VaBHy@Cq@UgD]yBg@mCa@qAe@iAg@w@k@m@q@g@g@Ua@QQY]G}@GmAD{@Na@BUJYLiGhC_Bp@}J|D_EzAeCnAuBrAsDdCkF`EuE~Dw@r@sCnCiBlBcEpEaBxBgCtD}CnE{AfCeElHaBfDiA~BeBdEQb@cB`EwAnE{BfHgBxGeC|Ke@nC_AtFaA~HWvBcArLw@dPEvCKlHObGMnF[|Fk@bGu@bFy@~EkAbFyAhFuAjEABeCdG_CrEeBpCkCvDiCfDcCpCmDxDaH~HyA~AoFhGeBhBsVtXiYt[qMpN_Av@{DrCeElDqAbAiC`BwA|@uFrCMFmKnF}FpBMDcHtB_Bd@{HhBqEdAkAV}@NgHn@iQpAsOxA_Fd@oAR{BPaFTeBHkALwA?sCGoRU_GGqTMuBBkE^{CVqKnA{DXgD`@{IbAqEn@aA^mE`B_Bz@kBtAoBjBkA|AkA`Bi@dAcA`Cs@pBw@bDs@vEW~E@|BFbCHvBLdBXhDL~@XlCDlA@`B@|BIlBU~Em@xIc@fGMhCMnCKjDO|HCrIAfEDxF@bKCjI?|FBlPD`CP~Gd@~KNrC|@fKxA|MjBnL`AhFH^T`@V`Af@jCRx@Xn@b@f@r@Zd@D^?x@Q`@MXCl@@h@Hn@Zb@d@`@p@Xj@b@v@b@j@p@j@r@^z@Vb@Ht@Dh@?\\IdAOrA@tIiAlASrEi@nKyAxVyCjKqAhXkDdc@qFdNgBfIkAtQwBhAQ|OmBdFm@xFu@nGu@AWC_D"
+         },
+         "summary" : "Lahore Eastern Bypass/Sialkot - Lahore Motorway/M-11",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

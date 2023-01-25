@@ -1,0 +1,519 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "3C78+22G Solgin, Pakistan",
+      "global_code" : "8J4M3C78+22G"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3C67+VH2",
+               "short_name" : "3C67+VH2",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Hafizabad Rd",
+               "short_name" : "Hafizabad Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jalalpur Bhattian",
+               "short_name" : "Jalalpur Bhattian",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pindi Bhattian",
+               "short_name" : "Pindi Bhattian",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Hafizabad",
+               "short_name" : "Hafizabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "52110",
+               "short_name" : "52110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3C67+VH2, Hafizabad Rd, Jalalpur Bhattian, Hafizabad, Punjab 52110, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0621749,
+                  "lng" : 73.41394269999999
+               },
+               "southwest" : {
+                  "lat" : 32.062132,
+                  "lng" : 73.4138114
+               }
+            },
+            "location" : {
+               "lat" : 32.062153,
+               "lng" : 73.4138658
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0635024302915,
+                  "lng" : 73.41522603029151
+               },
+               "southwest" : {
+                  "lat" : 32.0608044697085,
+                  "lng" : 73.4125280697085
+               }
+            }
+         },
+         "place_id" : "ChIJ7dWXwIH-ITkRJW0TFCQ-250",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3C78+22",
+               "short_name" : "3C78+22",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Solgin",
+               "short_name" : "Solgin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pindi Bhattian",
+               "short_name" : "Pindi Bhattian",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Hafizabad",
+               "short_name" : "Hafizabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "3C78+22 Solgin, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.062625,
+                  "lng" : 73.415125
+               },
+               "southwest" : {
+                  "lat" : 32.0625,
+                  "lng" : 73.41499999999999
+               }
+            },
+            "location" : {
+               "lat" : 32.0625746,
+               "lng" : 73.4150781
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.06391148029149,
+                  "lng" : 73.4164114802915
+               },
+               "southwest" : {
+                  "lat" : 32.0612135197085,
+                  "lng" : 73.41371351970849
+               }
+            }
+         },
+         "place_id" : "GhIJt0fKcQIIQEARSzK8o5BaUkA",
+         "plus_code" : {
+            "compound_code" : "3C78+22 Solgin, Pakistan",
+            "global_code" : "8J4M3C78+22"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jalalpur Bhattian Road",
+               "short_name" : "Jalalpur Bhattian Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Solgin",
+               "short_name" : "Solgin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pindi Bhattian",
+               "short_name" : "Pindi Bhattian",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Hafizabad",
+               "short_name" : "Hafizabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jalalpur Bhattian Rd, Solgin, Hafizabad, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0618773,
+                  "lng" : 73.41637519999999
+               },
+               "southwest" : {
+                  "lat" : 32.0617291,
+                  "lng" : 73.4149809
+               }
+            },
+            "location" : {
+               "lat" : 32.0618015,
+               "lng" : 73.4156778
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0631521802915,
+                  "lng" : 73.41702703029151
+               },
+               "southwest" : {
+                  "lat" : 32.0604542197085,
+                  "lng" : 73.41432906970849
+               }
+            }
+         },
+         "place_id" : "ChIJR4HIZ4D-ITkRHNRTDiMqizk",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Solgin",
+               "short_name" : "Solgin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pindi Bhattian",
+               "short_name" : "Pindi Bhattian",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Hafizabad",
+               "short_name" : "Hafizabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Solgin, Hafizabad, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0657379,
+                  "lng" : 73.42919719999999
+               },
+               "southwest" : {
+                  "lat" : 32.0562384,
+                  "lng" : 73.4131299
+               }
+            },
+            "location" : {
+               "lat" : 32.0616698,
+               "lng" : 73.42096769999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0657379,
+                  "lng" : 73.42919719999999
+               },
+               "southwest" : {
+                  "lat" : 32.0562384,
+                  "lng" : 73.4131299
+               }
+            }
+         },
+         "place_id" : "ChIJ9TvYon7-ITkRSDohozuVOPA",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rasoolpur Tarar",
+               "short_name" : "Rasoolpur Tarar",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Pindi Bhattian",
+               "short_name" : "Pindi Bhattian",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Hafizabad",
+               "short_name" : "Hafizabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rasoolpur Tarar, Hafizabad, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.1016148,
+                  "lng" : 73.52601829999999
+               },
+               "southwest" : {
+                  "lat" : 32.0233204,
+                  "lng" : 73.39846779999999
+               }
+            },
+            "location" : {
+               "lat" : 32.0577213,
+               "lng" : 73.45337789999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.1016148,
+                  "lng" : 73.52601829999999
+               },
+               "southwest" : {
+                  "lat" : 32.0233204,
+                  "lng" : 73.39846779999999
+               }
+            }
+         },
+         "place_id" : "ChIJ604xTQL-ITkRD0YTisd3AWc",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pindi Bhattian",
+               "short_name" : "Pindi Bhattian",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Hafizabad",
+               "short_name" : "Hafizabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pindi Bhattian, Hafizabad, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.1827314,
+                  "lng" : 73.62347389999999
+               },
+               "southwest" : {
+                  "lat" : 31.7615505,
+                  "lng" : 73.1597093
+               }
+            },
+            "location" : {
+               "lat" : 31.9314181,
+               "lng" : 73.4180211
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.1827314,
+                  "lng" : 73.62347389999999
+               },
+               "southwest" : {
+                  "lat" : 31.7615505,
+                  "lng" : 73.1597093
+               }
+            }
+         },
+         "place_id" : "ChIJMzUNgF__ITkRY7TazMQ7j_w",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hafizabad",
+               "short_name" : "Hafizabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hafizabad, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.3421286,
+                  "lng" : 73.8308619
+               },
+               "southwest" : {
+                  "lat" : 31.7615504,
+                  "lng" : 73.1597093
+               }
+            },
+            "location" : {
+               "lat" : 32.0828952,
+               "lng" : 73.55941279999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.3421286,
+                  "lng" : 73.8308619
+               },
+               "southwest" : {
+                  "lat" : 31.7615504,
+                  "lng" : 73.1597093
+               }
+            }
+         },
+         "place_id" : "ChIJU5BQC_pZHzkRw9KtQn0CiZQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

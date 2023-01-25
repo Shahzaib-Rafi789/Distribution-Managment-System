@@ -1,0 +1,386 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "C8X2+X2R Nandgarh, Pakistan",
+      "global_code" : "8J4PC8X2+X2R"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "C8X2+X2",
+               "short_name" : "C8X2+X2",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Nandgarh",
+               "short_name" : "Nandgarh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sambrial",
+               "short_name" : "Sambrial",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sialkot",
+               "short_name" : "Sialkot",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "C8X2+X2 Nandgarh, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.45,
+                  "lng" : 74.30012499999999
+               },
+               "southwest" : {
+                  "lat" : 32.449875,
+                  "lng" : 74.3
+               }
+            },
+            "location" : {
+               "lat" : 32.45,
+               "lng" : 74.3
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.4512864802915,
+                  "lng" : 74.30141148029149
+               },
+               "southwest" : {
+                  "lat" : 32.4485885197085,
+                  "lng" : 74.29871351970849
+               }
+            }
+         },
+         "place_id" : "GhIJmZmZmZk5QEARMzMzMzOTUkA",
+         "plus_code" : {
+            "compound_code" : "C8X2+X2 Nandgarh, Pakistan",
+            "global_code" : "8J4PC8X2+X2"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Malkhanwala",
+               "short_name" : "Malkhanwala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sambrial",
+               "short_name" : "Sambrial",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sialkot",
+               "short_name" : "Sialkot",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Malkhanwala, Sialkot, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.4486289,
+                  "lng" : 74.3016947
+               },
+               "southwest" : {
+                  "lat" : 32.4469875,
+                  "lng" : 74.29944949999999
+               }
+            },
+            "location" : {
+               "lat" : 32.4486258,
+               "lng" : 74.30145759999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.44915718029149,
+                  "lng" : 74.30192108029151
+               },
+               "southwest" : {
+                  "lat" : 32.4464592197085,
+                  "lng" : 74.2992231197085
+               }
+            }
+         },
+         "place_id" : "ChIJyTHwf6ngHjkREgQQwek4WEc",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gojra",
+               "short_name" : "Gojra",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Sambrial",
+               "short_name" : "Sambrial",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sialkot",
+               "short_name" : "Sialkot",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gojra, Sialkot, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.5224011,
+                  "lng" : 74.34513700000001
+               },
+               "southwest" : {
+                  "lat" : 32.383565,
+                  "lng" : 74.1992245
+               }
+            },
+            "location" : {
+               "lat" : 32.4588558,
+               "lng" : 74.24140919999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.5224011,
+                  "lng" : 74.34513700000001
+               },
+               "southwest" : {
+                  "lat" : 32.383565,
+                  "lng" : 74.1992245
+               }
+            }
+         },
+         "place_id" : "ChIJRVsuQI_gHjkRC7ktmPfyczA",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sambrial",
+               "short_name" : "Sambrial",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sialkot",
+               "short_name" : "Sialkot",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sambrial, Sialkot, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.5897966,
+                  "lng" : 74.57336959999999
+               },
+               "southwest" : {
+                  "lat" : 32.3193179,
+                  "lng" : 74.1992245
+               }
+            },
+            "location" : {
+               "lat" : 32.4839231,
+               "lng" : 74.2648829
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.5897966,
+                  "lng" : 74.57336959999999
+               },
+               "southwest" : {
+                  "lat" : 32.3193179,
+                  "lng" : 74.1992245
+               }
+            }
+         },
+         "place_id" : "ChIJe3gaZl_dHjkRI2n8yM4yM60",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sialkot",
+               "short_name" : "Sialkot",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sialkot, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.8364409,
+                  "lng" : 74.94847659999999
+               },
+               "southwest" : {
+                  "lat" : 32.053111,
+                  "lng" : 74.1992243
+               }
+            },
+            "location" : {
+               "lat" : 32.3810842,
+               "lng" : 74.49945169999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8364409,
+                  "lng" : 74.94847659999999
+               },
+               "southwest" : {
+                  "lat" : 32.053111,
+                  "lng" : 74.1992243
+               }
+            }
+         },
+         "place_id" : "ChIJtZlK8ofBHjkR2mjrxc1aF0c",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

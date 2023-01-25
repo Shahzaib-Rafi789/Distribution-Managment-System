@@ -1,0 +1,563 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "WJFP+22G Hundewali, Pakistan",
+      "global_code" : "8J3JWJFP+22G"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "WJFM+4XH",
+               "short_name" : "WJFM+4XH",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Sargodha Shaheen Abad Road",
+               "short_name" : "Sargodha Shaheen Abad Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hundewali",
+               "short_name" : "Hundewali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sillanwali",
+               "short_name" : "Sillanwali",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "WJFM+4XH, Sargodha Shaheen Abad Rd, Hundewali, Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.9228008,
+               "lng" : 72.63499139999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9241497802915,
+                  "lng" : 72.6363403802915
+               },
+               "southwest" : {
+                  "lat" : 31.9214518197085,
+                  "lng" : 72.63364241970849
+               }
+            }
+         },
+         "place_id" : "ChIJGbUznoR_ITkR9x1oXWT1-Hw",
+         "types" : [ "establishment", "hardware_store", "point_of_interest", "store" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "WJFM+3XR",
+               "short_name" : "WJFM+3XR",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Hundewali",
+               "short_name" : "Hundewali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sillanwali",
+               "short_name" : "Sillanwali",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "WJFM+3XR, Hundewali, Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.9228211,
+                  "lng" : 72.6349443
+               },
+               "southwest" : {
+                  "lat" : 31.9227411,
+                  "lng" : 72.63485589999999
+               }
+            },
+            "location" : {
+               "lat" : 31.9227748,
+               "lng" : 72.63490109999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9241300802915,
+                  "lng" : 72.63624908029151
+               },
+               "southwest" : {
+                  "lat" : 31.9214321197085,
+                  "lng" : 72.63355111970849
+               }
+            }
+         },
+         "place_id" : "ChIJx4sykI1-ITkR7oEcKNfBtPk",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "WJFP+22",
+               "short_name" : "WJFP+22",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Hundewali",
+               "short_name" : "Hundewali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sillanwali",
+               "short_name" : "Sillanwali",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "WJFP+22 Hundewali, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.922625,
+                  "lng" : 72.635125
+               },
+               "southwest" : {
+                  "lat" : 31.9225,
+                  "lng" : 72.63500000000001
+               }
+            },
+            "location" : {
+               "lat" : 31.9225746,
+               "lng" : 72.6350781
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9239114802915,
+                  "lng" : 72.63641148029153
+               },
+               "southwest" : {
+                  "lat" : 31.92121351970851,
+                  "lng" : 72.63371351970851
+               }
+            }
+         },
+         "place_id" : "GhIJyh5X2S3sP0AR-XmdHqUoUkA",
+         "plus_code" : {
+            "compound_code" : "WJFP+22 Hundewali, Pakistan",
+            "global_code" : "8J3JWJFP+22"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sargodha Shaheen Abad Road",
+               "short_name" : "Sargodha Shaheen Abad Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hundewali",
+               "short_name" : "Hundewali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sillanwali",
+               "short_name" : "Sillanwali",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sargodha Shaheen Abad Rd, Hundewali, Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.9231891,
+                  "lng" : 72.6354805
+               },
+               "southwest" : {
+                  "lat" : 31.9224648,
+                  "lng" : 72.6353135
+               }
+            },
+            "location" : {
+               "lat" : 31.9228334,
+               "lng" : 72.63536450000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.92417593029149,
+                  "lng" : 72.63674598029151
+               },
+               "southwest" : {
+                  "lat" : 31.9214779697085,
+                  "lng" : 72.6340480197085
+               }
+            }
+         },
+         "place_id" : "ChIJzZgWg41-ITkRSG54iZyEHOM",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hundewali",
+               "short_name" : "Hundewali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sillanwali",
+               "short_name" : "Sillanwali",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hundewali, Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.9252738,
+                  "lng" : 72.6397501
+               },
+               "southwest" : {
+                  "lat" : 31.9122671,
+                  "lng" : 72.6297842
+               }
+            },
+            "location" : {
+               "lat" : 31.9193029,
+               "lng" : 72.6343352
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9252738,
+                  "lng" : 72.6397501
+               },
+               "southwest" : {
+                  "lat" : 31.9122671,
+                  "lng" : 72.6297842
+               }
+            }
+         },
+         "place_id" : "ChIJ9YtvMYx-ITkRO3HE6guIHSQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chak 97 NB",
+               "short_name" : "Chak 97 NB",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chak 97 NB, Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.9534422,
+                  "lng" : 72.68980479999999
+               },
+               "southwest" : {
+                  "lat" : 31.87215,
+                  "lng" : 72.5707377
+               }
+            },
+            "location" : {
+               "lat" : 31.9224009,
+               "lng" : 72.6269437
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9534422,
+                  "lng" : 72.68980479999999
+               },
+               "southwest" : {
+                  "lat" : 31.87215,
+                  "lng" : 72.5707377
+               }
+            }
+         },
+         "place_id" : "ChIJh3mgzol-ITkR1HNO2yidOOo",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sillanwali",
+               "short_name" : "Sillanwali",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sillanwali, Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.9683651,
+                  "lng" : 72.76137179999999
+               },
+               "southwest" : {
+                  "lat" : 31.5566251,
+                  "lng" : 72.2457739
+               }
+            },
+            "location" : {
+               "lat" : 31.7893998,
+               "lng" : 72.5441445
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9683651,
+                  "lng" : 72.76137179999999
+               },
+               "southwest" : {
+                  "lat" : 31.5566251,
+                  "lng" : 72.2457739
+               }
+            }
+         },
+         "place_id" : "ChIJHUC2EfbZIzkR5MStrq6VSMo",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.5712785,
+                  "lng" : 73.31019239999999
+               },
+               "southwest" : {
+                  "lat" : 31.5566249,
+                  "lng" : 72.21704679999999
+               }
+            },
+            "location" : {
+               "lat" : 32.156592,
+               "lng" : 72.8042797
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.5712785,
+                  "lng" : 73.31019239999999
+               },
+               "southwest" : {
+                  "lat" : 31.5566249,
+                  "lng" : 72.21704679999999
+               }
+            }
+         },
+         "place_id" : "ChIJ0S6JJZadITkRmlmemFkTNjk",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

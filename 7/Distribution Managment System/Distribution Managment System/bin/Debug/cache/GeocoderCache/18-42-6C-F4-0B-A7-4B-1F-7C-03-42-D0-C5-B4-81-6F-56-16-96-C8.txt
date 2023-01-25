@@ -1,0 +1,386 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "GRFQ+6PQ Kak Chaudhry, Pakistan",
+      "global_code" : "8J5JGRFQ+6PQ"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "GRFQ+6P",
+               "short_name" : "GRFQ+6P",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Kak Chaudhry",
+               "short_name" : "Kak Chaudhry",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fateh Jang",
+               "short_name" : "Fateh Jang",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Rawalpindi",
+               "short_name" : "Rawalpindi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "GRFQ+6P Kak Chaudhry, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.523125,
+                  "lng" : 72.83937499999999
+               },
+               "southwest" : {
+                  "lat" : 33.523,
+                  "lng" : 72.83924999999999
+               }
+            },
+            "location" : {
+               "lat" : 33.5230788,
+               "lng" : 72.8393555
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.5244114802915,
+                  "lng" : 72.8406614802915
+               },
+               "southwest" : {
+                  "lat" : 33.5217135197085,
+                  "lng" : 72.83796351970848
+               }
+            }
+         },
+         "place_id" : "GhIJj50BP_TCQEAR740hALg1UkA",
+         "plus_code" : {
+            "compound_code" : "GRFQ+6P Kak Chaudhry, Pakistan",
+            "global_code" : "8J5JGRFQ+6P"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kak Chaudhry",
+               "short_name" : "Kak Chaudhry",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fateh Jang",
+               "short_name" : "Fateh Jang",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Attock",
+               "short_name" : "Attock",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Kak Chaudhry, Attock, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.5239848,
+                  "lng" : 72.84098139999999
+               },
+               "southwest" : {
+                  "lat" : 33.5215168,
+                  "lng" : 72.840862
+               }
+            },
+            "location" : {
+               "lat" : 33.5227453,
+               "lng" : 72.8409401
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.5240997802915,
+                  "lng" : 72.84227068029149
+               },
+               "southwest" : {
+                  "lat" : 33.5214018197085,
+                  "lng" : 72.83957271970849
+               }
+            }
+         },
+         "place_id" : "ChIJGfjtTK-b3zgRVH7vSIqDMXs",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jangal",
+               "short_name" : "Jangal",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Fateh Jang",
+               "short_name" : "Fateh Jang",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Attock",
+               "short_name" : "Attock",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jangal, Attock, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.5922057,
+                  "lng" : 72.93162989999999
+               },
+               "southwest" : {
+                  "lat" : 33.4686568,
+                  "lng" : 72.67815949999999
+               }
+            },
+            "location" : {
+               "lat" : 33.5258183,
+               "lng" : 72.81609759999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.5922057,
+                  "lng" : 72.93162989999999
+               },
+               "southwest" : {
+                  "lat" : 33.4686568,
+                  "lng" : 72.67815949999999
+               }
+            }
+         },
+         "place_id" : "ChIJu028D4qb3zgRCBijn8O9I3o",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fateh Jang",
+               "short_name" : "Fateh Jang",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Attock",
+               "short_name" : "Attock",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fateh Jang, Attock, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.7213621,
+                  "lng" : 72.9316305
+               },
+               "southwest" : {
+                  "lat" : 33.3192332,
+                  "lng" : 72.3869311
+               }
+            },
+            "location" : {
+               "lat" : 33.5296109,
+               "lng" : 72.61511689999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.7213621,
+                  "lng" : 72.9316305
+               },
+               "southwest" : {
+                  "lat" : 33.3192332,
+                  "lng" : 72.3869311
+               }
+            }
+         },
+         "place_id" : "ChIJXUwzeIl23zgRAOiD2IcKIrY",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Attock",
+               "short_name" : "Attock",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Attock, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0036649,
+                  "lng" : 72.9316305
+               },
+               "southwest" : {
+                  "lat" : 33.0125789,
+                  "lng" : 71.70939990000001
+               }
+            },
+            "location" : {
+               "lat" : 33.4743993,
+               "lng" : 72.236379
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0036649,
+                  "lng" : 72.9316305
+               },
+               "southwest" : {
+                  "lat" : 33.0125789,
+                  "lng" : 71.70939990000001
+               }
+            }
+         },
+         "place_id" : "ChIJt74KC7tB3zgRSBkITdRMA1k",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

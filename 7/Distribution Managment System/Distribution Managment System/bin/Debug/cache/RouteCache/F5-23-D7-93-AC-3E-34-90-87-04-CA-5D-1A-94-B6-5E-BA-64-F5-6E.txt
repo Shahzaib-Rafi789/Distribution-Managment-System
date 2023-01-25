@@ -1,0 +1,324 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJkdha2RpCITkRghgRu2sc9xs",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ5w3S3z5pITkRZIygrSPmnSM",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 32.0827035,
+               "lng" : 72.40708119999999
+            },
+            "southwest" : {
+               "lat" : 32.0634669,
+               "lng" : 72.317303
+            }
+         },
+         "copyrights" : "Map data ©2022",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "12.2 km",
+                  "value" : 12227
+               },
+               "duration" : {
+                  "text" : "26 mins",
+                  "value" : 1553
+               },
+               "end_address" : "Unnamed Road, Sargodha, Punjab, Pakistan",
+               "end_location" : {
+                  "lat" : 32.0759308,
+                  "lng" : 72.4060168
+               },
+               "start_address" : "Unnamed Road, Khushab, Punjab, Pakistan",
+               "start_location" : {
+                  "lat" : 32.0827035,
+                  "lng" : 72.31753410000002
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1.2 km",
+                        "value" : 1218
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 167
+                     },
+                     "end_location" : {
+                        "lat" : 32.0720093,
+                        "lng" : 72.31903220000001
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{cybEqokxLHAD?B?B?TGD?\\?H?f@?n@Dt@Dh@Bp@Db@DR@H@p@Dp@Hj@DP?X@J?`@EPCH?V?b@Cj@EJAJ?`A?r@?B?DA^IRGVEJCJCBAVOHEHEVIn@QXI^Ir@Oh@K`@GZIj@Qj@Oj@Sb@Md@MRGRERCl@G\\GXGXGRIRIFC^Kh@Gv@IVA^Az@AD?F@`@Hx@L"
+                     },
+                     "start_location" : {
+                        "lat" : 32.0827035,
+                        "lng" : 72.31753410000002
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "94 m",
+                        "value" : 94
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 32.0714052,
+                        "lng" : 72.31926399999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "aawbE}xkxLHaAD@`AJ`@DB?"
+                     },
+                     "start_location" : {
+                        "lat" : 32.0720093,
+                        "lng" : 72.31903220000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 364
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 56
+                     },
+                     "end_location" : {
+                        "lat" : 32.0696867,
+                        "lng" : 72.32191449999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "i}vbEkzkxLBABA@ABCXq@\\iA`@{AZ{@\\y@d@yA`@{Ab@{@hAv@"
+                     },
+                     "start_location" : {
+                        "lat" : 32.0714052,
+                        "lng" : 72.31926399999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "28 m",
+                        "value" : 28
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 6
+                     },
+                     "end_location" : {
+                        "lat" : 32.0695728,
+                        "lng" : 72.32217439999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at Govt. Girls High School Thathi Lambi Tehsil Sahiwal Disst. Sargodha Punjab Pakistan toward \u003cb\u003eThati Lambi Thati Obhi Rd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qrvbE}jlxLVs@"
+                     },
+                     "start_location" : {
+                        "lat" : 32.0696867,
+                        "lng" : 72.32191449999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "76 m",
+                        "value" : 76
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 32.0701653,
+                        "lng" : 72.3225865
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at Zafar shah karyana store onto \u003cb\u003eThati Lambi Thati Obhi Rd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "yqvbEqllxLk@]kAu@"
+                     },
+                     "start_location" : {
+                        "lat" : 32.0695728,
+                        "lng" : 72.32217439999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 238
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 32.06929720000001,
+                        "lng" : 72.32488889999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "quvbEeolxLf@aBH[p@gCf@wBPi@Nc@"
+                     },
+                     "start_location" : {
+                        "lat" : 32.0701653,
+                        "lng" : 72.3225865
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.6 km",
+                        "value" : 3617
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 417
+                     },
+                     "end_location" : {
+                        "lat" : 32.0634669,
+                        "lng" : 72.3606649
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eThati Lambi Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Rao Gulzar Sweets &amp; Karyana Store (on the right)\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "cpvbEq}lxLNs@@E@C?C@K@e@AGAG?ACIACAAAAMKKIAAAC?CAA?A?A?O@C?ALYFKx@}AHQXi@^w@@ABI@G@M?SQ_AEUAIIWAGAGASPMFCJEp@OZKd@UFEDE@G@C?C?E?ECUE{@?C?E@C@C@A@CDCr@O|Bc@^ODA?AFEBEFI@ETm@BS@s@?c@?E@W@qA?K?}A?UDw@Do@H}@F]VcBPqABM@I?W?q@?}C?kC?mC?i@@a@L{ANqBN{AHu@?AFm@BU\\sC`@qCh@mDh@uDp@qEPmADWt@mFXkB`@wC?CDU@Y@y@?A@cA@u@TmLDwC@gANoHBuBBgA@eABcBHcE?UB}AD_B?CH_E?W@UDaB?EH{DF{DHqE"
+                     },
+                     "start_location" : {
+                        "lat" : 32.06929720000001,
+                        "lng" : 72.32488889999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.8 km",
+                        "value" : 1823
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 183
+                     },
+                     "end_location" : {
+                        "lat" : 32.0793184,
+                        "lng" : 72.3655916
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eShahpur Sahiwal Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Madina Sweets &amp; Genreal Store (on the right in 1.7 km)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ukubEc}sxLa@Ka@Ia@KA?a@Ic@Ka@Ka@Ia@IAAa@IKCUEc@Ia@KC?_@Ia@Ic@Ia@Ka@Ia@Ic@Ka@Ka@KKCWEa@Ic@Ka@Ia@Ic@K_@GAAc@Ia@Kc@Ia@I_@IAAc@Ia@Ka@Ic@Ka@Ic@Ia@I?Ac@Ga@K[GEAc@Ia@Ic@Ka@Ic@IWGICa@Ic@Ia@Kc@Ia@Ia@Kc@IYGc@Ka@Ia@Kc@Ia@ICA]Ic@Ia@Kc@Ia@Ka@Ic@Ka@Ia@Kc@Ia@Kc@Ia@KGAYGc@Ia@Ka@Ic@Ka@IICYGa@Ia@Kc@Ia@Kc@Ia@Ka@Ic@Ka@IMC"
+                     },
+                     "start_location" : {
+                        "lat" : 32.0634669,
+                        "lng" : 72.3606649
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "4.1 km",
+                        "value" : 4110
+                     },
+                     "duration" : {
+                        "text" : "10 mins",
+                        "value" : 580
+                     },
+                     "end_location" : {
+                        "lat" : 32.0709747,
+                        "lng" : 72.40596499999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at Gull Sweet &amp; Bekres onto \u003cb\u003eVijh Gondal Road\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "wnxbE}{txLd@_Ex@eGfAeHz@eGNgARsABSJo@NkARqAPsALcAHi@He@Po@L[Jy@HiAJyAD]?GFYDMj@yAj@mAf@{BToD?cCLsEH_@BE|@_BHO^o@d@_Az@aBfAmBx@eBBOqAsAwAwACCOOcAaACOlAyBlAwBDEHOl@oAd@s@Zc@@C`@q@\\s@Zo@r@oAn@sALa@@U?C^_Cp@aENaAf@_Dl@iE@EJy@DUTqAXyAZ{BDUF_@LcABm@Ee@Bs@?c@?]?c@F{@JoAFkAB[FeABs@Fc@RsBJcBDaADq@@W?W@aC@sA?_ABi@Bk@DgBD_C@kC@q@DcA?y@BmA@]@i@@g@DkADy@Bs@?O@K"
+                     },
+                     "start_location" : {
+                        "lat" : 32.0793184,
+                        "lng" : 72.3655916
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 410
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 32.0745232,
+                        "lng" : 72.40708119999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qzvbEgx|xLcAOkAYGKqDq@s@WgI_B"
+                     },
+                     "start_location" : {
+                        "lat" : 32.0709747,
+                        "lng" : 72.40596499999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 249
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 32.0759308,
+                        "lng" : 72.4060168
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wpwbEg_}xLaErHM?iA_B"
+                     },
+                     "start_location" : {
+                        "lat" : 32.0745232,
+                        "lng" : 72.40708119999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "{cybEqokxLVAZGf@?vAD~AHrBN`DTd@@r@I`@?nAIVAtB?|@Sr@ObAe@|Cu@jASfA[`D_Af@M`AKv@Ol@QZMhASnAKzACL@zAVHaAD@bBPJCDEXq@\\iA|@wCbAsC`@{Ab@{@hAv@Vs@wBsAp@}BxA_G`@mARaA?aAGQ]YCK@UnAeCdAuBDQ@a@WuAKa@COASPMRIlA[d@ULKBUI{ADOFGpDs@l@Yb@cADgA?i@BsEDmANmBt@aF@qF?yG@kA\\mEXqCh@yEfDgUfB_M`@{CFo@DuDl@}\\`@_WZuOPmKcAUiBa@oE_AqFiAsFmAsFiA}JuBcO}Co^{HiCk@MCd@_Ex@eGbCkPb@{Cr@aFr@gF^kATcCXyCp@gBj@mAf@{BToD?cCLsEH_@`AeBh@_A`BaDfAmBx@eBBOqAsA{A{AsAqACOlAyBrA}Bv@_BbA{AnCeF|@uB@YhCcP`A_Hn@kD`@qCTcBBm@Ee@BwA?aARkCJgBJyBZwCXoFBmHFuAJgFH{HH}DNiE@KcAOkAYGKqDq@s@WgI_BaErHM?iA_B"
+         },
+         "summary" : "Thati Lambi Rd and Vijh Gondal Road",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,563 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "W6M8+22G Thathi Bahloolpur, Pakistan",
+      "global_code" : "8J3MW6M8+22G"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "W6J7+VQW",
+               "short_name" : "W6J7+VQW",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Thathi Behlol Pur",
+               "short_name" : "Thathi Behlol Pur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pindi Bhattian",
+               "short_name" : "Pindi Bhattian",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Hafizabad",
+               "short_name" : "Hafizabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "W6J7+VQW, Thathi Behlol Pur, Hafizabad, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.9322643,
+                  "lng" : 73.2144977
+               },
+               "southwest" : {
+                  "lat" : 31.9321662,
+                  "lng" : 73.21443690000001
+               }
+            },
+            "location" : {
+               "lat" : 31.9322186,
+               "lng" : 73.21445799999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9335642302915,
+                  "lng" : 73.21581628029151
+               },
+               "southwest" : {
+                  "lat" : 31.9308662697085,
+                  "lng" : 73.2131183197085
+               }
+            }
+         },
+         "place_id" : "ChIJ99xRKJEdIjkR_Dt4rlA8sro",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "W6J7+VQW",
+               "short_name" : "W6J7+VQW",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Thathi Behlol Pur",
+               "short_name" : "Thathi Behlol Pur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pindi Bhattian",
+               "short_name" : "Pindi Bhattian",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Hafizabad",
+               "short_name" : "Hafizabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "W6J7+VQW, Thathi Behlol Pur, Hafizabad, Punjab, Pakistan",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.9322473,
+               "lng" : 73.2144495
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9335962802915,
+                  "lng" : 73.21579848029151
+               },
+               "southwest" : {
+                  "lat" : 31.9308983197085,
+                  "lng" : 73.21310051970849
+               }
+            }
+         },
+         "place_id" : "ChIJ4Zs21i0dIjkRSAKxdy9DyPw",
+         "types" : [ "establishment", "place_of_worship", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "W6M8+22",
+               "short_name" : "W6M8+22",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Thathi Bahloolpur",
+               "short_name" : "Thathi Bahloolpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pindi Bhattian",
+               "short_name" : "Pindi Bhattian",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Hafizabad",
+               "short_name" : "Hafizabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "W6M8+22 Thathi Bahloolpur, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.932625,
+                  "lng" : 73.215125
+               },
+               "southwest" : {
+                  "lat" : 31.9325,
+                  "lng" : 73.215
+               }
+            },
+            "location" : {
+               "lat" : 31.9325746,
+               "lng" : 73.2150781
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9339114802915,
+                  "lng" : 73.21641148029151
+               },
+               "southwest" : {
+                  "lat" : 31.9312135197085,
+                  "lng" : 73.21371351970851
+               }
+            }
+         },
+         "place_id" : "GhIJjRSANb3uP0ARfmXv1sNNUkA",
+         "plus_code" : {
+            "compound_code" : "W6M8+22 Thathi Bahloolpur, Pakistan",
+            "global_code" : "8J3MW6M8+22"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Thathi Bahloolpur",
+               "short_name" : "Thathi Bahloolpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pindi Bhattian",
+               "short_name" : "Pindi Bhattian",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Hafizabad",
+               "short_name" : "Hafizabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Thathi Bahloolpur, Hafizabad, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.9324654,
+                  "lng" : 73.2156162
+               },
+               "southwest" : {
+                  "lat" : 31.9320919,
+                  "lng" : 73.21453389999999
+               }
+            },
+            "location" : {
+               "lat" : 31.9322614,
+               "lng" : 73.21508419999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9336276302915,
+                  "lng" : 73.21642403029149
+               },
+               "southwest" : {
+                  "lat" : 31.9309296697085,
+                  "lng" : 73.21372606970849
+               }
+            }
+         },
+         "place_id" : "ChIJrV3g0JAdIjkRKH0GoFWheyI",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thathi Behlol Pur",
+               "short_name" : "Thathi Behlol Pur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pindi Bhattian",
+               "short_name" : "Pindi Bhattian",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Hafizabad",
+               "short_name" : "Hafizabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thathi Behlol Pur, Hafizabad, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.9343545,
+                  "lng" : 73.2182766
+               },
+               "southwest" : {
+                  "lat" : 31.9265602,
+                  "lng" : 73.2052946
+               }
+            },
+            "location" : {
+               "lat" : 31.9297081,
+               "lng" : 73.2101837
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9343545,
+                  "lng" : 73.2182766
+               },
+               "southwest" : {
+                  "lat" : 31.9265602,
+                  "lng" : 73.2052946
+               }
+            }
+         },
+         "place_id" : "ChIJKTbfA5QdIjkRSaHV3d8S26Y",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Behlol Pur",
+               "short_name" : "Behlol Pur",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Pindi Bhattian",
+               "short_name" : "Pindi Bhattian",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Hafizabad",
+               "short_name" : "Hafizabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Behlol Pur, Hafizabad, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.976985,
+                  "lng" : 73.3201433
+               },
+               "southwest" : {
+                  "lat" : 31.8166292,
+                  "lng" : 73.160287
+               }
+            },
+            "location" : {
+               "lat" : 31.8871322,
+               "lng" : 73.2529464
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.976985,
+                  "lng" : 73.3201433
+               },
+               "southwest" : {
+                  "lat" : 31.8166292,
+                  "lng" : 73.160287
+               }
+            }
+         },
+         "place_id" : "ChIJMbeBpvocIjkRX8lTt1S4I0I",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pindi Bhattian",
+               "short_name" : "Pindi Bhattian",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Hafizabad",
+               "short_name" : "Hafizabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pindi Bhattian, Hafizabad, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.1827314,
+                  "lng" : 73.62347389999999
+               },
+               "southwest" : {
+                  "lat" : 31.7615505,
+                  "lng" : 73.1597093
+               }
+            },
+            "location" : {
+               "lat" : 31.9314181,
+               "lng" : 73.4180211
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.1827314,
+                  "lng" : 73.62347389999999
+               },
+               "southwest" : {
+                  "lat" : 31.7615505,
+                  "lng" : 73.1597093
+               }
+            }
+         },
+         "place_id" : "ChIJMzUNgF__ITkRY7TazMQ7j_w",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hafizabad",
+               "short_name" : "Hafizabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hafizabad, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.3421286,
+                  "lng" : 73.8308619
+               },
+               "southwest" : {
+                  "lat" : 31.7615504,
+                  "lng" : 73.1597093
+               }
+            },
+            "location" : {
+               "lat" : 32.0828952,
+               "lng" : 73.55941279999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.3421286,
+                  "lng" : 73.8308619
+               },
+               "southwest" : {
+                  "lat" : 31.7615504,
+                  "lng" : 73.1597093
+               }
+            }
+         },
+         "place_id" : "ChIJU5BQC_pZHzkRw9KtQn0CiZQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

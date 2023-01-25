@@ -1,0 +1,381 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "PCP6+8R2 Baroya, Pakistan",
+      "global_code" : "8J3MPCP6+8R2"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "PCP6+8R",
+               "short_name" : "PCP6+8R",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Baroya",
+               "short_name" : "Baroya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sangla Hill",
+               "short_name" : "Sangla Hill",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Nankana Sahib",
+               "short_name" : "Nankana Sahib",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "PCP6+8R Baroya, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.735875,
+                  "lng" : 73.412125
+               },
+               "southwest" : {
+                  "lat" : 31.73575,
+                  "lng" : 73.41199999999999
+               }
+            },
+            "location" : {
+               "lat" : 31.7357592,
+               "lng" : 73.4120178
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.7371614802915,
+                  "lng" : 73.4134114802915
+               },
+               "southwest" : {
+                  "lat" : 31.73446351970851,
+                  "lng" : 73.41071351970849
+               }
+            }
+         },
+         "place_id" : "GhIJK7sFt1q8P0ARrBfof15aUkA",
+         "plus_code" : {
+            "compound_code" : "PCP6+8R Baroya, Pakistan",
+            "global_code" : "8J3MPCP6+8R"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sangla Hill",
+               "short_name" : "Sangla Hill",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Nankana Sahib",
+               "short_name" : "Nankana Sahib",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Nankana Sahib, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.7332603,
+                  "lng" : 73.4148575
+               },
+               "southwest" : {
+                  "lat" : 31.7317781,
+                  "lng" : 73.4134152
+               }
+            },
+            "location" : {
+               "lat" : 31.7325027,
+               "lng" : 73.41409879999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.7338681802915,
+                  "lng" : 73.4154853302915
+               },
+               "southwest" : {
+                  "lat" : 31.7311702197085,
+                  "lng" : 73.4127873697085
+               }
+            }
+         },
+         "place_id" : "ChIJFwK6PwsJIjkRRDK03pvBusM",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chak No.113",
+               "short_name" : "Chak No.113",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Sangla Hill",
+               "short_name" : "Sangla Hill",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Nankana Sahib",
+               "short_name" : "Nankana Sahib",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chak No.113, Nankana Sahib, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.7510899,
+                  "lng" : 73.4611685
+               },
+               "southwest" : {
+                  "lat" : 31.679315,
+                  "lng" : 73.39636179999999
+               }
+            },
+            "location" : {
+               "lat" : 31.7163646,
+               "lng" : 73.42391429999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.7510899,
+                  "lng" : 73.4611685
+               },
+               "southwest" : {
+                  "lat" : 31.679315,
+                  "lng" : 73.39636179999999
+               }
+            }
+         },
+         "place_id" : "ChIJr6HpO4YJIjkR2M8Cj3uajvc",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sangla Hill",
+               "short_name" : "Sangla Hill",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Nankana Sahib",
+               "short_name" : "Nankana Sahib",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sangla Hill, Nankana Sahib, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.8390821,
+                  "lng" : 73.6659705
+               },
+               "southwest" : {
+                  "lat" : 31.533491,
+                  "lng" : 73.289934
+               }
+            },
+            "location" : {
+               "lat" : 31.6972695,
+               "lng" : 73.48872879999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8390821,
+                  "lng" : 73.6659705
+               },
+               "southwest" : {
+                  "lat" : 31.533491,
+                  "lng" : 73.289934
+               }
+            }
+         },
+         "place_id" : "ChIJxxfzbJCgGDkR3_P4t1tgE9E",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nankana Sahib",
+               "short_name" : "Nankana Sahib",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nankana Sahib, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.9048644,
+                  "lng" : 74.0382058
+               },
+               "southwest" : {
+                  "lat" : 31.02113379999999,
+                  "lng" : 73.289934
+               }
+            },
+            "location" : {
+               "lat" : 31.4487176,
+               "lng" : 73.7948516
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9048644,
+                  "lng" : 74.0382058
+               },
+               "southwest" : {
+                  "lat" : 31.02113379999999,
+                  "lng" : 73.289934
+               }
+            }
+         },
+         "place_id" : "ChIJk1YoOPCPGDkRxARrMGYQJqI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

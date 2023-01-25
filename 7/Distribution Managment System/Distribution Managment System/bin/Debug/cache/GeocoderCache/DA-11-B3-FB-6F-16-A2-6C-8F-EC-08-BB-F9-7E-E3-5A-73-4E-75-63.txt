@@ -1,0 +1,391 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "W3FG+22G Langar Makhdoom, Pakistan",
+      "global_code" : "8J3MW3FG+22G"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "W3FG+22",
+               "short_name" : "W3FG+22",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Langar Makhdoom",
+               "short_name" : "Langar Makhdoom",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chiniot",
+               "short_name" : "Chiniot",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Chiniot",
+               "short_name" : "Chiniot",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "W3FG+22 Langar Makhdoom, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.922625,
+                  "lng" : 73.07512500000001
+               },
+               "southwest" : {
+                  "lat" : 31.9225,
+                  "lng" : 73.075
+               }
+            },
+            "location" : {
+               "lat" : 31.9225746,
+               "lng" : 73.0750781
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9239114802915,
+                  "lng" : 73.07641148029153
+               },
+               "southwest" : {
+                  "lat" : 31.92121351970851,
+                  "lng" : 73.07371351970851
+               }
+            }
+         },
+         "place_id" : "GhIJyh5X2S3sP0ARVQlgFM5EUkA",
+         "plus_code" : {
+            "compound_code" : "W3FG+22 Langar Makhdoom, Pakistan",
+            "global_code" : "8J3MW3FG+22"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Langar Makhdoom Road",
+               "short_name" : "Langar Makhdoom Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Langar Makhdoom",
+               "short_name" : "Langar Makhdoom",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chiniot",
+               "short_name" : "Chiniot",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Chiniot",
+               "short_name" : "Chiniot",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Langar Makhdoom Rd, Langar Makhdoom, Chiniot, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.9230166,
+                  "lng" : 73.0741214
+               },
+               "southwest" : {
+                  "lat" : 31.9222001,
+                  "lng" : 73.0740261
+               }
+            },
+            "location" : {
+               "lat" : 31.9226092,
+               "lng" : 73.0740672
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9239573302915,
+                  "lng" : 73.07542273029149
+               },
+               "southwest" : {
+                  "lat" : 31.9212593697085,
+                  "lng" : 73.07272476970849
+               }
+            }
+         },
+         "place_id" : "ChIJD6B9Nw8gIjkRdpDt24r7d2s",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Langar Makhd",
+               "short_name" : "Langar Makhd",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Chiniot",
+               "short_name" : "Chiniot",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Chiniot",
+               "short_name" : "Chiniot",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Langar Makhd, Chiniot, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.9606329,
+                  "lng" : 73.1406602
+               },
+               "southwest" : {
+                  "lat" : 31.8467314,
+                  "lng" : 72.9802682
+               }
+            },
+            "location" : {
+               "lat" : 31.8930383,
+               "lng" : 73.052334
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9606329,
+                  "lng" : 73.1406602
+               },
+               "southwest" : {
+                  "lat" : 31.8467314,
+                  "lng" : 72.9802682
+               }
+            }
+         },
+         "place_id" : "ChIJLzeGt0EgIjkRi5PLuhzNakk",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chiniot",
+               "short_name" : "Chiniot",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Chiniot",
+               "short_name" : "Chiniot",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chiniot, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.9762601,
+                  "lng" : 73.2314816
+               },
+               "southwest" : {
+                  "lat" : 31.362188,
+                  "lng" : 72.434327
+               }
+            },
+            "location" : {
+               "lat" : 31.6267779,
+               "lng" : 72.8042797
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9762601,
+                  "lng" : 73.2314816
+               },
+               "southwest" : {
+                  "lat" : 31.362188,
+                  "lng" : 72.434327
+               }
+            }
+         },
+         "place_id" : "ChIJG47iCAwxIjkR-5kVzTJAhLM",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chiniot",
+               "short_name" : "Chiniot",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chiniot",
+               "short_name" : "Chiniot",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chiniot, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.9762599,
+                  "lng" : 73.23148139999999
+               },
+               "southwest" : {
+                  "lat" : 31.362188,
+                  "lng" : 72.434327
+               }
+            },
+            "location" : {
+               "lat" : 31.6267779,
+               "lng" : 72.8042797
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9762599,
+                  "lng" : 73.23148139999999
+               },
+               "southwest" : {
+                  "lat" : 31.362188,
+                  "lng" : 72.434327
+               }
+            }
+         },
+         "place_id" : "ChIJGY7iCAwxIjkRtMDOW4zxzuk",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

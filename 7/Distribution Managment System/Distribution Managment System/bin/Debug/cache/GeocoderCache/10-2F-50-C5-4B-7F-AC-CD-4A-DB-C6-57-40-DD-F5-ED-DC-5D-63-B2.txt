@@ -1,0 +1,145 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Waqar Street",
+               "short_name" : "Waqar St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Harbanspura",
+               "short_name" : "Harbanspura",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lahore Cantt",
+               "short_name" : "Lahore Cantt",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Waqar St, Harbanspura, Lahore, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.5734515,
+                  "lng" : 74.42288429999999
+               },
+               "southwest" : {
+                  "lat" : 31.571056,
+                  "lng" : 74.42215139999999
+               }
+            },
+            "location" : {
+               "lat" : 31.5723706,
+               "lng" : 74.42266549999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.57360273029149,
+                  "lng" : 74.42386683029149
+               },
+               "southwest" : {
+                  "lat" : 31.57090476970849,
+                  "lng" : 74.42116886970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJz3hePOIPGTkRtz5PcNjDKnA",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nai Abadi Road",
+               "short_name" : "Nai Abadi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wagha Town",
+               "short_name" : "Wagha Town",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lahore Cantt",
+               "short_name" : "Lahore Cantt",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nai Abadi Rd, Wagha Town, Lahore, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.5940875,
+                  "lng" : 74.4250828
+               },
+               "southwest" : {
+                  "lat" : 31.5891132,
+                  "lng" : 74.4239836
+               }
+            },
+            "location" : {
+               "lat" : 31.5915513,
+               "lng" : 74.4246472
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.5940875,
+                  "lng" : 74.42588218029151
+               },
+               "southwest" : {
+                  "lat" : 31.5891132,
+                  "lng" : 74.4231842197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJZ38QYRQQGTkRH81oMRFu2kU",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

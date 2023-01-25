@@ -1,0 +1,229 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJv2vjaasfGTkRH861UXLfEY4",
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJA7m1Jl8DGTkR-fVL331cX_s",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 31.6593926,
+               "lng" : 74.3098387
+            },
+            "southwest" : {
+               "lat" : 31.54050479999999,
+               "lng" : 74.2817707
+            }
+         },
+         "copyrights" : "Map data ©2022",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "15.8 km",
+                  "value" : 15819
+               },
+               "duration" : {
+                  "text" : "39 mins",
+                  "value" : 2354
+               },
+               "end_address" : "G8R5+9JX, Bund Rd, opposite shezan factory, Rasool Park Lahore, Punjab 54000, Pakistan",
+               "end_location" : {
+                  "lat" : 31.54050479999999,
+                  "lng" : 74.3091202
+               },
+               "start_address" : "Plot # 10, Grand Trunk Rd, near THQ hospital, opposite to UBL, Kiranpark, Phase 1 Rachna Town, Ferozewala, Lahore, Punjab, Pakistan",
+               "start_location" : {
+                  "lat" : 31.6593926,
+                  "lng" : 74.2826853
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "87 m",
+                        "value" : 87
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 31.6593603,
+                        "lng" : 74.2817707
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e toward \u003cb\u003eGT Rd\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eNH 5\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eAH1\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eAH2\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Makki Goods Transport Co (on the right)\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "enf`EyikdM?tABhA@V"
+                     },
+                     "start_location" : {
+                        "lat" : 31.6593926,
+                        "lng" : 74.2826853
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "12.5 km",
+                        "value" : 12488
+                     },
+                     "duration" : {
+                        "text" : "31 mins",
+                        "value" : 1847
+                     },
+                     "end_location" : {
+                        "lat" : 31.5545639,
+                        "lng" : 74.30534159999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eGT Rd\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eNH 5\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eAH1\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eAH2\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow NH 5\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eToll road\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by International leather (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_nf`EadkdMfAM~C_@RExFq@rC_@hBQJAfEi@pEk@xAQx@InC_@nAOjFo@h@GzDi@zBYpAUdBMlCe@`BObBSdDc@fBUtHaAf@E`@G^Gf@EtBYlC_@b@IJCxAQPChKkAfAOl@Ij@E`BSl@KvAUbBSnGy@fCY|AOz@OdDe@hH{@lKsA^ExG{@rC]zFu@jEi@ZEtDc@\\Eb@GxLyAzL}Af@Ub@QHCj@QTKb@SNMNK^K\\G`@C|@K^Ch@Ct@Al@Ap@C~@OVGbA_@t@e@XM|@q@d@Up@]h@YpAs@r@g@f@UtBmA|@o@fAu@b@]lBiAROh@Y\\SPMJIt@i@~@u@vAgAlCuBDCz@o@x@o@f@_@`BuA\\YDEJMTS`DoCp@i@hA{@LKLIDEHGz@m@FEd@[`@SXO\\MTGZIZEb@I\\CF?xBHP@^Bj@FTBTHRFbAZdCx@pBr@`AZXFNDB?LBR@VATAXGb@Mh@]r@e@r@m@`Aw@\\Wz@o@v@m@rEqDbBsAl@g@x@o@fCwBl@a@j@_@t@k@r@k@Z[^a@j@s@h@w@BCV_@l@}@x@kAt@aBz@qAFMHKTa@NSPU`@]VOn@]TIRE@ARALAV?X@jAN|@Hb@@bBBR@b@?~@BN?f@BTBn@AjBKjBIZAT?Z?rBDbABjAB|@DfABj@BrCLnBL`DTH?dBRfAL`@Db@Db@DRCXITKRKBCNMJMJKHQ@CDODIH]@W@K@]@I@WBQBIDO@AFKFGHG\\[hAZHDTLXHPFr@Rt@RF@TDJBn@Lr@L~Ab@`Bj@|A^hCp@lEnAr@Ll@Hd@D\\FF@XH`@LVHJD^N`A^VHx@NTBd@H@?\\JNDVJbA\\zA\\TDLB@?`@J`@HlEhA|@TD@zA`@x@XPDP@b@@R?ZGZKTMLIRK\\W~AmAPMRKRIPELELAdCKVA~AKjBM`@AhBFv@DtAEb@Cb@AZAvAInEIzGOl@A`ACtCIjBEJCJCDCTMHGNO^HbD\\xALPB"
+                     },
+                     "start_location" : {
+                        "lat" : 31.6593603,
+                        "lng" : 74.2817707
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.3 km",
+                        "value" : 1260
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 154
+                     },
+                     "end_location" : {
+                        "lat" : 31.5465122,
+                        "lng" : 74.2965238
+                     },
+                     "html_instructions" : "At \u003cb\u003eChauburji Chowk\u003c/b\u003e, take the \u003cb\u003e2nd\u003c/b\u003e exit onto \u003cb\u003eMultan Rd\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eNH 5\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Rax Pizza Shawarma and burgers (on the left)\u003c/div\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "__r_EkwodMVD^Ft@LRDNDXJRJJNZJ\\\\Z`@@@NRP\\N`@L^\\pAv@|BfAjCn@vAHRR`@R`@|@fB^r@\\h@VZZXrAjAzAfANJTNjBvAlBtA\\TdAz@j@f@nAjAb@d@`C~B"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5545639,
+                        "lng" : 74.30534159999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.4 km",
+                        "value" : 1405
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 171
+                     },
+                     "end_location" : {
+                        "lat" : 31.5425976,
+                        "lng" : 74.3098387
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eLink Ferozepur Rd\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eNalay Wali Sarak\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Link Ferozepur Rd\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Al rehmaan auto (on the right in 1.2 km)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ulp_Eg`ndMf@FP?JAXGXa@xCkFdBeDd@qAHUd@eAR_@LYNYFODMLg@Jc@Fi@Be@D}@DkADqAB{@HeBLoBXiEHoB?IHkABwAPyD`@mEH{@JeAl@uG"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5465122,
+                        "lng" : 74.2965238
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 153
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 31.5426717,
+                        "lng" : 74.3083867
+                     },
+                     "html_instructions" : "Make a \u003cb\u003eU-turn\u003c/b\u003e at Zahid Tahir Auto Workshop\u003cdiv style=\"font-size:0.9em\"\u003ePass by the park (on the left)\u003c/div\u003e",
+                     "maneuver" : "uturn-right",
+                     "polyline" : {
+                        "points" : "gto_EospdM\\FOvAEXUfD"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5425976,
+                        "lng" : 74.3098387
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 249
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 65
+                     },
+                     "end_location" : {
+                        "lat" : 31.5408106,
+                        "lng" : 74.30733099999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e at Euro Discount Shop onto \u003cb\u003eFateh Sher Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Ali Hajveri Paint House (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "uto_EmjpdMLh@JZPZl@IT@XBZD\\DRDXHNFNJ^RZRd@\\"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5426717,
+                        "lng" : 74.3083867
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 177
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 70
+                     },
+                     "end_location" : {
+                        "lat" : 31.54050479999999,
+                        "lng" : 74.3091202
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at Grace Baker\u003cdiv style=\"font-size:0.9em\"\u003ePass by PAAK SAAF FOODS (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "aio_EycpdMf@qABI@G@E?I@E?A@SDkB@Q@wA"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5408106,
+                        "lng" : 74.30733099999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "enf`EyikdMB~C@VfAMrDe@lKqAnOiBrJkAlQ{BpAUdBMlCe@`BOhGw@|KwApC[bGy@n@M|PqBxAOnC_@zDi@vKsA|AOz@OnMaBzYsDpq@oIjAg@t@Ux@_@^Y|@S~AOhAGbBCp@C~@OzAg@nAs@bBgAzAw@dC{A|CcBdCeBb@]lBiA|@i@pBuAjHwF~FuEdAaArEyDvAgAxAeAnAu@v@]p@Q~@Od@CjCJjAJj@LvAb@vFlBzAb@t@Jl@C|@U|AcAtBeBdJgHrIcHxAaAhBwAz@}@tAkBbCmDt@aBz@qAPYd@u@PU`@]fAm@h@Oz@EdBP|@Hb@@vBDbBBv@BTBn@AvEUp@A~GLdIZpGb@nBRpD^l@Mh@Wj@k@JUJYH]@WBi@J}@FQNSf@c@rA`@n@VdAZ~A^bBZ`EnAfFpAlEnAr@LrANd@H~Af@xBx@vB\\hCz@`Cf@nItB`Bb@jA^t@Bn@Gp@Y`@U|BeBd@Yd@OZG|CMjEY`@AhBFv@DtAEfAErBKzQ_@`GOVGt@i@bEf@jBP`C`@h@PRJJNZJ\\\\\\b@`@p@\\`AtAnEvBbFnB~D|@|Ar@t@rAjAzAfAd@ZxElDbBpAzBrBdDdDx@Fd@IXa@xCkFdBeDd@qAn@{A`@y@Vi@Ru@RmAHcBX_If@yHHyBHkABwAPyD`@mETaCl@uG\\FUpBUfDLh@\\v@l@IT@t@Hp@Jh@Pn@^`Ap@j@{AD]HsC@wA"
+         },
+         "summary" : "NH 5",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

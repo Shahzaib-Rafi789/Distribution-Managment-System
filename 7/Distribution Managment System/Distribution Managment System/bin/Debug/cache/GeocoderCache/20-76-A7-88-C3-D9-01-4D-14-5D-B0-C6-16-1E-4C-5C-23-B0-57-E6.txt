@@ -1,0 +1,381 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "8JJX+39P Chak 166/9-L, Pakistan",
+      "global_code" : "8J2J8JJX+39P"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "8JJX+39",
+               "short_name" : "8JJX+39",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Chak 166/9-L",
+               "short_name" : "Chak 166/9-L",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chichawatni",
+               "short_name" : "Chichawatni",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sahiwal District",
+               "short_name" : "Sahiwal District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "8JJX+39 Chak 166/9-L, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.33025,
+                  "lng" : 72.6485
+               },
+               "southwest" : {
+                  "lat" : 30.330125,
+                  "lng" : 72.648375
+               }
+            },
+            "location" : {
+               "lat" : 30.3302127,
+               "lng" : 72.64846799999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.3315364802915,
+                  "lng" : 72.64978648029151
+               },
+               "southwest" : {
+                  "lat" : 30.3288385197085,
+                  "lng" : 72.6470885197085
+               }
+            }
+         },
+         "place_id" : "GhIJTznL0YhUPkARKSDtf4ApUkA",
+         "plus_code" : {
+            "compound_code" : "8JJX+39 Chak 166/9-L, Pakistan",
+            "global_code" : "8J2J8JJX+39"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chichawatni",
+               "short_name" : "Chichawatni",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sahiwal District",
+               "short_name" : "Sahiwal District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Sahiwal District, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.3289158,
+                  "lng" : 72.6494627
+               },
+               "southwest" : {
+                  "lat" : 30.3279818,
+                  "lng" : 72.6488148
+               }
+            },
+            "location" : {
+               "lat" : 30.3284577,
+               "lng" : 72.6491604
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.3297977802915,
+                  "lng" : 72.6504877302915
+               },
+               "southwest" : {
+                  "lat" : 30.3270998197085,
+                  "lng" : 72.6477897697085
+               }
+            }
+         },
+         "place_id" : "ChIJY3qswO_WPDkRwJUekdfQDC8",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chak 169/9-L",
+               "short_name" : "Chak 169/9-L",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Chichawatni",
+               "short_name" : "Chichawatni",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sahiwal District",
+               "short_name" : "Sahiwal District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chak 169/9-L, Sahiwal District, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.3795871,
+                  "lng" : 72.7246236
+               },
+               "southwest" : {
+                  "lat" : 30.2825156,
+                  "lng" : 72.6306814
+               }
+            },
+            "location" : {
+               "lat" : 30.3269349,
+               "lng" : 72.6505957
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.3795871,
+                  "lng" : 72.7246236
+               },
+               "southwest" : {
+                  "lat" : 30.2825156,
+                  "lng" : 72.6306814
+               }
+            }
+         },
+         "place_id" : "ChIJLSoVhEXWPDkR_W1EHN1owz0",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chichawatni",
+               "short_name" : "Chichawatni",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sahiwal District",
+               "short_name" : "Sahiwal District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chichawatni, Sahiwal District, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.6934091,
+                  "lng" : 72.9684699
+               },
+               "southwest" : {
+                  "lat" : 30.16045399999999,
+                  "lng" : 72.39583709999999
+               }
+            },
+            "location" : {
+               "lat" : 30.4067373,
+               "lng" : 72.6624209
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.6934091,
+                  "lng" : 72.9684699
+               },
+               "southwest" : {
+                  "lat" : 30.16045399999999,
+                  "lng" : 72.39583709999999
+               }
+            }
+         },
+         "place_id" : "ChIJOZAyJZPTPDkRXk1v57HquC8",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sahiwal District",
+               "short_name" : "Sahiwal District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sahiwal District, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.9281447,
+                  "lng" : 73.35159299999999
+               },
+               "southwest" : {
+                  "lat" : 30.2086413,
+                  "lng" : 72.4040222
+               }
+            },
+            "location" : {
+               "lat" : 30.5854432,
+               "lng" : 72.99329689999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.9281447,
+                  "lng" : 73.35159299999999
+               },
+               "southwest" : {
+                  "lat" : 30.2086413,
+                  "lng" : 72.4040222
+               }
+            }
+         },
+         "place_id" : "ChIJ8XzX7w_XIjkRehg31mEK_og",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

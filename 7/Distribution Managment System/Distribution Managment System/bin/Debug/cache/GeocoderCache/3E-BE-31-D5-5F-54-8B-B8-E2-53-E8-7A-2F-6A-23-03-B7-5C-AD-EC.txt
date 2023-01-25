@@ -1,0 +1,366 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "55V9+MQM Jhoke Gamy Wali, Pakistan",
+      "global_code" : "8J4H55V9+MQM"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "55V9+MQ",
+               "short_name" : "55V9+MQ",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Jhoke Gamy Wali",
+               "short_name" : "Jhoke Gamy Wali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Paharpur",
+               "short_name" : "Paharpur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Dera Ismail Khan",
+               "short_name" : "Dera Ismail Khan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khyber Pakhtunkhwa",
+               "short_name" : "Khyber Pakhtunkhwa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "55V9+MQ Jhoke Gamy Wali, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.19425,
+                  "lng" : 71.1695
+               },
+               "southwest" : {
+                  "lat" : 32.194125,
+                  "lng" : 71.169375
+               }
+            },
+            "location" : {
+               "lat" : 32.1942087,
+               "lng" : 71.16943359999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.1955364802915,
+                  "lng" : 71.17078648029151
+               },
+               "southwest" : {
+                  "lat" : 32.1928385197085,
+                  "lng" : 71.16808851970849
+               }
+            }
+         },
+         "place_id" : "GhIJoYyn1NsYQEAR_LUGANjKUUA",
+         "plus_code" : {
+            "compound_code" : "55V9+MQ Jhoke Gamy Wali, Pakistan",
+            "global_code" : "8J4H55V9+MQ"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khyber Pakhtunkhwa",
+               "short_name" : "Khyber Pakhtunkhwa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Khyber Pakhtunkhwa, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.1952646,
+                  "lng" : 71.1751921
+               },
+               "southwest" : {
+                  "lat" : 32.1936987,
+                  "lng" : 71.16887830000002
+               }
+            },
+            "location" : {
+               "lat" : 32.1945081,
+               "lng" : 71.172049
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.1958306302915,
+                  "lng" : 71.1751921
+               },
+               "southwest" : {
+                  "lat" : 32.1931326697085,
+                  "lng" : 71.16887830000002
+               }
+            }
+         },
+         "place_id" : "ChIJAUmSs-1XJjkRzPD0kmZlr0w",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kot Jai",
+               "short_name" : "Kot Jai",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Paharpur",
+               "short_name" : "Paharpur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Dera Ismail Khan",
+               "short_name" : "Dera Ismail Khan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kot Jai, Dera Ismail Khan, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.2038277,
+                  "lng" : 71.1748977
+               },
+               "southwest" : {
+                  "lat" : 32.117984,
+                  "lng" : 71.06365649999999
+               }
+            },
+            "location" : {
+               "lat" : 32.1820893,
+               "lng" : 71.10920120000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.2038277,
+                  "lng" : 71.1748977
+               },
+               "southwest" : {
+                  "lat" : 32.117984,
+                  "lng" : 71.06365649999999
+               }
+            }
+         },
+         "place_id" : "ChIJi68ybOhZJjkRA-sEYOqFbC8",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paharpur",
+               "short_name" : "Paharpur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Dera Ismail Khan",
+               "short_name" : "Dera Ismail Khan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khyber Pakhtunkhwa",
+               "short_name" : "Khyber Pakhtunkhwa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Paharpur, Dera Ismail Khan, Khyber Pakhtunkhwa, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.5332641,
+                  "lng" : 71.3509109
+               },
+               "southwest" : {
+                  "lat" : 31.920843,
+                  "lng" : 70.77551509999999
+               }
+            },
+            "location" : {
+               "lat" : 32.1182099,
+               "lng" : 71.0497768
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.5332641,
+                  "lng" : 71.3509109
+               },
+               "southwest" : {
+                  "lat" : 31.920843,
+                  "lng" : 70.77551509999999
+               }
+            }
+         },
+         "place_id" : "ChIJmUs79RJRJjkRLYsE-Wzx6jY",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dera Ismail Khan",
+               "short_name" : "Dera Ismail Khan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khyber Pakhtunkhwa",
+               "short_name" : "Khyber Pakhtunkhwa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dera Ismail Khan, Khyber Pakhtunkhwa, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.533264,
+                  "lng" : 71.3509109
+               },
+               "southwest" : {
+                  "lat" : 31.243101,
+                  "lng" : 70.16764789999999
+               }
+            },
+            "location" : {
+               "lat" : 31.7447992,
+               "lng" : 70.6216794
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.533264,
+                  "lng" : 71.3509109
+               },
+               "southwest" : {
+                  "lat" : 31.243101,
+                  "lng" : 70.16764789999999
+               }
+            }
+         },
+         "place_id" : "ChIJ04LNZVwUJjkRCf_j6gtHz_c",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khyber Pakhtunkhwa",
+               "short_name" : "Khyber Pakhtunkhwa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khyber Pakhtunkhwa, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.907277,
+                  "lng" : 74.1264877
+               },
+               "southwest" : {
+                  "lat" : 31.0702743,
+                  "lng" : 69.2398056
+               }
+            },
+            "location" : {
+               "lat" : 34.9526205,
+               "lng" : 72.331113
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.907277,
+                  "lng" : 74.1264877
+               },
+               "southwest" : {
+                  "lat" : 31.0702743,
+                  "lng" : 69.2398056
+               }
+            }
+         },
+         "place_id" : "ChIJm2fuN8mu3jgRcad6v070EZY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

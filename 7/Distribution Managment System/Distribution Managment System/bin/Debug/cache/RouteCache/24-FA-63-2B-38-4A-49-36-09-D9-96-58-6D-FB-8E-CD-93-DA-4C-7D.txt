@@ -1,0 +1,708 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJK4Zo-n65GTkRqn7wRxByBK8",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJwUrEWpm2GTkReAaJ-01YDOI",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 31.1284901,
+               "lng" : 74.4702442
+            },
+            "southwest" : {
+               "lat" : 31.0587837,
+               "lng" : 74.3177482
+            }
+         },
+         "copyrights" : "Map data ©2022",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "24.4 km",
+                  "value" : 24411
+               },
+               "duration" : {
+                  "text" : "42 mins",
+                  "value" : 2520
+               },
+               "end_address" : "Unnamed Road, Kasur, Punjab, Pakistan",
+               "end_location" : {
+                  "lat" : 31.0868869,
+                  "lng" : 74.3177482
+               },
+               "start_address" : "College Rd, Kasur, Punjab, Pakistan",
+               "start_location" : {
+                  "lat" : 31.1284901,
+                  "lng" : 74.45644999999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 120
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 31.1274145,
+                        "lng" : 74.45647799999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e toward \u003cb\u003eCollege Rd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ax~|DygmeM|A?xBE"
+                     },
+                     "start_location" : {
+                        "lat" : 31.1284901,
+                        "lng" : 74.45644999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 212
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 64
+                     },
+                     "end_location" : {
+                        "lat" : 31.1273042,
+                        "lng" : 74.4586951
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at Ghoron Wala store گھوڑوں والا سٹور",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "iq~|D_hmeMAE?gA@cA@m@?i@@e@?C@c@@a@@]JcA"
+                     },
+                     "start_location" : {
+                        "lat" : 31.1274145,
+                        "lng" : 74.45647799999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "67 m",
+                        "value" : 67
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 31.1267089,
+                        "lng" : 74.458574
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at Tayyab Mobile toward \u003cb\u003eRoadkot Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "sp~|D{umeMtBX"
+                     },
+                     "start_location" : {
+                        "lat" : 31.1273042,
+                        "lng" : 74.4586951
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 98
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : 31.1266795,
+                        "lng" : 74.45960049999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eRoadkot Rd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}l~|DaumeMBiA@cC"
+                     },
+                     "start_location" : {
+                        "lat" : 31.1267089,
+                        "lng" : 74.458574
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 215
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 31.1266575,
+                        "lng" : 74.4618627
+                     },
+                     "html_instructions" : "At Sharjeel shop, continue onto \u003cb\u003eRoadkot Rd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wl~|Do{meM@qE@qF"
+                     },
+                     "start_location" : {
+                        "lat" : 31.1266795,
+                        "lng" : 74.45960049999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "33 m",
+                        "value" : 33
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 31.126382,
+                        "lng" : 74.4619976
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at Arslan Yousaf Law Associates to stay on \u003cb\u003eRoadkot Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "sl~|DsineMv@["
+                     },
+                     "start_location" : {
+                        "lat" : 31.1266575,
+                        "lng" : 74.4618627
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "55 m",
+                        "value" : 55
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 31.1259084,
+                        "lng" : 74.4621549
+                     },
+                     "html_instructions" : "Continue straight past Arslan Yousaf Law Associates",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "{j~|DojneMFCBA@ABABAJAJAJCHAHAD?@A@ABA@?"
+                     },
+                     "start_location" : {
+                        "lat" : 31.126382,
+                        "lng" : 74.4619976
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "88 m",
+                        "value" : 88
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 31.12528099999999,
+                        "lng" : 74.4626425
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eService Rd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}g~|DmkneM?A@KBIBEFEFC\\ITILENMPQ"
+                     },
+                     "start_location" : {
+                        "lat" : 31.1259084,
+                        "lng" : 74.4621549
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 314
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 48
+                     },
+                     "end_location" : {
+                        "lat" : 31.1225856,
+                        "lng" : 74.4634562
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at Faizan e Sher e Rubani Bldg Material Store onto \u003cb\u003eService Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Zaki Bus Stand (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_d~|DonneMfAAT?PATEJCbBa@hAYfEcAHE@??ABC@I"
+                     },
+                     "start_location" : {
+                        "lat" : 31.12528099999999,
+                        "lng" : 74.4626425
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 774
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 73
+                     },
+                     "end_location" : {
+                        "lat" : 31.116578,
+                        "lng" : 74.46602899999999
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e3rd\u003c/b\u003e exit onto \u003cb\u003eLahore – Kasur Rd\u003c/b\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "es}|DssneMGAECCCAACCCCACACACAEAC?E?A?CAC@A?C?C?A?C@C?C@A@C@A?C@A@CDCBCDCBADCB?@?DAD@D?@?@@@?@??@@?@?J?JANA\\IdAUjBe@rBg@bHcBjBc@\\I~Cw@FChAWb@Kb@OVIRKLE"
+                     },
+                     "start_location" : {
+                        "lat" : 31.1225856,
+                        "lng" : 74.4634562
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.2 km",
+                        "value" : 1217
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 116
+                     },
+                     "end_location" : {
+                        "lat" : 31.1066297,
+                        "lng" : 74.47000559999999
+                     },
+                     "html_instructions" : "At \u003cb\u003eChowk Shula Fagan\u003c/b\u003e, take the \u003cb\u003e2nd\u003c/b\u003e exit and stay on \u003cb\u003eLahore – Kasur Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by PSO (on the left)\u003c/div\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "sm||DucoeM@CBEDGBA@CDABAB?BAB?D?B@B?B@D@TCRAJCD?XETG`B_@HCrCq@dAWhAYdAWdBa@^Il@Md@IJCrB[b@GhAQ|@Mr@MjAOz@A|@Af@@`@B`@@d@?h@If@Of@SZSXUTWV]Pa@Vm@\\u@Ze@Z]VY`@_@XS"
+                     },
+                     "start_location" : {
+                        "lat" : 31.116578,
+                        "lng" : 74.46602899999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "4.0 km",
+                        "value" : 4007
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 317
+                     },
+                     "end_location" : {
+                        "lat" : 31.0844657,
+                        "lng" : 74.4375302
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit onto \u003cb\u003eDelhi–Multan Rd\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eDepal Pur Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by کوئٹہ شاہ جی کیفے (on the left)\u003c/div\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "moz|Dq|oeM?A?C@C?A@C@A?C@A@A?A@??A@A?A@?@AFEBABAB?DAB?D@B?B@B@D@BB@BBB@BBD@B@D?D?B?H?@?B?@A@?B?@A@?B@LBJBLLVbFdIrAfCjJ|OlJxOvC`FbLxRjGpK|GjLt@rAzAfClKtQdYte@rQxZtAbCb@r@JHf@X"
+                     },
+                     "start_location" : {
+                        "lat" : 31.1066297,
+                        "lng" : 74.47000559999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "4.7 km",
+                        "value" : 4657
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 306
+                     },
+                     "end_location" : {
+                        "lat" : 31.0587837,
+                        "lng" : 74.3991288
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit and stay on \u003cb\u003eDelhi–Multan Rd\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eDepal Pur Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Tolu Wala Bakery (on the left)\u003c/div\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "}dv|DqqieMHAF@F@F@@?DBFDDDBFDFBH@F@H?HAHAHCJDZDLL\\nMtTp@fAbH~LxBtDvBrDhGbKLPf@x@Zj@|O`XLTf[fi@vVpb@V^bQdZpHfMv@rAhE|GnFrITb@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.0844657,
+                        "lng" : 74.4375302
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 199
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 31.0605751,
+                        "lng" : 74.39911979999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at Mian Haji Muhammad Sharif Fertilizer Agency onto \u003cb\u003eBahadar Pura Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by the church (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kdq|DqabeMa@?iD?o@@wA?S?"
+                     },
+                     "start_location" : {
+                        "lat" : 31.0587837,
+                        "lng" : 74.3991288
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 457
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 82
+                     },
+                     "end_location" : {
+                        "lat" : 31.06211849999999,
+                        "lng" : 74.396056
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "soq|DoabeM?fAAfA?Z@~@qB@kB@sABEhD@z@@hC"
+                     },
+                     "start_location" : {
+                        "lat" : 31.0605751,
+                        "lng" : 74.39911979999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 269
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 31.0640273,
+                        "lng" : 74.39439209999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eRoshin Bhila To Touday Pur Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gyq|DknaeMcBz@_Ap@eAbAkAbASRc@\\GJCBADAD?B?B?@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.06211849999999,
+                        "lng" : 74.396056
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "92 m",
+                        "value" : 92
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 31.0637803,
+                        "lng" : 74.39351739999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eRoshin Bhila To Touday Pur Rd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "eer|D}caeM@BPZT`@BF?F?DAV?n@@B@D@B"
+                     },
+                     "start_location" : {
+                        "lat" : 31.0640273,
+                        "lng" : 74.39439209999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.8 km",
+                        "value" : 3775
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 331
+                     },
+                     "end_location" : {
+                        "lat" : 31.0657228,
+                        "lng" : 74.355678
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eRoshan Bhilla Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Shahid Fish Farm (on the left in 1.7 km)\u003c/div\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "scr|Do~`eMAjFALANABAFKTcAjBGLCPARAfFAzGA~JD`@@FFPPX|@jA~A~BLTDN?BDV?ZAnAIpY?fC?fICzFCdK?|G?tBA~QArBC|GAbB?J@H@DBHDLTb@b@z@LZDLBNBP?P?@C~O?vA?`EAZ?RAPALCLCHCHQXgBlCy@hAiA~AUZGLEFAHCHALAT?H?DALAPCJAHCHCHEHIHINc@l@U\\ABIPGPMZI\\Qx@UhAABw@pE"
+                     },
+                     "start_location" : {
+                        "lat" : 31.0637803,
+                        "lng" : 74.39351739999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.9 km",
+                        "value" : 1887
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 182
+                     },
+                     "end_location" : {
+                        "lat" : 31.06029449999999,
+                        "lng" : 74.3383353
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at Sir Asif House onto \u003cb\u003eRoshin Bhila To Touday Pur Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Bhatti veterinary clinic (on the left in 650m)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wor|D_rydMLNxAtAZZj@p@^h@Xv@Pn@V`Av@zCP^DFXZB@~@z@b@\\lAfAZV?@RR^^HNBT?^AzB?f@EpIGfLA`G?dJ?B?t@DXDPJPNPfDtEhBnC|@`BTl@JXFVB\\B`@?hDBr@NT"
+                     },
+                     "start_location" : {
+                        "lat" : 31.0657228,
+                        "lng" : 74.355678
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.6 km",
+                        "value" : 1633
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 131
+                     },
+                     "end_location" : {
+                        "lat" : 31.0748282,
+                        "lng" : 74.3397228
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eGaggar - Todey Pur Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ymq|DsevdMaEAmB@oBD_DLqAFcDHaAAqC[k@EKCSEkEcA_AMoAQcBUs@OmASE?qACyAAk@?{A@S@cCBi@Ac@Ay@AKB}AMcCi@iC[gEYUAS@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.06029449999999,
+                        "lng" : 74.3383353
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.9 km",
+                        "value" : 1897
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 186
+                     },
+                     "end_location" : {
+                        "lat" : 31.0858194,
+                        "lng" : 74.33107410000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eGaggar - Todey Pur Rd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "uht|DgnvdMCPCT?D]jMEVMNa@?WBUJm@T]RSREXC`@CdBErBGvBITUDkGS_ACU?_@DSFIFwBhAcB|@GFKHOZId@IrCClBEZOHiABoAB_ABU@eEJsBFo@@uEKc@?ODILERA`AC`AIJ]J]Fc@Jc@Aa@Ia@Oe@So@Y"
+                     },
+                     "start_location" : {
+                        "lat" : 31.0748282,
+                        "lng" : 74.3397228
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 227
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 31.0861897,
+                        "lng" : 74.3287373
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kmv|DextdMK`ACn@EfBU`B]tC"
+                     },
+                     "start_location" : {
+                        "lat" : 31.0858194,
+                        "lng" : 74.33107410000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 535
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 97
+                     },
+                     "end_location" : {
+                        "lat" : 31.0813869,
+                        "lng" : 74.32846379999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "uov|DsitdMnBD`B?v@F`AD~ELP@z@DjC?xDL"
+                     },
+                     "start_location" : {
+                        "lat" : 31.0861897,
+                        "lng" : 74.3287373
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 864
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 148
+                     },
+                     "end_location" : {
+                        "lat" : 31.0818169,
+                        "lng" : 74.31940279999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "uqu|D{gtdMM~FG~DInD?N?z@AhAGzBAtACtDI|CCpAObGGpC"
+                     },
+                     "start_location" : {
+                        "lat" : 31.0813869,
+                        "lng" : 74.32846379999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 498
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 85
+                     },
+                     "end_location" : {
+                        "lat" : 31.086263,
+                        "lng" : 74.31972519999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ktu|DgordMcDGaBWmFUoEO{ABeAGQF"
+                     },
+                     "start_location" : {
+                        "lat" : 31.0818169,
+                        "lng" : 74.31940279999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 115
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 31.0862561,
+                        "lng" : 74.31857080000002
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "cpv|DiqrdM?B@H@D@D?D?B?D?BAF?F?J?FAHAH?J@FBH@F@F@R?R?X?FCBCBC@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.086263,
+                        "lng" : 74.31972519999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 106
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 31.0868869,
+                        "lng" : 74.3177482
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "cpv|DajrdMMJONKJGHGJKNMTCJCFCDEFGHOR"
+                     },
+                     "start_location" : {
+                        "lat" : 31.0862561,
+                        "lng" : 74.31857080000002
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ax~|DygmeMvEEAmADaEDgBJcAtBXBiABuI@qFv@[JEDCf@IZEFC@MFONIr@S\\SPQfAAf@A`@I~JeCFOSKKOES?YJYRMPERDZAl@KpD{@`PyDtG_B|Ak@JQNIPAPDz@In@MjBc@hJ{BdCk@rAWlFy@pB[jAOz@AdB?bADd@?h@InAc@t@i@l@u@h@oA\\u@Ze@r@w@z@s@@KDKHKRIR?PHJPBR?PCH@PFXpF|IrAfCjJ|OdOzVnTj_@|X|e@dYte@rQxZxBvDr@b@P?VFLJHNFd@CRCJDZRj@`O|V|KtR`KvPnRx[dt@nnAtZlh@`GpJnFrITb@kE?gC@S??fAAbB@~@qB@_EDCdF@hCcBz@_Ap@eAbA_BvAk@h@GRRd@Xh@?LAfABH?nFC\\CJoA`CK^CzFCzSFh@Xj@|CjERd@DZKda@Gff@AtUEpKAnBBNbAvBRh@F`@CjSCbGEZGRyBfDcChD]h@GPGv@Gp@Of@mAdBa@bAs@dDw@pELNtBpBjAzAj@fBnA|EVf@`CvB|BtB^^HNBt@O|[A`TJj@Zb@fDtEhBnC|@`BTl@Rp@F~@B|ENTaEA}EFqFTcDHaAA}Da@_@IkEcA_AMsDg@aCc@wACeCAoBBmD@}ACKB}AMcCi@iC[}E[S@CPCZ]jMEVMNa@?WBUJkAh@SREXGfCMjFITUDkIWu@DyFvCSPOZId@M`GEZOHyCFuADyHRo@@uEKc@?ODILEREbCIJ]JaARc@Aa@IgAc@o@YK`AIvCU`B]tCnBD`B?v@F`HRlAFjC?xDLU~LI~DAdCIpECtDI|CStIGpCcDGaBWmFUoEO{ABeAGQF@LBTAXCf@@RBHBN@f@?`@GFm@h@i@z@Q`@W\\"
+         },
+         "summary" : "Delhi–Multan Rd/Depal Pur Rd",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

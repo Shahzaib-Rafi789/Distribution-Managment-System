@@ -1,0 +1,440 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "287W+22G Bohalriwala, Pakistan",
+      "global_code" : "8J4J287W+22G"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "287W+22",
+               "short_name" : "287W+22",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Bohalriwala",
+               "short_name" : "Bohalriwala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sahiwal (Sardogha)",
+               "short_name" : "Sahiwal (Sardogha)",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "287W+22 Bohalriwala, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.012625,
+                  "lng" : 72.345125
+               },
+               "southwest" : {
+                  "lat" : 32.0125,
+                  "lng" : 72.345
+               }
+            },
+            "location" : {
+               "lat" : 32.0125746,
+               "lng" : 72.34507809999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0139114802915,
+                  "lng" : 72.34641148029151
+               },
+               "southwest" : {
+                  "lat" : 32.0112135197085,
+                  "lng" : 72.3437135197085
+               }
+            }
+         },
+         "place_id" : "GhIJUeFjC5wBQEARNoR0whUWUkA",
+         "plus_code" : {
+            "compound_code" : "287W+22 Bohalriwala, Pakistan",
+            "global_code" : "8J4J287W+22"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shahpur Sahiwal Road",
+               "short_name" : "Shahpur Sahiwal Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sahiwal (Sardogha)",
+               "short_name" : "Sahiwal (Sardogha)",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shahpur Sahiwal Rd, Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.014059,
+                  "lng" : 72.345203
+               },
+               "southwest" : {
+                  "lat" : 32.0123995,
+                  "lng" : 72.3446807
+               }
+            },
+            "location" : {
+               "lat" : 32.0132313,
+               "lng" : 72.3449325
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.01457823029149,
+                  "lng" : 72.34629083029151
+               },
+               "southwest" : {
+                  "lat" : 32.0118802697085,
+                  "lng" : 72.3435928697085
+               }
+            }
+         },
+         "place_id" : "ChIJDZSrxw9oITkRrpheFUHAvyw",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "287V+XXP",
+               "short_name" : "287V+XXP",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Bohalriwala",
+               "short_name" : "Bohalriwala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sahiwal (Sardogha)",
+               "short_name" : "Sahiwal (Sardogha)",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "287V+XXP, Bohalriwala, Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0149644,
+                  "lng" : 72.3450825
+               },
+               "southwest" : {
+                  "lat" : 32.0148515,
+                  "lng" : 72.3449512
+               }
+            },
+            "location" : {
+               "lat" : 32.014887,
+               "lng" : 72.3450105
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0162569302915,
+                  "lng" : 72.3463658302915
+               },
+               "southwest" : {
+                  "lat" : 32.0135589697085,
+                  "lng" : 72.3436678697085
+               }
+            }
+         },
+         "place_id" : "ChIJnYxdJhBoITkRK5e-Iv5iXto",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sabowal",
+               "short_name" : "Sabowal",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sabowal, Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0742269,
+                  "lng" : 72.3520879
+               },
+               "southwest" : {
+                  "lat" : 31.9846665,
+                  "lng" : 72.27488129999999
+               }
+            },
+            "location" : {
+               "lat" : 32.0109655,
+               "lng" : 72.319273
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0742269,
+                  "lng" : 72.3520879
+               },
+               "southwest" : {
+                  "lat" : 31.9846665,
+                  "lng" : 72.27488129999999
+               }
+            }
+         },
+         "place_id" : "ChIJ9-06gJFCITkRUz3lvQGmE4w",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sahiwal (Sardogha)",
+               "short_name" : "Sahiwal (Sardogha)",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sahiwal (Sardogha), Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0559859,
+                  "lng" : 72.5619361
+               },
+               "southwest" : {
+                  "lat" : 31.70946499999999,
+                  "lng" : 72.21704679999999
+               }
+            },
+            "location" : {
+               "lat" : 31.8762345,
+               "lng" : 72.37846789999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0559859,
+                  "lng" : 72.5619361
+               },
+               "southwest" : {
+                  "lat" : 31.70946499999999,
+                  "lng" : 72.21704679999999
+               }
+            }
+         },
+         "place_id" : "ChIJZ2aUDwZhITkRcdXKna13vVE",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sargodha",
+               "short_name" : "Sargodha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sargodha, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.5712785,
+                  "lng" : 73.31019239999999
+               },
+               "southwest" : {
+                  "lat" : 31.5566249,
+                  "lng" : 72.21704679999999
+               }
+            },
+            "location" : {
+               "lat" : 32.156592,
+               "lng" : 72.8042797
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.5712785,
+                  "lng" : 73.31019239999999
+               },
+               "southwest" : {
+                  "lat" : 31.5566249,
+                  "lng" : 72.21704679999999
+               }
+            }
+         },
+         "place_id" : "ChIJ0S6JJZadITkRmlmemFkTNjk",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

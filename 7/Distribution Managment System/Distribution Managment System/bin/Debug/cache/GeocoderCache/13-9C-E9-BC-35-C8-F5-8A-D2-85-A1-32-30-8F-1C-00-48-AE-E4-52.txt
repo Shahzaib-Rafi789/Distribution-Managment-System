@@ -1,0 +1,381 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "V77H+RP3 Chak No.416 TDA, Pakistan",
+      "global_code" : "8J2HV77H+RP3"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "V77H+RP",
+               "short_name" : "V77H+RP",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Chak No.416 TDA",
+               "short_name" : "Chak No.416 TDA",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Layyah",
+               "short_name" : "Layyah",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Layyah",
+               "short_name" : "Layyah",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "V77H+RP Chak No.416 TDA, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.864625,
+                  "lng" : 71.279375
+               },
+               "southwest" : {
+                  "lat" : 30.8645,
+                  "lng" : 71.27924999999999
+               }
+            },
+            "location" : {
+               "lat" : 30.8645102,
+               "lng" : 71.27929689999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.8659114802915,
+                  "lng" : 71.2806614802915
+               },
+               "southwest" : {
+                  "lat" : 30.8632135197085,
+                  "lng" : 71.27796351970849
+               }
+            }
+         },
+         "place_id" : "GhIJ9A5cilDdPkAR8tcaAODRUUA",
+         "plus_code" : {
+            "compound_code" : "V77H+RP Chak No.416 TDA, Pakistan",
+            "global_code" : "8J2HV77H+RP"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Layyah",
+               "short_name" : "Layyah",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Layyah",
+               "short_name" : "Layyah",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Layyah, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.86548749999999,
+                  "lng" : 71.2809721
+               },
+               "southwest" : {
+                  "lat" : 30.8627419,
+                  "lng" : 71.28093299999999
+               }
+            },
+            "location" : {
+               "lat" : 30.864114,
+               "lng" : 71.28093299999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.86548749999999,
+                  "lng" : 71.28230153029151
+               },
+               "southwest" : {
+                  "lat" : 30.8627419,
+                  "lng" : 71.2796035697085
+               }
+            }
+         },
+         "place_id" : "ChIJhTKo_Qv8JDkR4P30ZQMz1ZQ",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chowk Azam",
+               "short_name" : "Chowk Azam",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Layyah",
+               "short_name" : "Layyah",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Layyah",
+               "short_name" : "Layyah",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chowk Azam, Layyah, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.9881481,
+                  "lng" : 71.2895475
+               },
+               "southwest" : {
+                  "lat" : 30.8348489,
+                  "lng" : 71.0607981
+               }
+            },
+            "location" : {
+               "lat" : 30.8890613,
+               "lng" : 71.2161428
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.9881481,
+                  "lng" : 71.2895475
+               },
+               "southwest" : {
+                  "lat" : 30.8348489,
+                  "lng" : 71.0607981
+               }
+            }
+         },
+         "place_id" : "ChIJqSoXTzEAJTkRJ9PpcKUoyBk",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Layyah",
+               "short_name" : "Layyah",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Layyah",
+               "short_name" : "Layyah",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Layyah, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.0989035,
+                  "lng" : 71.31075200000001
+               },
+               "southwest" : {
+                  "lat" : 30.638823,
+                  "lng" : 70.73698999999999
+               }
+            },
+            "location" : {
+               "lat" : 30.8490761,
+               "lng" : 71.097317
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.0989035,
+                  "lng" : 71.31075200000001
+               },
+               "southwest" : {
+                  "lat" : 30.638823,
+                  "lng" : 70.73698999999999
+               }
+            }
+         },
+         "place_id" : "ChIJgaJCWjgGJTkRkETN5Rn_Q-0",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Layyah",
+               "short_name" : "Layyah",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Layyah, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.385908,
+                  "lng" : 71.8583658
+               },
+               "southwest" : {
+                  "lat" : 30.583735,
+                  "lng" : 70.73698999999999
+               }
+            },
+            "location" : {
+               "lat" : 31.099849,
+               "lng" : 71.0022311
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.385908,
+                  "lng" : 71.8583658
+               },
+               "southwest" : {
+                  "lat" : 30.583735,
+                  "lng" : 70.73698999999999
+               }
+            }
+         },
+         "place_id" : "ChIJoZW-U9JRJDkRPcUVmGiNb_o",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

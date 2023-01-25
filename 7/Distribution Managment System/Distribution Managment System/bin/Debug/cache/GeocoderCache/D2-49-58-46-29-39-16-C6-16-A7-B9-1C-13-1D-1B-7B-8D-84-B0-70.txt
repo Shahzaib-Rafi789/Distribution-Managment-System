@@ -1,0 +1,381 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "Q27Q+Q25 Rohillanwali, Pakistan",
+      "global_code" : "7JXHQ27Q+Q25"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Q27Q+Q2",
+               "short_name" : "Q27Q+Q2",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Rohillanwali",
+               "short_name" : "Rohillanwali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Muzaffargarh",
+               "short_name" : "Muzaffargarh",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Muzaffargarh",
+               "short_name" : "Muzaffargarh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Q27Q+Q2 Rohillanwali, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.7645,
+                  "lng" : 71.03762499999999
+               },
+               "southwest" : {
+                  "lat" : 29.764375,
+                  "lng" : 71.03749999999999
+               }
+            },
+            "location" : {
+               "lat" : 29.7643774,
+               "lng" : 71.03759769999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.7657864802915,
+                  "lng" : 71.0389114802915
+               },
+               "southwest" : {
+                  "lat" : 29.7630885197085,
+                  "lng" : 71.0362135197085
+               }
+            }
+         },
+         "place_id" : "GhIJL82-PK7DPUAR6PkuAGjCUUA",
+         "plus_code" : {
+            "compound_code" : "Q27Q+Q2 Rohillanwali, Pakistan",
+            "global_code" : "7JXHQ27Q+Q2"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "روڈ",
+               "short_name" : "روڈ",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Muzaffargarh",
+               "short_name" : "Muzaffargarh",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Muzaffargarh",
+               "short_name" : "Muzaffargarh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "روڈ، Muzaffargarh, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.7622272,
+                  "lng" : 71.03830379999999
+               },
+               "southwest" : {
+                  "lat" : 29.7621606,
+                  "lng" : 71.0333772
+               }
+            },
+            "location" : {
+               "lat" : 29.7621991,
+               "lng" : 71.0358401
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.76354288029149,
+                  "lng" : 71.03830379999999
+               },
+               "southwest" : {
+                  "lat" : 29.7608449197085,
+                  "lng" : 71.0333772
+               }
+            }
+         },
+         "place_id" : "ChIJNc6wT8XlOjkRKpTZn77Jf-s",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alude Wala",
+               "short_name" : "Alude Wala",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Muzaffargarh",
+               "short_name" : "Muzaffargarh",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Muzaffargarh",
+               "short_name" : "Muzaffargarh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Alude Wala, Muzaffargarh, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.8237776,
+                  "lng" : 71.08374479999999
+               },
+               "southwest" : {
+                  "lat" : 29.7393215,
+                  "lng" : 70.9766592
+               }
+            },
+            "location" : {
+               "lat" : 29.78164829999999,
+               "lng" : 71.014118
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.8237776,
+                  "lng" : 71.08374479999999
+               },
+               "southwest" : {
+                  "lat" : 29.7393215,
+                  "lng" : 70.9766592
+               }
+            }
+         },
+         "place_id" : "ChIJ40vDS3LmOjkRM5SRZV8cGRg",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Muzaffargarh",
+               "short_name" : "Muzaffargarh",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Muzaffargarh",
+               "short_name" : "Muzaffargarh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Muzaffargarh, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.6183359,
+                  "lng" : 71.72647499999999
+               },
+               "southwest" : {
+                  "lat" : 29.6825959,
+                  "lng" : 70.8051081
+               }
+            },
+            "location" : {
+               "lat" : 30.1017201,
+               "lng" : 71.1448516
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.6183359,
+                  "lng" : 71.72647499999999
+               },
+               "southwest" : {
+                  "lat" : 29.6825959,
+                  "lng" : 70.8051081
+               }
+            }
+         },
+         "place_id" : "ChIJ6T8_90IpOzkRcgyeDSYrFAY",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Muzaffargarh",
+               "short_name" : "Muzaffargarh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Muzaffargarh, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.765843,
+                  "lng" : 71.72647499999999
+               },
+               "southwest" : {
+                  "lat" : 29.0160107,
+                  "lng" : 70.53762279999999
+               }
+            },
+            "location" : {
+               "lat" : 30.1391619,
+               "lng" : 71.097317
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.765843,
+                  "lng" : 71.72647499999999
+               },
+               "southwest" : {
+                  "lat" : 29.0160107,
+                  "lng" : 70.53762279999999
+               }
+            }
+         },
+         "place_id" : "ChIJUZeqMpngOjkR4Ek2kVQl9U8",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,735 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "M75M+M3V Ferozewala, Pakistan",
+      "global_code" : "8J3PM75M+M3V"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "UBL, Kiranpark",
+               "short_name" : "UBL, Kiranpark",
+               "types" : [ "landmark" ]
+            },
+            {
+               "long_name" : "Phase 1",
+               "short_name" : "Phase 1",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Rachna Town",
+               "short_name" : "Rachna Town",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Ferozewala",
+               "short_name" : "Ferozewala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lahore City",
+               "short_name" : "Lahore City",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Plot # 10, Grand Trunk Rd, near THQ hospital, opposite to UBL, Kiranpark, Phase 1 Rachna Town, Ferozewala, Lahore, Punjab, Pakistan",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.6593131,
+               "lng" : 74.28272389999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.6606620802915,
+                  "lng" : 74.2840728802915
+               },
+               "southwest" : {
+                  "lat" : 31.6579641197085,
+                  "lng" : 74.28137491970848
+               }
+            }
+         },
+         "place_id" : "ChIJv2vjaasfGTkRH861UXLfEY4",
+         "plus_code" : {
+            "compound_code" : "M75M+P3 Ferozewala, Pakistan",
+            "global_code" : "8J3PM75M+P3"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "M75M+R6X",
+               "short_name" : "M75M+R6X",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Phase 1",
+               "short_name" : "Phase 1",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Rachna Town",
+               "short_name" : "Rachna Town",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Ferozewala",
+               "short_name" : "Ferozewala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lahore City",
+               "short_name" : "Lahore City",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sheikhupura",
+               "short_name" : "Sheikhupura",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "M75M+R6X, Phase 1 Rachna Town, Ferozewala, Sheikhupura, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.6596524,
+                  "lng" : 74.2832956
+               },
+               "southwest" : {
+                  "lat" : 31.6595585,
+                  "lng" : 74.2830853
+               }
+            },
+            "location" : {
+               "lat" : 31.6595969,
+               "lng" : 74.28319669999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.66095443029149,
+                  "lng" : 74.2845394302915
+               },
+               "southwest" : {
+                  "lat" : 31.6582564697085,
+                  "lng" : 74.28184146970848
+               }
+            }
+         },
+         "place_id" : "ChIJvy4zyJYeGTkRXGkJfaQxkJE",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "M75M+M3",
+               "short_name" : "M75M+M3",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Ferozewala",
+               "short_name" : "Ferozewala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ferozewala",
+               "short_name" : "Ferozewala",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sheikhupura",
+               "short_name" : "Sheikhupura",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "M75M+M3 Ferozewala, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.65925,
+                  "lng" : 74.28274999999999
+               },
+               "southwest" : {
+                  "lat" : 31.659125,
+                  "lng" : 74.282625
+               }
+            },
+            "location" : {
+               "lat" : 31.6592262,
+               "lng" : 74.2826843
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.66053648029149,
+                  "lng" : 74.28403648029149
+               },
+               "southwest" : {
+                  "lat" : 31.6578385197085,
+                  "lng" : 74.28133851970848
+               }
+            }
+         },
+         "place_id" : "GhIJlqpZDMOoP0AR7uXjfxeSUkA",
+         "plus_code" : {
+            "compound_code" : "M75M+M3 Ferozewala, Pakistan",
+            "global_code" : "8J3PM75M+M3"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "National Highway 5",
+               "short_name" : "GT Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Phase 1",
+               "short_name" : "Phase 1",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Al Rehman Garden",
+               "short_name" : "Al Rehman Garden",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Shahdara",
+               "short_name" : "Shahdara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lahore City",
+               "short_name" : "Lahore City",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "AH1, Phase 1 Al Rehman Garden, Shahdara, Lahore, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.6593603,
+                  "lng" : 74.28184329999999
+               },
+               "southwest" : {
+                  "lat" : 31.6589991,
+                  "lng" : 74.2817707
+               }
+            },
+            "location" : {
+               "lat" : 31.6591797,
+               "lng" : 74.281807
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.6605286802915,
+                  "lng" : 74.2831559802915
+               },
+               "southwest" : {
+                  "lat" : 31.6578307197085,
+                  "lng" : 74.28045801970849
+               }
+            }
+         },
+         "place_id" : "ChIJxcSyMJEeGTkRXrbhFuwelA4",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Al Rehman Garden",
+               "short_name" : "Al Rehman Garden",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Phase 1",
+               "short_name" : "Phase 1",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lahore City",
+               "short_name" : "Lahore City",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Phase 1 Al Rehman Garden, Lahore, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.6659793,
+                  "lng" : 74.2872194
+               },
+               "southwest" : {
+                  "lat" : 31.6555355,
+                  "lng" : 74.28045969999999
+               }
+            },
+            "location" : {
+               "lat" : 31.6598006,
+               "lng" : 74.28395309999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.6659793,
+                  "lng" : 74.2872194
+               },
+               "southwest" : {
+                  "lat" : 31.6555355,
+                  "lng" : 74.28045969999999
+               }
+            }
+         },
+         "place_id" : "ChIJSco-opYeGTkRuIeW48Jq6iI",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Phase 1",
+               "short_name" : "Phase 1",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Al Rehman Garden",
+               "short_name" : "Al Rehman Garden",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lahore City",
+               "short_name" : "Lahore City",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Phase 1 Al Rehman Garden, Lahore, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.6659793,
+                  "lng" : 74.2872194
+               },
+               "southwest" : {
+                  "lat" : 31.6555355,
+                  "lng" : 74.28045969999999
+               }
+            },
+            "location" : {
+               "lat" : 31.6598006,
+               "lng" : 74.28395309999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.6659793,
+                  "lng" : 74.2872194
+               },
+               "southwest" : {
+                  "lat" : 31.6555355,
+                  "lng" : 74.28045969999999
+               }
+            }
+         },
+         "place_id" : "ChIJSco-opYeGTkRAceUA6CPMG0",
+         "types" : [ "political", "sublocality", "sublocality_level_2" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Faisal Park",
+               "short_name" : "Faisal Park",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Lahore City",
+               "short_name" : "Lahore City",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Faisal Park, Lahore, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.669884,
+                  "lng" : 74.3030498
+               },
+               "southwest" : {
+                  "lat" : 31.6312507,
+                  "lng" : 74.2689833
+               }
+            },
+            "location" : {
+               "lat" : 31.6530366,
+               "lng" : 74.28541989999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.669884,
+                  "lng" : 74.3030498
+               },
+               "southwest" : {
+                  "lat" : 31.6312507,
+                  "lng" : 74.2689833
+               }
+            }
+         },
+         "place_id" : "ChIJ9_ZF0pgeGTkRbyxh5NP916E",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ferozewala",
+               "short_name" : "Ferozewala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ferozewala",
+               "short_name" : "Ferozewala",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sheikhupura",
+               "short_name" : "Sheikhupura",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ferozewala, Sheikhupura, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.6973078,
+                  "lng" : 74.3010232
+               },
+               "southwest" : {
+                  "lat" : 31.6390187,
+                  "lng" : 74.2552675
+               }
+            },
+            "location" : {
+               "lat" : 31.6478908,
+               "lng" : 74.2840547
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.6973078,
+                  "lng" : 74.3010232
+               },
+               "southwest" : {
+                  "lat" : 31.6390187,
+                  "lng" : 74.2552675
+               }
+            }
+         },
+         "place_id" : "ChIJx9JOfZEeGTkRqLSv2b7cQrQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lahore City",
+               "short_name" : "Lahore City",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lahore City, Lahore, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.669884,
+                  "lng" : 74.39582299999999
+               },
+               "southwest" : {
+                  "lat" : 31.2543339,
+                  "lng" : 74.0068495
+               }
+            },
+            "location" : {
+               "lat" : 31.4329663,
+               "lng" : 74.1944529
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.669884,
+                  "lng" : 74.39582299999999
+               },
+               "southwest" : {
+                  "lat" : 31.2543339,
+                  "lng" : 74.0068495
+               }
+            }
+         },
+         "place_id" : "ChIJU0eVDuT9GDkReHoSeZ1j6rg",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lahore, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.7326739,
+                  "lng" : 74.64111319999999
+               },
+               "southwest" : {
+                  "lat" : 31.2543339,
+                  "lng" : 74.0068495
+               }
+            },
+            "location" : {
+               "lat" : 31.4312704,
+               "lng" : 74.35874729999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.7326739,
+                  "lng" : 74.64111319999999
+               },
+               "southwest" : {
+                  "lat" : 31.2543339,
+                  "lng" : 74.0068495
+               }
+            }
+         },
+         "place_id" : "ChIJNfyfu-sDGTkRca4X8W4UGb4",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

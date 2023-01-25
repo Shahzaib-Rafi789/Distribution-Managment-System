@@ -1,0 +1,381 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "4FG3+CRW Mosam Wala, Pakistan",
+      "global_code" : "8J2M4FG3+CRW"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4FG3+CR",
+               "short_name" : "4FG3+CR",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Mosam Wala",
+               "short_name" : "Mosam Wala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Minchinabad",
+               "short_name" : "Minchinabad",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bahawalnagar",
+               "short_name" : "Bahawalnagar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "4FG3+CR Mosam Wala, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.126125,
+                  "lng" : 73.45462499999999
+               },
+               "southwest" : {
+                  "lat" : 30.126,
+                  "lng" : 73.4545
+               }
+            },
+            "location" : {
+               "lat" : 30.1261244,
+               "lng" : 73.45458979999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.1274114802915,
+                  "lng" : 73.4559114802915
+               },
+               "southwest" : {
+                  "lat" : 30.1247135197085,
+                  "lng" : 73.4532135197085
+               }
+            }
+         },
+         "place_id" : "GhIJRTpNsEkgPkARFwbR_xddUkA",
+         "plus_code" : {
+            "compound_code" : "4FG3+CR Mosam Wala, Pakistan",
+            "global_code" : "8J2M4FG3+CR"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Minchinabad",
+               "short_name" : "Minchinabad",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bahawalnagar",
+               "short_name" : "Bahawalnagar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Bahawalnagar, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.1265554,
+                  "lng" : 73.4554153
+               },
+               "southwest" : {
+                  "lat" : 30.1265145,
+                  "lng" : 73.4544856
+               }
+            },
+            "location" : {
+               "lat" : 30.126516,
+               "lng" : 73.4549523
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.1278839302915,
+                  "lng" : 73.45629943029151
+               },
+               "southwest" : {
+                  "lat" : 30.1251859697085,
+                  "lng" : 73.4536014697085
+               }
+            }
+         },
+         "place_id" : "ChIJTyuMGeZhPTkRRtvBkbCwWlA",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Minchinabad",
+               "short_name" : "Minchinabad",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Minchinabad",
+               "short_name" : "Minchinabad",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bahawalnagar",
+               "short_name" : "Bahawalnagar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Minchinabad, Bahawalnagar, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.1581263,
+                  "lng" : 73.4694825
+               },
+               "southwest" : {
+                  "lat" : 30.081693,
+                  "lng" : 73.3800955
+               }
+            },
+            "location" : {
+               "lat" : 30.1167553,
+               "lng" : 73.42980729999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.1581263,
+                  "lng" : 73.4694825
+               },
+               "southwest" : {
+                  "lat" : 30.081693,
+                  "lng" : 73.3800955
+               }
+            }
+         },
+         "place_id" : "ChIJBYCQkZthPTkRqbS155omXmQ",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Minchinabad",
+               "short_name" : "Minchinabad",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bahawalnagar",
+               "short_name" : "Bahawalnagar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Minchinabad, Bahawalnagar, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.3412358,
+                  "lng" : 73.96895669999999
+               },
+               "southwest" : {
+                  "lat" : 29.9363038,
+                  "lng" : 73.30461889999999
+               }
+            },
+            "location" : {
+               "lat" : 30.1222003,
+               "lng" : 73.55941279999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.3412358,
+                  "lng" : 73.96895669999999
+               },
+               "southwest" : {
+                  "lat" : 29.9363038,
+                  "lng" : 73.30461889999999
+               }
+            }
+         },
+         "place_id" : "ChIJL7MKEKTcFzkRqe_xJXdznnU",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bahawalnagar",
+               "short_name" : "Bahawalnagar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bahawalnagar, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.3412358,
+                  "lng" : 73.96895669999999
+               },
+               "southwest" : {
+                  "lat" : 28.8190697,
+                  "lng" : 72.261753
+               }
+            },
+            "location" : {
+               "lat" : 29.6892353,
+               "lng" : 72.99329689999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.3412358,
+                  "lng" : 73.96895669999999
+               },
+               "southwest" : {
+                  "lat" : 28.8190697,
+                  "lng" : 72.261753
+               }
+            }
+         },
+         "place_id" : "ChIJO4JHUnGXPTkR_Uge2Dk3R6U",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

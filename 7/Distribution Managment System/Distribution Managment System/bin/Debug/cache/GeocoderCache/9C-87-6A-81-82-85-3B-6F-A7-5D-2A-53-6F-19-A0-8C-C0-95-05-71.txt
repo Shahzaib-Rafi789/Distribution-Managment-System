@@ -1,0 +1,381 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "9F53+WRP Chak Tabrian, Pakistan",
+      "global_code" : "8J2M9F53+WRP"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "9F53+WR",
+               "short_name" : "9F53+WR",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Chak Tabrian",
+               "short_name" : "Chak Tabrian",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pakpattan",
+               "short_name" : "Pakpattan",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Pakpattan",
+               "short_name" : "Pakpattan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "9F53+WR Chak Tabrian, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.359875,
+                  "lng" : 73.45462499999999
+               },
+               "southwest" : {
+                  "lat" : 30.35975,
+                  "lng" : 73.4545
+               }
+            },
+            "location" : {
+               "lat" : 30.3598414,
+               "lng" : 73.45458979999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.3611614802915,
+                  "lng" : 73.4559114802915
+               },
+               "southwest" : {
+                  "lat" : 30.3584635197085,
+                  "lng" : 73.4532135197085
+               }
+            }
+         },
+         "place_id" : "GhIJMr_kkB5cPkARFwbR_xddUkA",
+         "plus_code" : {
+            "compound_code" : "9F53+WR Chak Tabrian, Pakistan",
+            "global_code" : "8J2M9F53+WR"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pakpattan",
+               "short_name" : "Pakpattan",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Pakpattan",
+               "short_name" : "Pakpattan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Pakpattan, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.3660093,
+                  "lng" : 73.4521591
+               },
+               "southwest" : {
+                  "lat" : 30.35785779999999,
+                  "lng" : 73.45214199999999
+               }
+            },
+            "location" : {
+               "lat" : 30.3619335,
+               "lng" : 73.4521506
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.3660093,
+                  "lng" : 73.45349953029151
+               },
+               "southwest" : {
+                  "lat" : 30.35785779999999,
+                  "lng" : 73.4508015697085
+               }
+            }
+         },
+         "place_id" : "ChIJmzOz6xFYPTkRbsXvCjmH-GY",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pak Pattan",
+               "short_name" : "Pak Pattan",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Pakpattan",
+               "short_name" : "Pakpattan",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Pakpattan",
+               "short_name" : "Pakpattan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pak Pattan, Pakpattan, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.3862433,
+                  "lng" : 73.4736832
+               },
+               "southwest" : {
+                  "lat" : 30.322812,
+                  "lng" : 73.39410839999999
+               }
+            },
+            "location" : {
+               "lat" : 30.3410122,
+               "lng" : 73.42980729999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.3862433,
+                  "lng" : 73.4736832
+               },
+               "southwest" : {
+                  "lat" : 30.322812,
+                  "lng" : 73.39410839999999
+               }
+            }
+         },
+         "place_id" : "ChIJ8_lQ6ThYPTkRltLcMFGWBvA",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakpattan",
+               "short_name" : "Pakpattan",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Pakpattan",
+               "short_name" : "Pakpattan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakpattan, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.611603,
+                  "lng" : 73.64800049999999
+               },
+               "southwest" : {
+                  "lat" : 30.06875999999999,
+                  "lng" : 73.1587421
+               }
+            },
+            "location" : {
+               "lat" : 30.3282791,
+               "lng" : 73.4180211
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.611603,
+                  "lng" : 73.64800049999999
+               },
+               "southwest" : {
+                  "lat" : 30.06875999999999,
+                  "lng" : 73.1587421
+               }
+            }
+         },
+         "place_id" : "ChIJO3A2_rpZPTkRsMbTTzckE48",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakpattan",
+               "short_name" : "Pakpattan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakpattan, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.611603,
+                  "lng" : 73.64800029999999
+               },
+               "southwest" : {
+                  "lat" : 29.9619919,
+                  "lng" : 72.83014799999999
+               }
+            },
+            "location" : {
+               "lat" : 30.2526507,
+               "lng" : 73.1821623
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.611603,
+                  "lng" : 73.64800029999999
+               },
+               "southwest" : {
+                  "lat" : 29.9619919,
+                  "lng" : 72.83014799999999
+               }
+            }
+         },
+         "place_id" : "ChIJf2RS3-haPTkRZIR3-oO4MrY",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

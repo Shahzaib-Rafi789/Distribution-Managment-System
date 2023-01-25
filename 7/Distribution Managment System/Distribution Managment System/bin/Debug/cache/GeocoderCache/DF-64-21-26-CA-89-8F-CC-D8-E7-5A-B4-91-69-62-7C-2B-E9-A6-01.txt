@@ -1,0 +1,371 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "F822+222 Roranwala, Punjab, India",
+      "global_code" : "8J2PF822+222"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "F822+22",
+               "short_name" : "F822+22",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Roranwala",
+               "short_name" : "Roranwala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fazilka",
+               "short_name" : "Fazilka",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "F822+22 Roranwala, Punjab, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.450125,
+                  "lng" : 74.30012499999999
+               },
+               "southwest" : {
+                  "lat" : 30.45,
+                  "lng" : 74.3
+               }
+            },
+            "location" : {
+               "lat" : 30.45,
+               "lng" : 74.3
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.4514114802915,
+                  "lng" : 74.30141148029149
+               },
+               "southwest" : {
+                  "lat" : 30.4487135197085,
+                  "lng" : 74.29871351970849
+               }
+            }
+         },
+         "place_id" : "GhIJNDMzMzNzPkARMzMzMzOTUkA",
+         "plus_code" : {
+            "compound_code" : "F822+22 Roranwala, Punjab, India",
+            "global_code" : "8J2PF822+22"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fazilka",
+               "short_name" : "Fazilka",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "152033",
+               "short_name" : "152033",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Punjab 152033, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.4549999,
+                  "lng" : 74.2954302
+               },
+               "southwest" : {
+                  "lat" : 30.4455737,
+                  "lng" : 74.2895772
+               }
+            },
+            "location" : {
+               "lat" : 30.4507584,
+               "lng" : 74.29368169999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.4549999,
+                  "lng" : 74.2954302
+               },
+               "southwest" : {
+                  "lat" : 30.4455737,
+                  "lng" : 74.2895772
+               }
+            }
+         },
+         "place_id" : "ChIJXYDTyDx3FzkRrCj5Ql8snrk",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "152033",
+               "short_name" : "152033",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Khuranj",
+               "short_name" : "Khuranj",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khuranj, Punjab 152033, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.574574,
+                  "lng" : 74.37425999999999
+               },
+               "southwest" : {
+                  "lat" : 30.41398539999999,
+                  "lng" : 74.1947373
+               }
+            },
+            "location" : {
+               "lat" : 30.5055765,
+               "lng" : 74.28835359999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.574574,
+                  "lng" : 74.37425999999999
+               },
+               "southwest" : {
+                  "lat" : 30.41398539999999,
+                  "lng" : 74.1947373
+               }
+            }
+         },
+         "place_id" : "ChIJneSL72OdFzkRcMYk560dADw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jalalabad",
+               "short_name" : "Jalalabad",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Fazilka",
+               "short_name" : "Fazilka",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jalalabad, Punjab, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.69244,
+                  "lng" : 74.40110059999999
+               },
+               "southwest" : {
+                  "lat" : 30.4451649,
+                  "lng" : 74.0735066
+               }
+            },
+            "location" : {
+               "lat" : 30.5251284,
+               "lng" : 74.2648829
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.69244,
+                  "lng" : 74.40110059999999
+               },
+               "southwest" : {
+                  "lat" : 30.4451649,
+                  "lng" : 74.0735066
+               }
+            }
+         },
+         "place_id" : "ChIJW1zBDUt_FzkRq0_9RaOoIGs",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fazilka",
+               "short_name" : "Fazilka",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fazilka, Punjab, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.69244,
+                  "lng" : 74.4629137
+               },
+               "southwest" : {
+                  "lat" : 29.9471761,
+                  "lng" : 73.8805799
+               }
+            },
+            "location" : {
+               "lat" : 30.1932577,
+               "lng" : 74.12399599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.69244,
+                  "lng" : 74.4629137
+               },
+               "southwest" : {
+                  "lat" : 29.9471761,
+                  "lng" : 73.8805799
+               }
+            }
+         },
+         "place_id" : "ChIJQfhiodWdFzkRu8QWGdxv-t4",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.5115625,
+                  "lng" : 76.9414615
+               },
+               "southwest" : {
+                  "lat" : 29.5420701,
+                  "lng" : 73.8805799
+               }
+            },
+            "location" : {
+               "lat" : 31.1471305,
+               "lng" : 75.34121789999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.5115625,
+                  "lng" : 76.9414615
+               },
+               "southwest" : {
+                  "lat" : 29.5420701,
+                  "lng" : 73.8805799
+               }
+            }
+         },
+         "place_id" : "ChIJVXOeVqpkGTkRYYijAzEmvY8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.6745457,
+                  "lng" : 97.39535869999999
+               },
+               "southwest" : {
+                  "lat" : 6.4626999,
+                  "lng" : 68.1097
+               }
+            },
+            "location" : {
+               "lat" : 20.593684,
+               "lng" : 78.96288
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.6745457,
+                  "lng" : 97.39535869999999
+               },
+               "southwest" : {
+                  "lat" : 6.4626999,
+                  "lng" : 68.1097
+               }
+            }
+         },
+         "place_id" : "ChIJkbeSa_BfYzARphNChaFPjNc",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

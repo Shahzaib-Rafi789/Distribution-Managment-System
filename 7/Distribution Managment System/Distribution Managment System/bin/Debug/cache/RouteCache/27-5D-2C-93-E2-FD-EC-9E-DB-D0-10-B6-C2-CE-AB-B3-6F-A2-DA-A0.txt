@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJkdha2RpCITkRghgRu2sc9xs",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJkdha2RpCITkRghgRu2sc9xs",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 32.0827035,
+               "lng" : 72.31753410000002
+            },
+            "southwest" : {
+               "lat" : 32.0827035,
+               "lng" : 72.31753410000002
+            }
+         },
+         "copyrights" : "Map data ©2022",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Unnamed Road, Khushab, Punjab, Pakistan",
+               "end_location" : {
+                  "lat" : 32.0827035,
+                  "lng" : 72.31753410000002
+               },
+               "start_address" : "Unnamed Road, Khushab, Punjab, Pakistan",
+               "start_location" : {
+                  "lat" : 32.0827035,
+                  "lng" : 72.31753410000002
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 32.0827035,
+                        "lng" : 72.31753410000002
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "{cybEqokxL"
+                     },
+                     "start_location" : {
+                        "lat" : 32.0827035,
+                        "lng" : 72.31753410000002
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "{cybEqokxL"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,489 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "CXW4+XV8 Nazir Pkka, Pakistan",
+      "global_code" : "8J3MCXW4+XV8"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "CXW4+XV",
+               "short_name" : "CXW4+XV",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Nazir Pkka",
+               "short_name" : "Nazir Pkka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nankana Sahib",
+               "short_name" : "Nankana Sahib",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Nankana Sahib",
+               "short_name" : "Nankana Sahib",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "CXW4+XV Nazir Pkka, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.4475,
+                  "lng" : 73.95725
+               },
+               "southwest" : {
+                  "lat" : 31.447375,
+                  "lng" : 73.957125
+               }
+            },
+            "location" : {
+               "lat" : 31.4474103,
+               "lng" : 73.9572144
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.4487864802915,
+                  "lng" : 73.95853648029153
+               },
+               "southwest" : {
+                  "lat" : 31.4460885197085,
+                  "lng" : 73.95583851970851
+               }
+            }
+         },
+         "place_id" : "GhIJv2Q-e4lyP0ARqNAvAEN9UkA",
+         "plus_code" : {
+            "compound_code" : "CXW4+XV Nazir Pkka, Pakistan",
+            "global_code" : "8J3MCXW4+XV"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "CXW3+QRF",
+               "short_name" : "CXW3+QRF",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Nazir Pkka",
+               "short_name" : "Nazir Pkka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nankana Sahib",
+               "short_name" : "Nankana Sahib",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Nankana Sahib",
+               "short_name" : "Nankana Sahib",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "CXW3+QRF, Nazir Pkka, Nankana Sahib, Punjab, Pakistan",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.4469276,
+               "lng" : 73.9545516
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.4482765802915,
+                  "lng" : 73.9559005802915
+               },
+               "southwest" : {
+                  "lat" : 31.4455786197085,
+                  "lng" : 73.95320261970849
+               }
+            }
+         },
+         "place_id" : "ChIJDx9D4kHxGDkRfRtz9EtWaYc",
+         "types" : [ "establishment", "point_of_interest", "school" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "CXW3+QRF",
+               "short_name" : "CXW3+QRF",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Nazir Pkka",
+               "short_name" : "Nazir Pkka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nankana Sahib",
+               "short_name" : "Nankana Sahib",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Nankana Sahib",
+               "short_name" : "Nankana Sahib",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "CXW3+QRF, Nazir Pkka, Nankana Sahib, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.4469609,
+                  "lng" : 73.9545557
+               },
+               "southwest" : {
+                  "lat" : 31.4468832,
+                  "lng" : 73.95442369999999
+               }
+            },
+            "location" : {
+               "lat" : 31.4469195,
+               "lng" : 73.9545002
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.4482710302915,
+                  "lng" : 73.95583868029151
+               },
+               "southwest" : {
+                  "lat" : 31.4455730697085,
+                  "lng" : 73.9531407197085
+               }
+            }
+         },
+         "place_id" : "ChIJB5Dy4kHxGDkRrrRce5pQsWE",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nankana Sahib",
+               "short_name" : "Nankana Sahib",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Nankana Sahib",
+               "short_name" : "Nankana Sahib",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Nankana Sahib, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.4506509,
+                  "lng" : 73.9570824
+               },
+               "southwest" : {
+                  "lat" : 31.4471187,
+                  "lng" : 73.95706389999999
+               }
+            },
+            "location" : {
+               "lat" : 31.4488848,
+               "lng" : 73.9570732
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.4506509,
+                  "lng" : 73.95842213029151
+               },
+               "southwest" : {
+                  "lat" : 31.4471187,
+                  "lng" : 73.9557241697085
+               }
+            }
+         },
+         "place_id" : "ChIJP_IJgWvxGDkRepLrognEEOc",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Qureshian Wa",
+               "short_name" : "Qureshian Wa",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Qureshian Wa, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.5380053,
+                  "lng" : 74.0173459
+               },
+               "southwest" : {
+                  "lat" : 31.3600708,
+                  "lng" : 73.8717534
+               }
+            },
+            "location" : {
+               "lat" : 31.4476565,
+               "lng" : 73.95949399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.5380053,
+                  "lng" : 74.0173459
+               },
+               "southwest" : {
+                  "lat" : 31.3600708,
+                  "lng" : 73.8717534
+               }
+            }
+         },
+         "place_id" : "ChIJ4Y8J-WbxGDkRttitZkZJZW8",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nankana Sahib",
+               "short_name" : "Nankana Sahib",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Nankana Sahib",
+               "short_name" : "Nankana Sahib",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nankana Sahib, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.595987,
+                  "lng" : 74.038206
+               },
+               "southwest" : {
+                  "lat" : 31.02113379999999,
+                  "lng" : 73.3937131
+               }
+            },
+            "location" : {
+               "lat" : 31.3597324,
+               "lng" : 73.7948516
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.595987,
+                  "lng" : 74.038206
+               },
+               "southwest" : {
+                  "lat" : 31.02113379999999,
+                  "lng" : 73.3937131
+               }
+            }
+         },
+         "place_id" : "ChIJNVB0D9mJGDkRSZyB4Smeqec",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nankana Sahib",
+               "short_name" : "Nankana Sahib",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nankana Sahib, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.9048644,
+                  "lng" : 74.0382058
+               },
+               "southwest" : {
+                  "lat" : 31.02113379999999,
+                  "lng" : 73.289934
+               }
+            },
+            "location" : {
+               "lat" : 31.4487176,
+               "lng" : 73.7948516
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9048644,
+                  "lng" : 74.0382058
+               },
+               "southwest" : {
+                  "lat" : 31.02113379999999,
+                  "lng" : 73.289934
+               }
+            }
+         },
+         "place_id" : "ChIJk1YoOPCPGDkRxARrMGYQJqI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

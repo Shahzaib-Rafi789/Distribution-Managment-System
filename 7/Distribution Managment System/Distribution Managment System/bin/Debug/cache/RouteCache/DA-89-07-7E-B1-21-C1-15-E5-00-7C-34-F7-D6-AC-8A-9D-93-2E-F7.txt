@@ -1,0 +1,298 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJT5OdUBYBGTkR32j8udNqjlU",
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJv2vjaasfGTkRH861UXLfEY4",
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 31.7005477,
+               "lng" : 74.2826853
+            },
+            "southwest" : {
+               "lat" : 31.4260555,
+               "lng" : 74.1961551
+            }
+         },
+         "copyrights" : "Map data ©2022",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "45.6 km",
+                  "value" : 45619
+               },
+               "duration" : {
+                  "text" : "44 mins",
+                  "value" : 2620
+               },
+               "end_address" : "Plot # 10, Grand Trunk Rd, near THQ hospital, opposite to UBL, Kiranpark, Phase 1 Rachna Town, Ferozewala, Lahore, Punjab, Pakistan",
+               "end_location" : {
+                  "lat" : 31.6593926,
+                  "lng" : 74.2826853
+               },
+               "start_address" : "C6GV+J2X C-Block Park, Block C Punjab University Employees Chs, Lahore, Punjab, Pakistan",
+               "start_location" : {
+                  "lat" : 31.4273048,
+                  "lng" : 74.2427029
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 628
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 112
+                     },
+                     "end_location" : {
+                        "lat" : 31.4274392,
+                        "lng" : 74.2485027
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Punjab University Employees Housing Scheme Town II (on the right)\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "scy~D{ocdMLWd@_An@sAf@gAN_@|@qBHSFQDQBU@O?O@SASOe@Qm@uBuGOc@q@oBy@mB"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4273048,
+                        "lng" : 74.2427029
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "15 m",
+                        "value" : 15
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 2
+                     },
+                     "end_location" : {
+                        "lat" : 31.4273735,
+                        "lng" : 74.24864529999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at Estate Channel onto \u003cb\u003eTariq Ismaeel Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ody~DctddML]"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4274392,
+                        "lng" : 74.2485027
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.3 km",
+                        "value" : 1323
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 110
+                     },
+                     "end_location" : {
+                        "lat" : 31.4353847,
+                        "lng" : 74.2588978
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eKhayaban-e-Jinnah\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Sixteen standards (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ady~DauddMCEk@eA_@m@c@q@c@m@_@a@eAkAa@c@MMQSg@q@w@}@c@g@{@eACESYW_@EGSUW]EESWW_@SYECY[OSIIMMKMY[Y]IIKMmAyAY[gAuAOQaAgAKMe@m@KKy@eAMQeAcBOY]s@s@uAcBgDMYSa@Uc@]e@QY"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4273735,
+                        "lng" : 74.24864529999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "4.4 km",
+                        "value" : 4382
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 391
+                     },
+                     "end_location" : {
+                        "lat" : 31.4648528,
+                        "lng" : 74.2299563
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eAbdul Sattar Edhi Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Faraz Usman Productions (on the left in 2.6 km)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "cvz~DcufdM_@@cBnBkC`DEDcBpBKJuBdC{@`AmBxBONwAdB{CpD_CnCuAfB[\\}@bAmA|Aq@v@_@^o@p@QPSTWZ_AdAo@r@WXQTSV_@j@g@t@Yh@S^Wn@k@fBK`@YdAa@zAa@~As@jCOn@Ol@Qh@M`@K\\ITGJGPS\\MTW\\GFQRA@GHKHMLMJOJMHYPOJOF[LOFOFODQDQDYDA?[@S@S@MA]?O?S?K@M?I@I@M@SDMBMDQD_Ap@KJ{AjAmBbBcBzAk@j@}@z@_@Z[VkAhAo@h@QNYTGFSTSPKLKF[XYZq@r@i@h@u@p@cAv@KHa@Vq@b@{@f@g@\\uAx@iAj@_@TSJQLYT_@Vi@b@QNgA~@s@j@GDe@`@u@p@}@x@gA`AWTg@b@m@f@{@p@GFq@h@mFxEKHIHcCvBSRQLQLe@`@QNQLy@n@A@gAbAw@bAONEBKH[JOBI@E@S@i@Da@Dk@N"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4353847,
+                        "lng" : 74.2588978
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "25.8 km",
+                        "value" : 25803
+                     },
+                     "duration" : {
+                        "text" : "20 mins",
+                        "value" : 1182
+                     },
+                     "end_location" : {
+                        "lat" : 31.6737293,
+                        "lng" : 74.1998765
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eM-2\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eToll road\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "in`_Eg`adMUHMDULWLqBnAm@^m@\\yCfB{IdFeA^s@ReAVm@Hi@HsAJq@@}A?wAGqAKwBUiGo@SCQAwFg@a@GA?A?oXkCeUyBuAMaAMeAOqASkB]uBc@yA]iAY}Bq@uBo@aBm@uAi@}Aq@qB}@wAs@qAs@{@e@MGKG}DiCsBwAkA{@}AeAyAaA_@Wq@g@iIwFgBmA_Aq@qA{@sA_AkBoAkBqAu@k@yZ}SgOiKUOEEUQWOgRsMuA_AwA_A]UeBiAw@g@kA{@mA}@q@i@cD}BkBoAcAo@k@_@}@k@y@e@y@e@y@e@o@[_Ag@{@e@{@e@s@_@a@SsAu@s@_@}@e@{@c@kAo@uBkAeAk@cDgBoAq@kAm@y@c@aAg@qAs@eAk@_CoAoAq@iAk@aB{@wAw@}CcBoRcK{@c@uAu@qAo@yAw@uAs@yA{@uAs@qBgAyAs@iAg@k@Uu@UaBe@eAUy@OkBUaAGg@E_BEaA?q@?w@@o@BW@YBK@mALMBI?KBG@I@OBc@FI@oBd@y@T_@JwAh@]Ly@^]Pk@Z_@TQHEDe@Ze@ZWRWTs@f@o@n@u@t@k@r@OPkCdDaAnAgChDi@p@g@p@eB`CY\\iKjNiEtFk@v@m@z@qAbBY^m@x@aArAu@|@y@jAyApBc@t@MR?@W\\SXCBW^ORGHY\\KNKLY^EFSRUZA@Y\\OPIJW^KLKNW^GHOTY\\A@WXSTEFY\\KLKNW\\GHOTY\\ADSXW`@CDSVQVGDYZKNMLCDEFQTW^A@WXCBKJON[`@QTILIHU\\W^Wd@U^W^o@bAg@j@oA`Bi@l@cCtCkB~ByC~C{CpCu@n@eBvA{@l@q@f@q@f@o@`@eAn@oBhAcBz@c@VcAf@cAf@eCpAkExB_Bz@_a@nSc\\pPGBMF]PGDYL]P_@T_@RYNEB_@P_@ROHOH_@R_@PC@[P_@TIDULWLGB_@R_@P_@R_@PGBWN_@R_@R_@R_@PkB`AqBbAwAt@qB`AsAr@yAx@sAp@uAr@uBfAsAt@s@X_Ad@qDnBkB|@{@`@u@`@y@`@e@TSJQHMH_@R_@R_@R_@P_@R_@RqDhBw@^_CbAu@VaA`@uA`@q@Pi@LwA^cAT]H{@NaC`@mAVqBR}@N_ANaAL]D_@F{@JaAR_ANa@D}AV_CZcBTwB`@_ARy@Nc@DiAPu@N{@R_@Ja@J]JC@a@HYFIBa@HQBQDa@Ha@HG@[Ja@JYHGBa@La@LMDSFa@La@LKDSFa@Na@LA?_@LE@[La@LIDMDMDkA^{Aj@wAf@m@TgCdA_@Ni@Xk@V_A`@u@Z{@\\_@Jy@\\wAl@wAh@yAn@y@\\{@\\{Aj@sBx@yAj@}Al@kA\\iA^}Ab@q@Tg@J{@VkA`@}@V{A^_@F{A\\_B^_AR_@JaAR{AV}AX}Dl@{@HSDe@Ha@Hc@Fa@HG@[Dc@Fa@FQ@O@c@Dc@DO@QBMBUBK@WDQBO@[BG@a@BA?c@@c@@S@O@c@Dc@BK@WBa@Bc@BA?a@Bc@DY@I@c@@c@Bc@Bc@BG?[@c@@a@@A?c@@c@?U@K?c@@O?S@c@BG?cAFaAA}@?_A@cBB}AEaACaAA_B?cCCeCCoAAA?c@@I?YAQAQAe@AM?oA?_AAgAEU?c@A_@?C?c@CYAI?c@?SAO?O@S?K@W?c@?G?[Ac@Ac@A]AE?c@?c@Ac@AY?s@?sDGmBC_A?cBAcCEs@AkA?mAAq@Ag@A{AAaBA_AEk@Cs@@aA@_AC}@E}@CeCBeA?}@AaCAm@?q@BaABqDJyAJc@@cA@_ADcAF}@Hu@DI@S@mAJ_BLcBP]BaAJ{@FaAFc@FkBZoAR_ANwAVgAR_@DSBSDw@H{@L{Bd@aCf@wAZ}Bj@m@No@P{DfAuFfBwBl@gA^e@HeCr@}Ad@aA\\a@L[JE@a@LKBWFIBWFa@JE@[Ja@LIBa@Ja@LMBQDOFsA^}Br@{Af@_Bf@wA^oA`@g@Ng@Na@La@Ja@La@Ja@La@Ja@Lc@Ja@LE@[Ha@La@LYHG@SF"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4648528,
+                        "lng" : 74.2299563
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.2 km",
+                        "value" : 1227
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 70
+                     },
+                     "end_location" : {
+                        "lat" : 31.6799688,
+                        "lng" : 74.20215940000001
+                     },
+                     "html_instructions" : "Take the exit toward \u003cb\u003eLahore Bypass\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eAH1\u003c/b\u003e",
+                     "maneuver" : "ramp-left",
+                     "polyline" : {
+                        "points" : "ygi`Egd{cMm@j@aA`@w@Tc@Lg@Pa@PYTWTW\\MXQd@UdAABWnAc@tBQp@K`@SZYZYR]LQDM@[@Q?_@EOG[Q[WQWS_@Yo@u@sBYs@Wq@eAmCCK[w@u@oBWq@Ww@Oe@G[GUEWCQEOMu@Iq@Gi@Gm@Ew@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.6737293,
+                        "lng" : 74.1998765
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "6.6 km",
+                        "value" : 6614
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 292
+                     },
+                     "end_location" : {
+                        "lat" : 31.6971825,
+                        "lng" : 74.268772
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eLahore Bypass\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eAH1\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eToll road\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "ynj`Eor{cMI}Bs@uVYqJ[iHe@kGaA}KeB}LwBaKyBoIqD{NcAcEiFySmA{EEUGWGUOu@[aBa@{Be@cD[mCGi@WqBa@uDo@wFm@{E_A{G{AmJ}@oEy@mE_@cBAKCIkA_GmD}PyBcLkFyX_B{ImFsYESEUSiAyDmRaGyYuBgKMc@aBkHK]Sy@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.6799688,
+                        "lng" : 74.20215940000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 622
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 31.6991501,
+                        "lng" : 74.274931
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eLahore Bypass\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "kzm`EyrhdMuFyWScA[kAYkAc@iBa@eBCI"
+                     },
+                     "start_location" : {
+                        "lat" : 31.6971825,
+                        "lng" : 74.268772
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "4.9 km",
+                        "value" : 4918
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 399
+                     },
+                     "end_location" : {
+                        "lat" : 31.6593603,
+                        "lng" : 74.2817707
+                     },
+                     "html_instructions" : "Exit onto \u003cb\u003eGT Rd\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eNH 5\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eAH1\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eAH2\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eToll road\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by RijjaFatima Events Management (on the left in 1.3 km)\u003c/div\u003e",
+                     "maneuver" : "ramp-left",
+                     "polyline" : {
+                        "points" : "ufn`EiyidMKOEGGGMKIGIEMGKCMCM?M?K@K@MDMBIDIDIFIHIHGJEHGJELGPEPCPAJAH?F?H?H@F?FBPBJ?BBHBHDHDHBHDDFJDDBBFFFDBBHDB@D@D@B@F@TBV@d@C`@CZ?l@@\\EpAQx@UpEa@xDa@FAZE~C_@dFq@LCfIeAlASrEi@|G_ApBYVEhMyA`@GtFq@tGy@DAHAdBSfEi@`@Ev@KxAQn@KdAMdDc@pC_@pBWfGw@TCjDc@NCbGu@nGw@d@GjAMxKyAxG_Al@KZElHy@`Fm@h@IhAQ|OmBnDc@t@IhEk@n@InGu@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.6991501,
+                        "lng" : 74.274931
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "87 m",
+                        "value" : 87
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 31.6593926,
+                        "lng" : 74.2826853
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Makki Goods Transport Co (on the left)\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_nf`EadkdMAWCiA?uA"
+                     },
+                     "start_location" : {
+                        "lat" : 31.6593603,
+                        "lng" : 74.2817707
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "scy~D{ocdMjCsF~AwDJgA?g@a@sAeCyHkB}EL]CEkAsBgA_BeBmBiBwB{CqDeAwAmCiD{DqEsDkEwBmCsAuBm@mAyDyHs@iAQY_@@oFpGiBvBkHlIcKvL}FfHsCzC{CjD}ArBaA~Ak@nAw@hC{@`DuBhIu@~Bq@pAs@z@o@l@gAr@kAd@mAVeADoAAm@D}@PQD_Ap@gBvA{HfH_GjFgA`AkDjDcD|BcBdA_DdB_BdAcDjC}IzHcDjCgKdJ}D`DgAbAw@bAURg@TYDeBNeBl@eFzCuNlIyBr@sB`@}BToC@iDSgLkA}Go@ms@aHwCc@aFaAcDw@sFaBwDwAoEoBsFuCiEqC_EsCiGgEcQsL_w@ki@kVuPsGgEoJaHyGkE}EmCkFsCkP{IsUcMsf@sW{IwEgE{BcD{AaBk@gD{@eDe@iBMaDEiB@mBJwDd@yBf@yA`@uBv@wAp@cB`A{B`BcBvAaBhB{CvDiExFqEbGsQ`VyArB{EpGoBhC}BfDy@lAs@`A}BtCkAzAw@fAcCxCcClDcEdFgAtAoAlBm@~@wAnBiJdLyC~C{CpC{CfCoE~C}HlEyMzGycAnh@}DtBgJxEuJbFiEvBmDlBsJbFsB~@}GlDqEzBsE`CqE|BwDbBwBx@gCr@cFlA}Dp@mAVqBR}B^_BR}Ev@cJnAwDt@}AT_C`@{A^eBb@uDt@eEnAiEtAqGzBmHrCkEnB{Ah@qCjAgHtCgK~DeHvBmF|AwHdB_B^}Cj@{GfAoANmCd@iBVoD\\mCVkBFkBNuEVwEPuEJkAF_CAcDD_DIkLI_C?cBGeFGiEGwC@sFKoJK{IIsFE}DCkBIuBB}BIgIAoDAsBFkGVgBBwF\\kE\\_Gh@eBN{Dn@_G`A{C`@}FlAuEfA}A`@qLnD_ElAkD|@}E|AuCt@{DhAmKbDwF`BqGfB}DhAm@j@aA`@{Ab@iAb@q@j@e@v@g@jBoAzF_@|@s@n@o@Ri@Bq@Ek@Y[WQWm@oAmDgJmBeFw@oC]oB_@aE}@sZYqJ[iHgBiTeB}LwBaKkHkYmH}YcB_Hk@wCgA_H}A_N}AsM_A{G{AmJwB}Ka@oBoAiGgHa^kIuc@sFgZuMgp@cCkLmBiIiGsYo@oCcBeHg@k@m@Y[CY@q@Pg@`@[n@S`AAd@Hl@L`@Vd@XVVLf@HzBEl@@\\EpAQx@UjKcAb@GzU{C`H}@nKyAxVyCjKqAhXkDdc@qFlXsDtQwBfR_CdFm@xFu@nGu@AWC_D"
+         },
+         "summary" : "M-2",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

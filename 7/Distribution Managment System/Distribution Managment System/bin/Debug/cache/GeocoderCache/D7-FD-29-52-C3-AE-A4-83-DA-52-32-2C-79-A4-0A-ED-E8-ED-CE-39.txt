@@ -1,0 +1,646 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "P465+C92 New York, NY, USA",
+      "global_code" : "87G8P465+C92"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "6626",
+               "short_name" : "6626",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Metropolitan Avenue",
+               "short_name" : "Metropolitan Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Middle Village",
+               "short_name" : "Middle Village",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11379",
+               "short_name" : "11379",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1630",
+               "short_name" : "1630",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "6626 Metropolitan Ave, Middle Village, NY 11379, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7109064,
+               "lng" : -73.89224369999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7122553802915,
+                  "lng" : -73.89089471970848
+               },
+               "southwest" : {
+                  "lat" : 40.7095574197085,
+                  "lng" : -73.8935926802915
+               }
+            }
+         },
+         "place_id" : "ChIJtRxmqodewokRVXFMX1L7QjM",
+         "plus_code" : {
+            "compound_code" : "P465+94 Middle Village, Queens, NY, USA",
+            "global_code" : "87G8P465+94"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6626",
+               "short_name" : "6626",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Metropolitan Avenue",
+               "short_name" : "Metropolitan Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Middle Village",
+               "short_name" : "Middle Village",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11379",
+               "short_name" : "11379",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "6626 Metropolitan Ave, Middle Village, NY 11379, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7121936,
+                  "lng" : -73.8897106
+               },
+               "southwest" : {
+                  "lat" : 40.7106428,
+                  "lng" : -73.89352
+               }
+            },
+            "location" : {
+               "lat" : 40.7116122,
+               "lng" : -73.8922517
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7127671802915,
+                  "lng" : -73.8897106
+               },
+               "southwest" : {
+                  "lat" : 40.7100692197085,
+                  "lng" : -73.89352
+               }
+            }
+         },
+         "place_id" : "ChIJP2YuO4ZewokRBALs1JRvcNA",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "P465+C9",
+               "short_name" : "P465+C9",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "P465+C9 New York, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.711125,
+                  "lng" : -73.89149999999999
+               },
+               "southwest" : {
+                  "lat" : 40.711,
+                  "lng" : -73.89162499999999
+               }
+            },
+            "location" : {
+               "lat" : 40.7110209,
+               "lng" : -73.89160819999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.71241148029149,
+                  "lng" : -73.89021351970848
+               },
+               "southwest" : {
+                  "lat" : 40.70971351970849,
+                  "lng" : -73.8929114802915
+               }
+            }
+         },
+         "place_id" : "GhIJ4SKcuwJbREARG_bWGxB5UsA",
+         "plus_code" : {
+            "compound_code" : "P465+C9 New York, NY, USA",
+            "global_code" : "87G8P465+C9"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Flushing",
+               "short_name" : "Flushing",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11381",
+               "short_name" : "11381",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Flushing, NY 11381, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7105712,
+                  "lng" : -73.8903601
+               },
+               "southwest" : {
+                  "lat" : 40.7103759,
+                  "lng" : -73.891451
+               }
+            },
+            "location" : {
+               "lat" : 40.7105195,
+               "lng" : -73.890873
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.71182253029149,
+                  "lng" : -73.88955656970849
+               },
+               "southwest" : {
+                  "lat" : 40.70912456970849,
+                  "lng" : -73.89225453029151
+               }
+            }
+         },
+         "place_id" : "ChIJfWXMpIdewokRSLPM37svemA",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "11381",
+               "short_name" : "11381",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Flushing",
+               "short_name" : "Flushing",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Flushing, NY 11381, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.712441,
+                  "lng" : -73.8379559
+               },
+               "southwest" : {
+                  "lat" : 40.7039,
+                  "lng" : -73.8941099
+               }
+            },
+            "location" : {
+               "lat" : 40.7063561,
+               "lng" : -73.840436
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.712441,
+                  "lng" : -73.8379559
+               },
+               "southwest" : {
+                  "lat" : 40.7039,
+                  "lng" : -73.8941099
+               }
+            }
+         },
+         "place_id" : "ChIJb5rXf4ZewokR1akJeGzW578",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ridgewood",
+               "short_name" : "Ridgewood",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ridgewood, Queens, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7139974,
+                  "lng" : -73.8888254
+               },
+               "southwest" : {
+                  "lat" : 40.6917298,
+                  "lng" : -73.92405769999999
+               }
+            },
+            "location" : {
+               "lat" : 40.7043986,
+               "lng" : -73.90182919999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7139974,
+                  "lng" : -73.8888254
+               },
+               "southwest" : {
+                  "lat" : 40.6917298,
+                  "lng" : -73.92405769999999
+               }
+            }
+         },
+         "place_id" : "ChIJIzZTSINewokR1IAJAc-zfs0",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Queens County, Queens, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.81171310000001,
+                  "lng" : -73.700169
+               },
+               "southwest" : {
+                  "lat" : 40.4897939,
+                  "lng" : -74.04211189999999
+               }
+            },
+            "location" : {
+               "lat" : 40.7282239,
+               "lng" : -73.7948516
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.81171310000001,
+                  "lng" : -73.700169
+               },
+               "southwest" : {
+                  "lat" : 40.4897939,
+                  "lng" : -74.04211189999999
+               }
+            }
+         },
+         "place_id" : "ChIJgav5pFbxwokRno6Tc5x2GL8",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Queens, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8122421,
+                  "lng" : -73.70027209999999
+               },
+               "southwest" : {
+                  "lat" : 40.4897939,
+                  "lng" : -74.04211189999999
+               }
+            },
+            "location" : {
+               "lat" : 40.7282239,
+               "lng" : -73.7948516
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8122421,
+                  "lng" : -73.70027209999999
+               },
+               "southwest" : {
+                  "lat" : 40.4897939,
+                  "lng" : -74.04211189999999
+               }
+            }
+         },
+         "place_id" : "ChIJK1kKR2lDwokRBXtcbIvRCUE",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New York, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.9175771,
+                  "lng" : -73.70027209999999
+               },
+               "southwest" : {
+                  "lat" : 40.4773991,
+                  "lng" : -74.25908989999999
+               }
+            },
+            "location" : {
+               "lat" : 40.7127753,
+               "lng" : -74.0059728
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.9175771,
+                  "lng" : -73.70027209999999
+               },
+               "southwest" : {
+                  "lat" : 40.4773991,
+                  "lng" : -74.25908989999999
+               }
+            }
+         },
+         "place_id" : "ChIJOwg_06VPwokRYv534QaPC8g",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.015861,
+                  "lng" : -71.777491
+               },
+               "southwest" : {
+                  "lat" : 40.4773991,
+                  "lng" : -79.7625901
+               }
+            },
+            "location" : {
+               "lat" : 43.2994285,
+               "lng" : -74.21793260000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.015861,
+                  "lng" : -71.777491
+               },
+               "southwest" : {
+                  "lat" : 40.4773991,
+                  "lng" : -79.7625901
+               }
+            }
+         },
+         "place_id" : "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

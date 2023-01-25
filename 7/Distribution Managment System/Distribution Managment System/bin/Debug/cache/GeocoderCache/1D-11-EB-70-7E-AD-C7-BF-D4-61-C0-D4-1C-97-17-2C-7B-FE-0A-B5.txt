@@ -1,0 +1,440 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "86F3+QGM Chak 71 GB, Pakistan",
+      "global_code" : "8J3M86F3+QGM"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "86F3+QG",
+               "short_name" : "86F3+QG",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Chak 71 GB",
+               "short_name" : "Chak 71 GB",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jaranwala",
+               "short_name" : "Jaranwala",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Faisalabad",
+               "short_name" : "Faisalabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "86F3+QG Chak 71 GB, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.3245,
+                  "lng" : 73.203875
+               },
+               "southwest" : {
+                  "lat" : 31.324375,
+                  "lng" : 73.20375
+               }
+            },
+            "location" : {
+               "lat" : 31.3244602,
+               "lng" : 73.2037926
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.3257864802915,
+                  "lng" : 73.20516148029151
+               },
+               "southwest" : {
+                  "lat" : 31.3230885197085,
+                  "lng" : 73.2024635197085
+               }
+            }
+         },
+         "place_id" : "GhIJhtrb0g9TP0ARrQoe8ApNUkA",
+         "plus_code" : {
+            "compound_code" : "86F3+QG Chak 71 GB, Pakistan",
+            "global_code" : "8J3M86F3+QG"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "86F4+CGW",
+               "short_name" : "86F4+CGW",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Jaranwala",
+               "short_name" : "Jaranwala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jaranwala",
+               "short_name" : "Jaranwala",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Faisalabad",
+               "short_name" : "Faisalabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "86F4+CGW, Jaranwala, Faisalabad, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.3236823,
+                  "lng" : 73.2063907
+               },
+               "southwest" : {
+                  "lat" : 31.3235587,
+                  "lng" : 73.2063155
+               }
+            },
+            "location" : {
+               "lat" : 31.3236259,
+               "lng" : 73.2063471
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.3249694802915,
+                  "lng" : 73.20770208029151
+               },
+               "southwest" : {
+                  "lat" : 31.3222715197085,
+                  "lng" : 73.20500411970851
+               }
+            }
+         },
+         "place_id" : "ChIJY-otL4tjIjkRh1ORyV0PdeM",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jaranwala",
+               "short_name" : "Jaranwala",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Faisalabad",
+               "short_name" : "Faisalabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Faisalabad, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.3238995,
+                  "lng" : 73.20413859999999
+               },
+               "southwest" : {
+                  "lat" : 31.3230576,
+                  "lng" : 73.2035145
+               }
+            },
+            "location" : {
+               "lat" : 31.3234786,
+               "lng" : 73.2038266
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.3248275302915,
+                  "lng" : 73.2051755302915
+               },
+               "southwest" : {
+                  "lat" : 31.3221295697085,
+                  "lng" : 73.20247756970849
+               }
+            }
+         },
+         "place_id" : "ChIJvQRJ4vRjIjkRtChNjO9Q3kg",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chak No. 229",
+               "short_name" : "Chak No. 229",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Faisalabad",
+               "short_name" : "Faisalabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chak No. 229, Faisalabad, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.3836024,
+                  "lng" : 73.26704959999999
+               },
+               "southwest" : {
+                  "lat" : 31.2898379,
+                  "lng" : 73.19872789999999
+               }
+            },
+            "location" : {
+               "lat" : 31.3425288,
+               "lng" : 73.2411506
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.3836024,
+                  "lng" : 73.26704959999999
+               },
+               "southwest" : {
+                  "lat" : 31.2898379,
+                  "lng" : 73.19872789999999
+               }
+            }
+         },
+         "place_id" : "ChIJ92b82oZkIjkRt--o3vzcxpk",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jaranwala",
+               "short_name" : "Jaranwala",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Faisalabad",
+               "short_name" : "Faisalabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jaranwala, Faisalabad, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.6552178,
+                  "lng" : 73.6839499
+               },
+               "southwest" : {
+                  "lat" : 31.0678575,
+                  "lng" : 73.147036
+               }
+            },
+            "location" : {
+               "lat" : 31.3487025,
+               "lng" : 73.37086959999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.6552178,
+                  "lng" : 73.6839499
+               },
+               "southwest" : {
+                  "lat" : 31.0678575,
+                  "lng" : 73.147036
+               }
+            }
+         },
+         "place_id" : "ChIJL-SlmCl5IjkRwB2FJy5Z3A8",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Faisalabad",
+               "short_name" : "Faisalabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Faisalabad, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.7837096,
+                  "lng" : 73.6839499
+               },
+               "southwest" : {
+                  "lat" : 30.6730959,
+                  "lng" : 72.70536799999999
+               }
+            },
+            "location" : {
+               "lat" : 31.3235168,
+               "lng" : 73.1821623
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.7837096,
+                  "lng" : 73.6839499
+               },
+               "southwest" : {
+                  "lat" : 30.6730959,
+                  "lng" : 72.70536799999999
+               }
+            }
+         },
+         "place_id" : "ChIJswBXdipiIjkRbO-RZf_ab-Y",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

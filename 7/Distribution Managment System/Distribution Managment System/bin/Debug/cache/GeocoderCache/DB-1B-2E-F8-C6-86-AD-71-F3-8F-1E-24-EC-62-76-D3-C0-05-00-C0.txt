@@ -1,0 +1,504 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "VJM2+RJ7 Renala Khurd, Pakistan",
+      "global_code" : "8J2MVJM2+RJ7"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "VJM2+RJ",
+               "short_name" : "VJM2+RJ",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Renala Khurd",
+               "short_name" : "Renala Khurd",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Renala Khurd",
+               "short_name" : "Renala Khurd",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Okara",
+               "short_name" : "Okara",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "VJM2+RJ Renala Khurd, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.884625,
+                  "lng" : 73.601625
+               },
+               "southwest" : {
+                  "lat" : 30.8845,
+                  "lng" : 73.6015
+               }
+            },
+            "location" : {
+               "lat" : 30.8845479,
+               "lng" : 73.60153199999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.8859114802915,
+                  "lng" : 73.60291148029151
+               },
+               "southwest" : {
+                  "lat" : 30.8832135197085,
+                  "lng" : 73.6002135197085
+               }
+            }
+         },
+         "place_id" : "GhIJ1z4uu3HiPkAR1t8SgH9mUkA",
+         "plus_code" : {
+            "compound_code" : "VJM2+RJ Renala Khurd, Pakistan",
+            "global_code" : "8J2MVJM2+RJ"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lehrasab Town Road",
+               "short_name" : "Lehrasab Town Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Renala Khurd",
+               "short_name" : "Renala Khurd",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Renala Khurd",
+               "short_name" : "Renala Khurd",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Okara",
+               "short_name" : "Okara",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lehrasab Town Road, Renala Khurd, Okara, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.8838284,
+                  "lng" : 73.6027136
+               },
+               "southwest" : {
+                  "lat" : 30.8832032,
+                  "lng" : 73.60146960000002
+               }
+            },
+            "location" : {
+               "lat" : 30.8835158,
+               "lng" : 73.60209159999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.8848647802915,
+                  "lng" : 73.60344058029152
+               },
+               "southwest" : {
+                  "lat" : 30.8821668197085,
+                  "lng" : 73.60074261970851
+               }
+            }
+         },
+         "place_id" : "ChIJURBjClQMGDkRi1xsdyRJ3is",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lehrasib Town",
+               "short_name" : "Lehrasib Town",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Renala Khurd",
+               "short_name" : "Renala Khurd",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Renala Khurd",
+               "short_name" : "Renala Khurd",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Okara",
+               "short_name" : "Okara",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lehrasib Town, Renala Khurd, Okara, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.8875348,
+                  "lng" : 73.6045104
+               },
+               "southwest" : {
+                  "lat" : 30.8832282,
+                  "lng" : 73.60087679999999
+               }
+            },
+            "location" : {
+               "lat" : 30.8855862,
+               "lng" : 73.6028422
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.8875348,
+                  "lng" : 73.6045104
+               },
+               "southwest" : {
+                  "lat" : 30.8832282,
+                  "lng" : 73.60087679999999
+               }
+            }
+         },
+         "place_id" : "ChIJIf78RFQMGDkRy05iG8TmKVo",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Renala Khurd",
+               "short_name" : "Renala Khurd",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Renala Khurd",
+               "short_name" : "Renala Khurd",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Okara",
+               "short_name" : "Okara",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Renala Khurd, Okara, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.9043406,
+                  "lng" : 73.6385902
+               },
+               "southwest" : {
+                  "lat" : 30.8537747,
+                  "lng" : 73.5694092
+               }
+            },
+            "location" : {
+               "lat" : 30.8781845,
+               "lng" : 73.59543290000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.9043406,
+                  "lng" : 73.6385902
+               },
+               "southwest" : {
+                  "lat" : 30.8537747,
+                  "lng" : 73.5694092
+               }
+            }
+         },
+         "place_id" : "ChIJ9WOcs0UMGDkRxrKDRbBM0FA",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chak 5/1R",
+               "short_name" : "Chak 5/1R",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Okara",
+               "short_name" : "Okara",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chak 5/1R, Okara, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.8883311,
+                  "lng" : 73.63639080000002
+               },
+               "southwest" : {
+                  "lat" : 30.8406701,
+                  "lng" : 73.53731359999999
+               }
+            },
+            "location" : {
+               "lat" : 30.8608782,
+               "lng" : 73.6006342
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.8883311,
+                  "lng" : 73.63639080000002
+               },
+               "southwest" : {
+                  "lat" : 30.8406701,
+                  "lng" : 73.53731359999999
+               }
+            }
+         },
+         "place_id" : "ChIJ5bNUYj8MGDkRnSvRyZT1G00",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Renala Khurd",
+               "short_name" : "Renala Khurd",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Okara",
+               "short_name" : "Okara",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Renala Khurd, Okara, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.1391218,
+                  "lng" : 73.8483731
+               },
+               "southwest" : {
+                  "lat" : 30.7567329,
+                  "lng" : 73.5420175
+               }
+            },
+            "location" : {
+               "lat" : 30.9017236,
+               "lng" : 73.7007088
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.1391218,
+                  "lng" : 73.8483731
+               },
+               "southwest" : {
+                  "lat" : 30.7567329,
+                  "lng" : 73.5420175
+               }
+            }
+         },
+         "place_id" : "ChIJ78N_eyttGDkRWvSFRRt96rk",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Okara",
+               "short_name" : "Okara",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Okara, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.1391218,
+                  "lng" : 74.16676939999999
+               },
+               "southwest" : {
+                  "lat" : 30.2525369,
+                  "lng" : 73.26932789999999
+               }
+            },
+            "location" : {
+               "lat" : 30.6842464,
+               "lng" : 73.74778569999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.1391218,
+                  "lng" : 74.16676939999999
+               },
+               "southwest" : {
+                  "lat" : 30.2525369,
+                  "lng" : 73.26932789999999
+               }
+            }
+         },
+         "place_id" : "ChIJB60wLBgbGDkRN45uA7TXBbo",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

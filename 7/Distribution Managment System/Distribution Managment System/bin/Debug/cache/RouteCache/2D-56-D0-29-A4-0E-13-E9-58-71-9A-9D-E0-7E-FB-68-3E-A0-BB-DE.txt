@@ -1,0 +1,466 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJgfsYeEYJGTkRMj_JKAL4yrU",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJv2vjaasfGTkRH861UXLfEY4",
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 31.7020951,
+               "lng" : 74.4832809
+            },
+            "southwest" : {
+               "lat" : 31.4754322,
+               "lng" : 74.2743646
+            }
+         },
+         "copyrights" : "Map data ©2022",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "46.6 km",
+                  "value" : 46645
+               },
+               "duration" : {
+                  "text" : "46 mins",
+                  "value" : 2736
+               },
+               "end_address" : "Plot # 10, Grand Trunk Rd, near THQ hospital, opposite to UBL, Kiranpark, Phase 1 Rachna Town, Ferozewala, Lahore, Punjab, Pakistan",
+               "end_location" : {
+                  "lat" : 31.6593926,
+                  "lng" : 74.2826853
+               },
+               "start_address" : "Plot 1073, Sector S Phase 7, Lahore, Punjab, Pakistan",
+               "start_location" : {
+                  "lat" : 31.4777683,
+                  "lng" : 74.4817551
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 170
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 31.4769708,
+                        "lng" : 74.4832809
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eAvenue 10\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "a_c_E_freMZ_AJ[DMpAiCXo@DK"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4777683,
+                        "lng" : 74.4817551
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.4 km",
+                        "value" : 1406
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 152
+                     },
+                     "end_location" : {
+                        "lat" : 31.4779721,
+                        "lng" : 74.4692316
+                     },
+                     "html_instructions" : "Make a \u003cb\u003eU-turn\u003c/b\u003e",
+                     "maneuver" : "uturn-right",
+                     "polyline" : {
+                        "points" : "azb_EooreMX?M^Q^Q^_@r@]v@EHM^Qn@U~@Kb@Gd@Gp@GjAAv@@p@?PBNFVN\\JPVZRTPZXp@BLFZBND\\@d@?\\?FAVCd@C`@[dHU|EiAzVc@rJ"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4769708,
+                        "lng" : 74.4832809
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 290
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 31.4755302,
+                        "lng" : 74.4686627
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eAvenue 8\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "i`c_EuwoeMJ`@FHFH\\RlFV~DN"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4779721,
+                        "lng" : 74.4692316
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.8 km",
+                        "value" : 1752
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 196
+                     },
+                     "end_location" : {
+                        "lat" : 31.4810974,
+                        "lng" : 74.4528236
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAvenue 1\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by MYTREE (on the left in 850m)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "aqb_EctoeMR?A\\EfAAd@MfFMxBGfAOpDGtBIvAIxAE~@IrA?\\E`AI~BM|CKdCIpBCn@Er@Cd@KjDCRCNEPEJCHGHIJU\\KJg@\\k@l@kGxGmI~I{@|@i@j@UT_A|@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4755302,
+                        "lng" : 74.4686627
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 1038
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 92
+                     },
+                     "end_location" : {
+                        "lat" : 31.4873114,
+                        "lng" : 74.44466179999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eBroadway Main Blvd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by innox Aluminium office (on the right)\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "{sc_EcqleMSTi@l@w@z@o@~@gA|AkAnB{@tAm@z@{C~D_B~BEFqDfFaHdK_BhC"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4810974,
+                        "lng" : 74.4528236
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1053
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 76
+                     },
+                     "end_location" : {
+                        "lat" : 31.4945887,
+                        "lng" : 74.43884899999999
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit and stay on \u003cb\u003eBroadway Main Blvd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by the park (on the right)\u003c/div\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "uzd_Ec~jeMFTFV@V@XCVEVGVIRQTSNUJWFW@WCWGUK{AtBSTwAnBUXg@j@i@h@g@d@s@p@A@i@b@ED}@l@gAr@_Bx@UNWLe@TWNMJWLaEtAsAZm@J}@T}@j@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4873114,
+                        "lng" : 74.44466179999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 740
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 55
+                     },
+                     "end_location" : {
+                        "lat" : 31.5003188,
+                        "lng" : 74.43583439999999
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit and stay on \u003cb\u003eBroadway Main Blvd\u003c/b\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "ehf_EyyieM?B?@A@?B?@AB?@AB?@A@?@A@?@A@ABABABCBABABC@CBCBCBE@CBE@E@E@C?KBI?IAKCICGCIGGG}@IS@K@UDYHu@JcCb@wAXQFi@Nq@Tg@Tk@Xm@\\YRQHi@ZA?c@\\{@z@s@v@g@n@{@rA"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4945887,
+                        "lng" : 74.43884899999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 566
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : 31.5023639,
+                        "lng" : 74.4303939
+                     },
+                     "html_instructions" : "Continue straight to stay on \u003cb\u003eBroadway Main Blvd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Ylw Bikes (on the right in 500m)\u003c/div\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "_lg_E}fieM_@n@_@z@aAdCMZQt@Q~@Or@Kn@e@~Ba@jBYtAOl@uAfF"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5003188,
+                        "lng" : 74.43583439999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 294
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 31.5000688,
+                        "lng" : 74.4288514
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Fieldforce Inc (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wxg_E}dheMPHlAp@hCzAh@\\rAx@l@Zr@f@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5023639,
+                        "lng" : 74.4303939
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 521
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 58
+                     },
+                     "end_location" : {
+                        "lat" : 31.4983754,
+                        "lng" : 74.4243352
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e3rd\u003c/b\u003e exit onto \u003cb\u003eDefence Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by the bridge (on the right in 450m)\u003c/div\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "mjg_Ei{geM@A?A@A@A@C@?@A@A@A@?@A@?BA@?@?@?@?@?B?@?@?@@@?@?@@BB@DBF@F?HAHAFAB[t@A@CNAN?@?HAF?V@XBJDTHXL^P`@Z~@x@zBHPb@fAXt@Tp@@@BHJV?@Nb@p@xB"
+                     },
+                     "start_location" : {
+                        "lat" : 31.5000688,
+                        "lng" : 74.4288514
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "15.2 km",
+                        "value" : 15172
+                     },
+                     "duration" : {
+                        "text" : "13 mins",
+                        "value" : 759
+                     },
+                     "end_location" : {
+                        "lat" : 31.6116556,
+                        "lng" : 74.40620179999999
+                     },
+                     "html_instructions" : "Take the ramp onto \u003cb\u003eLahore Ring Rd\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eL-20\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eToll road\u003c/div\u003e",
+                     "maneuver" : "ramp-left",
+                     "polyline" : {
+                        "points" : "{_g_Ec_geM\\\\PPLHRHNBN@N?RCLERINKNQFMHQFQBMBQ?GBG?MAM?KCMEOEMGQKMOQKIQIQG_@C]BU?KC_@Te@\\[RIFGDKFMFqAt@y@^{@\\{@XaAREBCBCDo@LaAPaANi@Fc@DeAFw@FsBDqBCkEAiC?kC?wDEgE?cDYwAG{EC_B@cFAwIGgCBaBBqC@I?I?iUYsNUkAAwGIaAAmFGuACcACyCCiJMuEE]AwGI{GM}F[yBSaF]yDe@yDm@yJ_B[IMEWEYIoFoAoAYa@K]KyBu@sBq@u@Ui@Sy@_@_@MWM}@]{@a@uGkC_AYsBcAuHgDoCkA_EgBuAu@i@YkAe@wAs@sBgA}HeE}BmAmDsAwBo@}E_AoCYcCMsDGaPSuDAI?G?aEGaDAgIIaCAC?_DGcFA}@A}@AuDC_NOu@AU?A?{AAO?E?]AY?{GGyGEy@?GAE?wIIyMII?E?{@A}LKC?E?e@AkDAyB?_CH}@DA?w@FcAHc@D]DaALyBXmCf@mB^C@]HE@WHE@GBC?E@KBIBE@MDUHG@SFGB[HaAZyAd@yB|@sBv@qEhBm@TkBt@aA`@aBn@uDvAMFMFg@RwDzAmCbAiCfAcDpAuEhBkBx@s@\\eAb@}@b@yAr@wBhAw@`@SJe@V_Ad@e@VwBpA_Af@sCbBiBhASLyBpA}@h@}@h@yGzD{BrAi@\\iAn@wBnAy@d@y@f@s@f@q@h@a@`@WRUTW\\UVUVi@z@Yd@S\\Q^Q\\Q`@M\\]dASp@Oh@Kb@Ib@If@Kl@ETGj@Eb@Gv@ItB?x@Af@@nA@f@Bd@@b@B`@FhAFhADb@PtBPjBFj@BTFf@NpANjA@DTnAd@hCFVVlAXnAVbALf@XdAp@bCZdARj@h@~Ap@dB~@hB"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4983754,
+                        "lng" : 74.4243352
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 899
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 56
+                     },
+                     "end_location" : {
+                        "lat" : 31.6115407,
+                        "lng" : 74.4014469
+                     },
+                     "html_instructions" : "Take the exit toward \u003cb\u003eLahore Eastern Bypass\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eSialkot - Lahore Motorway\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eM-11\u003c/b\u003e",
+                     "maneuver" : "ramp-left",
+                     "polyline" : {
+                        "points" : "{c}_EwmceM`@`@|@fBj@lA^h@VTRNTHPDTBj@ETA@?h@Gr@Ed@?b@JZLVRZ^HPFLDLJ\\D^@L?PGp@GVK\\KRKP[XYPKDA?uAj@A?e@NOFOFa@NaA^a@Na@NIDgBt@u@\\"
+                     },
+                     "start_location" : {
+                        "lat" : 31.6116556,
+                        "lng" : 74.40620179999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "13.2 km",
+                        "value" : 13213
+                     },
+                     "duration" : {
+                        "text" : "9 mins",
+                        "value" : 551
+                     },
+                     "end_location" : {
+                        "lat" : 31.696609,
+                        "lng" : 74.3244227
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eLahore Eastern Bypass\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eSialkot - Lahore Motorway\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eM-11\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "cc}_EapbeMUJKDMFKDcEfBYJ_@Na@PYLMDUJ}B|@MFKDqAf@QFeBp@MFMFQFmDrAw@`@mAl@mBlAGDkAt@gBnAoBxA]XsAdAIFuAjAONMLaBtA[X[XeA`AmAlAiBlBcEpEaBxBgCtDOTmCxDAByAbCKNINaAbBmBhDoAhCQ\\iA~BeBdEO^ABcB`EwAnEADyB`HgBxGeC|Kc@hCAD_AtFaA~HABUrBcArLw@dPEpC?DGfDCdCAVAXCrAG|BElAA`@?d@ExAGzAS`Dk@|F?Do@jEEVy@~EkAbFyAhFuAjEA@?@m@xAq@|ASh@Qb@i@~@Ud@}@fBADcAbBa@l@kCvDiCfDmAxAu@v@{A`BqAvAyA`By@~@cBnBi@l@yA~AoFhGkAnAYXuA|AyDfEkKlLwA`ByBbCoLrMQRmGhHQRsFbGyCdDq@r@a@Z]Z{B`B_Ap@gAz@ED}ArAYV{@p@UPMH{BvAwA|@uFrCMF{C~AcClA_@RmAl@qBt@kCz@MDcHtB_Bd@{HhBkCl@eAVeATE@UDg@HgCT_DXU@cHj@cEXkAH{ANUBm@F}@Hk@FM@{AN_DXyALK@gBPQBo@L_@D{AN_@@a@BkAFW@{AFeBHkALg@@o@AgBGk@?{NSsBAE?iDGiA?E?]A}EAoCAI?K?m@AiAAwCCk@@iA@iBPaBL_AF{ANeC\\kGp@{DXgD`@I@qI`AqEn@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.6115407,
+                        "lng" : 74.4014469
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.3 km",
+                        "value" : 1282
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 57
+                     },
+                     "end_location" : {
+                        "lat" : 31.7014844,
+                        "lng" : 74.3136954
+                     },
+                     "html_instructions" : "Take the exit toward \u003cb\u003eLahore Bypass\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eLahore Eastern Bypass\u003c/b\u003e",
+                     "maneuver" : "ramp-left",
+                     "polyline" : {
+                        "points" : "yvm`EsnsdMaA^oAd@}Bz@_Bz@kBtAoBjBkA|A[^o@`Ai@dAcA`Cs@pBw@bD]lBUhBMjBIrB@|BFbCHvBLdBXhD"
+                     },
+                     "start_location" : {
+                        "lat" : 31.696609,
+                        "lng" : 74.3244227
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.4 km",
+                        "value" : 3391
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 135
+                     },
+                     "end_location" : {
+                        "lat" : 31.7000034,
+                        "lng" : 74.27822479999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eLahore Bypass\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eLahore Eastern Bypass\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gun`EskqdML~@Jr@LxA?PDz@?n@@p@@|BIlBOvCEfAGr@e@dHc@fGMhCALK`CAXChAAFC~@GdCGvDCfD?jD?`BAdBDxF@bKCdI?D?lE?n@DtHAvF@j@BtAHtCFhCHxBZdHNrC`@tEZpDf@zEp@`GdAbHd@jC^lB`@zBH^"
+                     },
+                     "start_location" : {
+                        "lat" : 31.7014844,
+                        "lng" : 74.3136954
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "4.8 km",
+                        "value" : 4771
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 382
+                     },
+                     "end_location" : {
+                        "lat" : 31.6593603,
+                        "lng" : 74.2817707
+                     },
+                     "html_instructions" : "Exit onto \u003cb\u003eGT Rd\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eNH 5\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eAH1\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eAH2\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eToll road\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by RijjaFatima Events Management (on the left in 1.1 km)\u003c/div\u003e",
+                     "maneuver" : "ramp-left",
+                     "polyline" : {
+                        "points" : "_ln`E{mjdMT`@@@T~@BLb@|BBJNl@HTNXLPTTVLZLNBT@B?Z?f@KPE`@MXCVATBVBPDJDNHHBHFRRNPLPR^@DPZ@BBDPb@PRb@j@p@j@r@^z@Vb@Ht@Dh@?\\I`@Gb@Gz@?V@LCfIeAlASrEi@|G_ApBYVEhMyA`@GtFq@tGy@DAHAdBSfEi@`@Ev@KxAQn@KdAMdDc@pC_@pBWfGw@TCjDc@NCbGu@nGw@d@GjAMxKyAxG_Al@KZElHy@`Fm@h@IhAQ|OmBnDc@t@IhEk@n@InGu@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.7000034,
+                        "lng" : 74.27822479999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "87 m",
+                        "value" : 87
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 31.6593926,
+                        "lng" : 74.2826853
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Makki Goods Transport Co (on the left)\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_nf`EadkdMAWCiA?uA"
+                     },
+                     "start_location" : {
+                        "lat" : 31.6593603,
+                        "lng" : 74.2817707
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "a_c_E_freMf@{AvAwC^{@X?M^c@~@}@jB{@xC[zBIbC@bAJf@Zn@j@p@j@lATvA?bBy@jQmBnb@Rj@d@\\lLf@R?A\\GlBs@zQa@fJaAxVYxGSv@s@~@sAjAyQxR{D|D}@bAgBzB}F~IsLnPaKnONl@Bp@In@Qj@e@d@m@Ro@Am@SoBjCmBhCqAtAgC|BcAr@gDlBkBbAe@XaEtAsAZkB`@}@n@AHGPMVa@X[Fi@IQKeAQoARcHpA{Ad@sAn@cCvAe@\\oBrBcBbC_AjBoA`Dc@tBcBnIi@bCuAfFPHvElC|BvA`BbA@CFGFEPCRFF^a@jAGb@?bA`@zApBnFtBxFp@xB\\\\^Zb@L^@dA_@h@cAJo@Eu@_@}@[[c@Q}@?a@CkBnAsBjAuB|@}Bl@}@ZqEn@}BNeF@ySGgE?cDYsHKcXC}FDsg@q@{l@s@uHK{GM}F[{Iq@sJsA{LuB{J_CaIiC{CoAyB_AuIeDiLkFoIsD_CoAcDyAqLmG}BmAmDsAwBo@}E_AsGg@u[]sTSiOK{\\[eUQei@a@qICwFVgEb@gG`AqB`@aAVQDcBf@}Ad@sEbB_NlFcVlJoR|HqGxCiFnC}GvD}[pReHbEmBnAsAjA{A~AmBvCcA|BmAdEe@nCMnAQlD@xEPtDp@nIb@zDlAjHpAxFtBvH|@jCpBnE`@`@|@fBjAvBj@d@f@NxAC|AMhAJr@`@d@p@LZP|@@^OhAWp@g@j@}BbAw@VaE|AoUtJwEhBeGdC{DzBsAz@iIhG}I|HwDzDeHjIgHhKqDfG}DrH{A|C{EjLyAtEyB`HgBxGiDfPaAzFcAbIyAfPw@dPEpCGlDKjGOrGMtD_A~KoBhMeDlMwAlEsBbFoCpFsFnIwE`GqCxCiIhJ_MfNii@zl@mTfVsAnAyC|BkFfEyBdBsEtCcGzC_I`E_EbBkCz@qK`DsQdEkEf@i[fCaQ~A}Df@eDNuH`@_U]_WOmCCcEAsDRaDTaFl@gMjAqDb@cPpBqCdA}Bz@_Bz@kBtAoBjBgB|ByAfCwBrFuApGc@tEGpFPzFf@nGf@~EHzGg@`KyAdUSlFKdEK~IBlRA|[DhS^nNj@xL`@tEbAlKvBdPpBtKVb@XlA`AlE\\j@l@b@j@PX@bAKr@Sp@El@Fv@Xz@~@h@dATh@t@~@dBjA~A`@~AD~@QdCIf[cEtRaCb\\_Ev[cEnUuCdXoDxQyB`YmD~PuBEwD"
+         },
+         "summary" : "Lahore Ring Rd/L-20 and Lahore Eastern Bypass/Sialkot - Lahore Motorway/M-11",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,381 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "38M8+22G Maghi Sultan, Pakistan",
+      "global_code" : "8J3J38M8+22G"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "38M8+22",
+               "short_name" : "38M8+22",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Maghi Sultan",
+               "short_name" : "Maghi Sultan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shorkot",
+               "short_name" : "Shorkot",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Jhang",
+               "short_name" : "Jhang",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "38M8+22 Maghi Sultan, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.082625,
+                  "lng" : 72.31512499999999
+               },
+               "southwest" : {
+                  "lat" : 31.0825,
+                  "lng" : 72.315
+               }
+            },
+            "location" : {
+               "lat" : 31.0825746,
+               "lng" : 72.31507809999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.0839114802915,
+                  "lng" : 72.31641148029149
+               },
+               "southwest" : {
+                  "lat" : 31.0812135197085,
+                  "lng" : 72.31371351970849
+               }
+            }
+         },
+         "place_id" : "GhIJ9HrmmyMVP0AR5MtVPSoUUkA",
+         "plus_code" : {
+            "compound_code" : "38M8+22 Maghi Sultan, Pakistan",
+            "global_code" : "8J3J38M8+22"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jhang",
+               "short_name" : "Jhang",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Jhang",
+               "short_name" : "Jhang",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Jhang, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.082078,
+                  "lng" : 72.31694329999999
+               },
+               "southwest" : {
+                  "lat" : 31.080267,
+                  "lng" : 72.3124011
+               }
+            },
+            "location" : {
+               "lat" : 31.0815217,
+               "lng" : 72.3148147
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.0825214802915,
+                  "lng" : 72.31694329999999
+               },
+               "southwest" : {
+                  "lat" : 31.0798235197085,
+                  "lng" : 72.3124011
+               }
+            }
+         },
+         "place_id" : "ChIJ78KquSR1IzkR0sGKUqz0JoE",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Haveli Lal",
+               "short_name" : "Haveli Lal",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Jhang",
+               "short_name" : "Jhang",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Jhang",
+               "short_name" : "Jhang",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Haveli Lal, Jhang, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.14642289999999,
+                  "lng" : 72.36286919999999
+               },
+               "southwest" : {
+                  "lat" : 31.047371,
+                  "lng" : 72.24301819999999
+               }
+            },
+            "location" : {
+               "lat" : 31.1015291,
+               "lng" : 72.2955915
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.14642289999999,
+                  "lng" : 72.36286919999999
+               },
+               "southwest" : {
+                  "lat" : 31.047371,
+                  "lng" : 72.24301819999999
+               }
+            }
+         },
+         "place_id" : "ChIJDd1v4Gt1IzkRjz6K_9bexgg",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jhang",
+               "short_name" : "Jhang",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Jhang",
+               "short_name" : "Jhang",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jhang, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.7632589,
+                  "lng" : 72.8303686
+               },
+               "southwest" : {
+                  "lat" : 30.8723069,
+                  "lng" : 71.76867709999999
+               }
+            },
+            "location" : {
+               "lat" : 31.3700829,
+               "lng" : 72.236379
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.7632589,
+                  "lng" : 72.8303686
+               },
+               "southwest" : {
+                  "lat" : 30.8723069,
+                  "lng" : 71.76867709999999
+               }
+            }
+         },
+         "place_id" : "ChIJFTUlcbyXIzkRy5iR8XAL_ss",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jhang",
+               "short_name" : "Jhang",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jhang, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.7632589,
+                  "lng" : 72.8303684
+               },
+               "southwest" : {
+                  "lat" : 30.5749679,
+                  "lng" : 71.6586386
+               }
+            },
+            "location" : {
+               "lat" : 31.1929214,
+               "lng" : 72.236379
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.7632589,
+                  "lng" : 72.8303684
+               },
+               "southwest" : {
+                  "lat" : 30.5749679,
+                  "lng" : 71.6586386
+               }
+            }
+         },
+         "place_id" : "ChIJu9QRZnO6IzkRJcOIg3PFzPg",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

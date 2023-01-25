@@ -1,0 +1,371 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJFQHNjoiAGDkRrp4-g7mNj4c",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJhVb1KKZRIjkRqr_kC3A6kNg",
+         "types" : [ "establishment", "food", "point_of_interest", "restaurant" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 31.4223918,
+               "lng" : 73.51772029999999
+            },
+            "southwest" : {
+               "lat" : 31.2883486,
+               "lng" : 72.82245469999999
+            }
+         },
+         "copyrights" : "Map data ©2022",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "73.8 km",
+                  "value" : 73824
+               },
+               "duration" : {
+                  "text" : "2 hours 0 mins",
+                  "value" : 7170
+               },
+               "end_address" : "9R2F+36F, Painsra, Faisalabad, Punjab, Pakistan",
+               "end_location" : {
+                  "lat" : 31.3515214,
+                  "lng" : 72.823937
+               },
+               "start_address" : "Unnamed Road, Faisalabad, Punjab, Pakistan",
+               "start_location" : {
+                  "lat" : 31.2921562,
+                  "lng" : 73.51772029999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 746
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 75
+                     },
+                     "end_location" : {
+                        "lat" : 31.2883486,
+                        "lng" : 73.51125759999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_w~}Dw|u_MxVjg@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.2921562,
+                        "lng" : 73.51772029999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.8 km",
+                        "value" : 2778
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 287
+                     },
+                     "end_location" : {
+                        "lat" : 31.3089764,
+                        "lng" : 73.49475939999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street\u003cdiv style=\"font-size:0.9em\"\u003ePass by Mian Saeed Medical Store (on the left in 2.7 km)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "e_~}Dktt_MsA`AaAp@u@h@KHwAhAg@`@KHeBtAwDpCwB|AeBpAWPoBxAuB|AcBnA_@Xu@h@uB~AaAt@OHg@`@wAdA{@n@MHOLiAx@aEzC_Ap@o@f@yHxFmA|@eBpAoCrB_Ap@c@\\YRe@^}AhA_BnAyDtCuB|A}@n@eE|C_Ap@qDnCGD}@n@YRmBvASL"
+                     },
+                     "start_location" : {
+                        "lat" : 31.2883486,
+                        "lng" : 73.51125759999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "7.3 km",
+                        "value" : 7321
+                     },
+                     "duration" : {
+                        "text" : "12 mins",
+                        "value" : 702
+                     },
+                     "end_location" : {
+                        "lat" : 31.3234267,
+                        "lng" : 73.4258038
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at لاہور اڈا چکو موڑ onto \u003cb\u003eLahore-Jaranwala Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Malik sharif beef shop (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "c`b~Dgmq_M@fCEnAA\\A`@K~@CTEb@?@SnASfAm@bC[jA_@dA]~@[n@c@|@a@n@]h@_@h@kB`C_AjAMPmDtEwEdGQVgDrEu@`A}ErGOTwCtDc@f@aBlByBpCS^W\\MNKLCDSVW^A?W\\W\\W\\Y^A@UZW^U^W^MNILY^W\\Y\\SXCDY\\W\\Y\\W\\CBUXW\\W^Y\\QTEFW^KPKL?@_@j@UZQ\\MTOZWp@i@~AWz@IXOf@_@lA]lAg@`Bk@hBa@tA_@nAq@|BM`@q@|BWz@a@nAm@vB}@tCw@fCy@tCOh@q@~BSr@I^E\\E^AZ?H?F?T?PBd@H~@Fb@FTFVVj@P`@n@pAhAxBlAhCtApCj@lAJR\\p@dA|BfAzB~@rBNZBFDNBR@\\AfB?xA?N?tA?z@AhG?@?j@?xCC|DCrBIfKA|BClC?tB?PAxCAl@CxEC`C?`@Az@@~BAr@?h@C~BAzAA`@?bCA`CCjAAXAjCKdLK`OAdC?dAEhG?R?LCfC?PAfC?\\CpC?`@Aj@CrA?z@DvBA~A?~@Af@?pACjE"
+                     },
+                     "start_location" : {
+                        "lat" : 31.3089764,
+                        "lng" : 73.49475939999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "23.6 km",
+                        "value" : 23649
+                     },
+                     "duration" : {
+                        "text" : "34 mins",
+                        "value" : 2014
+                     },
+                     "end_location" : {
+                        "lat" : 31.3868507,
+                        "lng" : 73.20273039999999
+                     },
+                     "html_instructions" : "Continue straight past SSB (Subhan Sweets &amp; Bakers) onto \u003cb\u003eFaisalabad Road\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Muhammad Ali Tariq Girls College (on the left in 450m)\u003c/div\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "mzd~Dg~c_MBjA?NAh@A|ACxFCzB?NAxAE`DCdEEhL?BAz@AHCPGb@[~Ae@bBCJKb@Ol@k@~B[tAw@rCk@pBKb@a@~As@zCyCbMoA~EGXQp@g@tBKn@Ej@Cd@?P?t@@t@PlA^lATf@h@z@R\\r@r@rBrB?@lFdF~@|@BBzB~BvCzCdFdFNLhCjCb@b@rAtAJHv@x@fAfAP\\JXDV?N?H@HAFCLGXITEFINe@r@k@~@s@fAcD|E}A|BMZuApBk@z@a@r@OVIPCDKXOd@Ol@WjAa@hBaAfESz@_@dBq@zCq@tCu@bDkAjF]zAaAlE_@`Bm@tCi@|BiA`Fo@pCS|@_AhEiAdFMj@eAvEEP_AbEMf@Ot@UbACLSz@ADADq@zCa@bBo@rCyArGWlAaAbEo@nCs@hDu@`Dy@hDs@bDAFqArGc@rBQt@qAvFMl@yBtJmAzFYhAi@dCo@hC]~AaClKaAxDg@xBs@|CCJa@fBYnAS|@]~AMh@a@dBs@`DkBdIa@jBMf@Mn@e@nBm@rCSt@_@~Am@pC_@bBuAhG{@rDc@lByCzMe@vBiAbFi@`CuCrMYnAaCvKgA|EOh@_AdEcDjOOj@m@jC{ApGGTsAtFQv@Mf@wAtGe@xBET[rAg@|BQz@K`@Oh@Sf@ELOZA@Yf@_@l@OPQRGDYXo@d@[PsCfBo@\\wAz@c@XONKLY\\W\\_@j@GJg@`AQb@Mh@Mn@i@bDG\\UpAuA~HGTo@pDQ~@k@pCY|A]hBUrAQfA]jBEVe@dCy@rEY|A]fBcBnJk@`Dg@tC_@zBAFQhAYzA]jBI^Mb@Ur@]|@k@nAcBdDEJGNU`@S`@Sb@S`@U`@S`@Sb@S`@U`@IPIPS`@S`@Sb@U`@S`@Sb@OXYj@}EvJsAnCoAdCMRMNOLULcEvBiExBOL[PkE|BiHzDqHzDkFrCq@^_ClA_FhCiCtAQNMFQPONOVKTGJGREPI`@Ih@Kv@AJYnDWzCYnDWzCAHWvCAPOfBE`@UlCI|@Ix@CdAGf@Gh@ALEXGh@Ej@CXMlBGr@E`@QjBKbBKjAADQ|BGr@Gv@CVMzAObBQzBWhDOzAAPOhBO`BW`DMzAUlCC\\CVq@bHQ~AA\\CNGbAQlCW~D?DAFMrAYnDeAzLAFo@tH[pDe@vFQ~BKnACRQzBWpCMbBMzAOfB[vC_@|EI~@e@lFk@lGMrAIdAq@`ICRWjCUlCCVQ~AM|@QhA_@vBOjAMv@cAdGUpAgAfHOz@Kf@Y~AkAnHaA|FGXq@dEo@vDy@xEUzAiA~GSlAi@`DwAhIALsAnIMl@e@fC_A|Eq@dEIp@QbAMx@q@zDGb@]lCAHi@|CsAbIMt@CR}ArJGZsAlIQdAWtAIh@cAzFq@rEMt@W`Bc@rCSvAEVId@AJAZ?V"
+                     },
+                     "start_location" : {
+                        "lat" : 31.3234267,
+                        "lng" : 73.4258038
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "10.4 km",
+                        "value" : 10358
+                     },
+                     "duration" : {
+                        "text" : "20 mins",
+                        "value" : 1192
+                     },
+                     "end_location" : {
+                        "lat" : 31.4200603,
+                        "lng" : 73.1042387
+                     },
+                     "html_instructions" : "At the roundabout, continue straight onto \u003cb\u003eFaisalabad - Jaranwala Khuranwala Bypass\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eJaranwala Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Faisalabad - Jaranwala Khuranwala Bypass\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Rai international pk.com (on the left)\u003c/div\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "yfq~Dalx}L@F?DADADCBCB]j@[vBCNKb@Kn@]rBUrAW|AETSlAg@tCKp@O`AYbBo@zDETCNG\\O`AGVKn@Mr@G^c@rCM|@SdAeAfG?BWvA_@lBGNIZK`@Yt@[t@EJgAvBOZg@dAe@|@o@xAGLITMXK\\Sv@Ib@GZKt@YrC_@|CM`AMjAYzB?FWtBOnACPS`BARS`BALU|AiA|IUvB?B]~C_@pCIn@m@lFShBa@hDMhA]nCgAdJGd@WlB_@`DSdBs@fGYbCUjBYbCIv@Kr@ADYvBe@tDa@bDw@`HQnAGh@CTKx@Ip@OfAu@bG[jCCTMdAM~@Eb@ETOtA[bCc@vDM`A[zCo@|EQ|AAFUhB?@Kz@o@`GAPk@rEAJ_@zCOrACR}@nHc@fDCPIv@O`AWjA_@|@Wj@ADWb@i@r@s@hA}A|BGJUZg@r@u@dAKPeA~AMZ[x@_@jAIf@SzAEhACh@GvAAvACbAGnDCf@I|DIfCQhHCdAExAAZGtBGzBIjCCrACtACj@I`FKtDCdAA~@CxAEzACpA?~@ARCh@Kj@EVERQn@IV_@fAGJQ\\MPe@n@EH{AxBkAjBORMRW^y@fAiA`BUXUXy@fAwAtBA@eBbCmDbFgA~AeBdCy@bA_@d@g@n@KNYb@_@h@kA~AwDnFY`@_AtAMLILk@v@SVa@j@cAxAo@|@MP_B|BSVgAdBA?Ub@EFuBzCa@h@i@|@i@v@oAfBy@dA_@h@iAzAMR_AtAk@r@A?KLMPKPW^EFW^Y`@EDEFGH[b@GJOVCBOVQT_AfAMPKJKLY\\W\\"
+                     },
+                     "start_location" : {
+                        "lat" : 31.3868507,
+                        "lng" : 73.20273039999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 998
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 97
+                     },
+                     "end_location" : {
+                        "lat" : 31.4189539,
+                        "lng" : 73.0964903
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eAbdullahpur Overpass\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Hashim Shoes (on the left in 850m)\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "kvw~Dode}LyBzCuC|DW^GJ_@h@eAzAGLMPM`@GVGVEVAVAV?Z@TBXDVHVFTHTLRLPLNRRr@v@rAvAnCpCpAnAb@`@~@|@t@v@fAjA"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4200603,
+                        "lng" : 73.1042387
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 741
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 110
+                     },
+                     "end_location" : {
+                        "lat" : 31.4141611,
+                        "lng" : 73.09138919999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eRajbah Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Arshad rent a car &amp; tours (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "mow~Datc}LNDPFNFHBRDLDLDLDFDLHJJFDDFPPPNhAnApC|Cp@p@j@j@~@~@RRn@n@dAdAXVXTJJFDf@^LLHHRVDBNRNVNXJ\\H^B^?n@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4189539,
+                        "lng" : 73.0964903
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.3 km",
+                        "value" : 2297
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 374
+                     },
+                     "end_location" : {
+                        "lat" : 31.4133253,
+                        "lng" : 73.0676713
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eRajbah Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Asia express cargo service (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "oqv~Detb}LAJARC\\IbAARAF?F@HGl@G|@CNEXERQl@IRWp@i@nASt@IXSz@Kf@EXCPCZCVC^CXIv@Cb@Ab@CbA?rA?nA?`@Bt@@XZ|DLnBPdCJvANzB\\lDXdDDr@F|@Dl@@PHlAL~BX~EFr@Fl@FjA@JBRHxAD`@Dn@@N@NDt@Bd@H`BHhADt@fAfORbCR`CFv@?P?~@?b@Ah@CVGn@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4141611,
+                        "lng" : 73.09138919999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "14.4 km",
+                        "value" : 14442
+                     },
+                     "duration" : {
+                        "text" : "23 mins",
+                        "value" : 1408
+                     },
+                     "end_location" : {
+                        "lat" : 31.3663396,
+                        "lng" : 72.9260791
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at \u003cb\u003eChenab Chowk\u003c/b\u003e onto \u003cb\u003eJhang Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by PC World Pan Shop (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ilv~D}_~|L`@~@FRXr@d@fAXv@V~@h@~BNr@`@hBH^V`ANn@J`@Np@T~@ZtAT|@jAdER~@HTdAjEPj@Nj@^xAFTbA`EBJDLn@bCXhANh@fBrGfB`HTdA`@xAd@rAj@zB^|A~AbFNh@d@nBz@|Cd@fBv@|Ch@fCPp@j@bCBHh@tBFVd@fBRv@Rr@d@fBXdA`@zAv@|CHZz@dDDVXjATbAVhAf@bBT~@XhA@DTdAt@nCv@xCLf@v@xCh@rBLf@R|@^|A\\xANf@T`A\\rADRt@zC`AzDVfALd@`@`Bj@|Bj@~BHXd@lBXhA^xAb@~ANh@FZHVV`AZjADPJ^Rz@Nf@p@jCH^\\pARz@JZZtAJ^J`@HVRr@n@|Bx@xCrAbF`@bBNj@d@bBb@bB\\tAJb@p@dCf@jBTdA~AjGl@|Bz@fDlBrHd@hB~B~IdB|Gr@jCb@fBVjAh@vBNh@r@vC|@lDdDtM^`Bn@jCXfAXfAvBvI@Bj@vBb@fBd@jBd@jBl@~BfAjEfCvJhAlErB~HvBbI@@Lh@BJBHXjABHHZdBzGT~@r@tCNl@v@|CPr@r@rCbCzJV`Af@tBXhAFRn@jC^vAtA|FjBjIfAzE\\rAp@jC\\rAn@tCXhA?@FTRv@Nn@@DX`APv@b@jBNp@|@xDJb@`@bBj@zBVbAXtAhBnIXnAPv@Jd@ThA@DJb@r@|CdArEv@vDt@zCDPDLn@pCDPFXLf@TbAR~@p@xCBF`@fBf@vBz@|D^dBXnAh@bCFVbBvHP|@nApFd@vB@Dn@lCd@lBr@dDFXH^XzAFVBNTnA?@V`BRpA?@RzARbBPpAT`BD`@Jr@R`BHt@LvA\\hCZ|Bd@pD\\nCLjA@Fl@xEBPBZ\\lCjAzIhBtMPhBd@tDb@~C\\rCJv@t@|FF^Hb@F^F\\Fl@"
+                     },
+                     "start_location" : {
+                        "lat" : 31.4133253,
+                        "lng" : 73.0676713
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "6.6 km",
+                        "value" : 6616
+                     },
+                     "duration" : {
+                        "text" : "9 mins",
+                        "value" : 516
+                     },
+                     "end_location" : {
+                        "lat" : 31.3522673,
+                        "lng" : 72.8584149
+                     },
+                     "html_instructions" : "At the roundabout, continue straight onto \u003cb\u003eFaisalabad Jhang Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Sialvi Autos (on the right)\u003c/div\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "sfm~D_kb|L@@@@@@@@?@@??@?@?@?@@??@?@A??@?@?@?@A@?@A@|@jG`A~GVjBD\\PjAZhCDRBXh@fEjAnJXxBBRb@xDp@tFVxBjCxTpEv^|@lHz@tGDb@f@|DPnAZbCJz@BNLjAd@hDDZh@dEp@nF|AxLr@fG`ApHdAdKv@dGFd@^~C?DDXj@|ERzA~BnQb@bDhAvI@FD^b@nDPxAj@pEf@tD^xCb@fDNfALdANjAVlBDZ^vCNfALdARxAfAlIz@lHh@~FFd@l@bFX|Cj@tEVrB^jCh@dEPxAb@hDLdAb@nDF`@f@fD"
+                     },
+                     "start_location" : {
+                        "lat" : 31.3663396,
+                        "lng" : 72.9260791
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.0 km",
+                        "value" : 2986
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 182
+                     },
+                     "end_location" : {
+                        "lat" : 31.346064,
+                        "lng" : 72.8278184
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eJhang Faisalabad Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Ahmed Oil Mills (on the left in 1.5 km)\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "unj~Dadu{LF`@n@rFzAlLP|A~@zHFh@~@bHnB|OThBbApIJz@BRFf@Fh@Fh@BTBP@DD`@Fb@?BFf@@FVpBp@nFXbCh@xEHh@Hh@@JD\\Hh@@HNtAx@vGf@lEXzBNtAf@fE|@nHbAjIjBzORzAHfAPfB"
+                     },
+                     "start_location" : {
+                        "lat" : 31.3522673,
+                        "lng" : 72.8584149
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 676
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 172
+                     },
+                     "end_location" : {
+                        "lat" : 31.3500536,
+                        "lng" : 72.82245469999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at Traffic Police onto \u003cb\u003e\u003cspan dir=\"rtl\"\u003eserhala road\u003c/span\u003e‎\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Jinnah Poly Technical Institute (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{gi~D{do{LMPINMRwA|By@hAkAbB{B`D_@p@KNiAlBEHy@hAe@p@gAxAW^[`@eAzA"
+                     },
+                     "start_location" : {
+                        "lat" : 31.346064,
+                        "lng" : 72.8278184
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 216
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 31.3515214,
+                        "lng" : 72.823937
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at Billa jutt Amazon services\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "y`j~Dicn{LgAgAIKQQy@y@sBsBSU"
+                     },
+                     "start_location" : {
+                        "lat" : 31.3500536,
+                        "lng" : 72.82245469999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_w~}Dw|u_MxVjg@sA`AwBzAwC~B}YpT{f@z^cm@|c@gCjBSL@fCGlBM`B]jCaAjE{@pCy@nBeAlBiF`HqZda@wK|MeAzAsCvDoCzDuCtDsCtDeC|Dg@lAaAzCwA|E_HjUuIxYWxB?x@LdBNx@^bA`ArBxGbNvD~HxAfDDp@A`EAjLCdKWva@MvWYz_@Wrc@ExIE~BDrDCxGApI[ni@GzAc@bCi@nBcBfHqChKeHxYy@fDQzACv@@jBPlA^lA~@bBfApArBtBlLfLrUxUfAfAP\\Pp@?j@[dAoCjEeJhNgBxCo@rBoCxLeKrd@uQzx@{Hd]sEdSkDrPmLfh@}Jbc@kRrz@cQ~v@wQzx@{GdZuAdGk@rA{AzBmBvA_IzEmAxAaB|CmAzGyGr^gO|z@WbAs@pB}CpGcDrGoCpF{G`NcDtG[b@sLlGaPxIoU|LiKvF}@nA_@rAq@|GkApNo@rHm@jIw@vIwDzd@eB~SiApLq@vKcFnl@wBxWaFlk@u@dIqA~IuFf]qKzo@wCfQaB|JeBdJ{AtJyAvJ{Ini@wCnQ}AbKSdB?j@g@x@w@zEiDrS_ClNyDnU}@zDu@jBmAbCmCxFk@zA]zASpAuA~LoBrP_Ef\\wFte@gEn^cIhp@kHhn@gEl]YxBw@hC{AhC_JzMi@tAi@rBYdDK`CQrJi@tTm@hUi@dZE|@QbAaAbDkGnJiD|E}DpF}IhMgF~GqLrPmIpL{HlLsEnGcExFwBzC{AzBkBzBwDdFuErGmAhB[r@W~ABbB`@zA|@hAhJpJ`FbFxBp@h@`@rBxBnHzHbD`DtAfAp@r@^j@Zv@L~@Az@QhCGfAWzB}AbE}@rDQ~AUtCEjGBvA\\vEz@hMdAdM^lGfAhPl@lKvBdYA~CKfAh@rA~@zBp@vBdB|HbAdEp@tC`BbGtBlInEdQvB|H|BfJfAlDjAxEnBlG`BlG|AdGz@xD`BzGrBzHnFhTtMhh@xFpUtFrThHdYfCbJjDvMjI~[dPbo@zLrf@|Iz]xOlm@nQrs@fM|h@pCfLtFvU~EfUfFdU`AbE~DfQlJvb@|BxJ~AzH`BjK`AxHv@bH~Dh[vEz]xBrQjBdNDDDLAFx@rG`EtZtPxuAnQ`wAdDpYdAxIvInq@vDzYpA~JbCzRp@dHfA`KbAhI~BtQ`B~LdD`XvFfd@hBjOn@nFpH`n@|Itu@PfBMPWb@yIlM{BxD_EtFaB|BqAsAsEuE"
+         },
+         "summary" : "Faisalabad Road",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

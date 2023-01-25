@@ -1,0 +1,79 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metro Mall Building",
+               "short_name" : "Metro Mall Building",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Metro Access Road",
+               "short_name" : "Metro Access Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Amarkot",
+               "short_name" : "Amarkot",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lahore City",
+               "short_name" : "Lahore City",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Metro Mall Building, Metro Access Rd, Amarkot, Lahore, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.4670964,
+                  "lng" : 74.2352709
+               },
+               "southwest" : {
+                  "lat" : 31.4656411,
+                  "lng" : 74.233734
+               }
+            },
+            "location" : {
+               "lat" : 31.4663793,
+               "lng" : 74.2346233
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.4677177302915,
+                  "lng" : 74.23586523029151
+               },
+               "southwest" : {
+                  "lat" : 31.4650197697085,
+                  "lng" : 74.2331672697085
+               }
+            }
+         },
+         "place_id" : "ChIJxZwL8RsCGTkRYH6RDnJnOtQ",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

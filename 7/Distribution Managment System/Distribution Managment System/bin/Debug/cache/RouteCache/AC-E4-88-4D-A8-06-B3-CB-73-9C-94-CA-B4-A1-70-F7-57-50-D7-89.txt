@@ -1,0 +1,229 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJyTHwf6ngHjkREgQQwek4WEc",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJjbUsbpDgHjkRENoKZka7rNY",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 32.4617965,
+               "lng" : 74.31234909999999
+            },
+            "southwest" : {
+               "lat" : 32.4469779,
+               "lng" : 74.28028309999999
+            }
+         },
+         "copyrights" : "Map data ©2022",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "5.8 km",
+                  "value" : 5790
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 840
+               },
+               "end_address" : "Begowala Rd, Sialkot, Punjab, Pakistan",
+               "end_location" : {
+                  "lat" : 32.4558671,
+                  "lng" : 74.28028309999999
+               },
+               "start_address" : "Unnamed Road, Malkhanwala, Sialkot, Punjab, Pakistan",
+               "start_location" : {
+                  "lat" : 32.4485846,
+                  "lng" : 74.30002639999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 323
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 55
+                     },
+                     "end_location" : {
+                        "lat" : 32.4469875,
+                        "lng" : 74.3016947
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "sr`eEevndMAc@Au@A}@As@?I?QA]?O?G@E@C@CBCFAXEVAL?N?HAD?`@?\\AR?ZAV?VA`@CJ?DC@A"
+                     },
+                     "start_location" : {
+                        "lat" : 32.4485846,
+                        "lng" : 74.30002639999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 1002
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 150
+                     },
+                     "end_location" : {
+                        "lat" : 32.4472571,
+                        "lng" : 74.31234909999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "uh`eEq`odM@C?C?A?CG{CAa@CeAEg@@I?E@E@K@Q@S?WAY?]EmCA}@Aw@AkAC_C?e@?G?K?O@MAm@AaAAYAw@?k@?QCu@Ac@A[?QAi@?o@CcDAmAAkAA[Aa@Ag@?c@Aw@?m@AW?O?G@IBO"
+                     },
+                     "start_location" : {
+                        "lat" : 32.4469875,
+                        "lng" : 74.3016947
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 189
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 32.4489434,
+                        "lng" : 74.3122128
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eMalkhanwala Road\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kj`eEecqdMO@gHLM@IH"
+                     },
+                     "start_location" : {
+                        "lat" : 32.4472571,
+                        "lng" : 74.31234909999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 636
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 99
+                     },
+                     "end_location" : {
+                        "lat" : 32.4504599,
+                        "lng" : 74.3072104
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eMalkhanwala Road\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{t`eEibqdMCPDdEFjE@|@?t@CLGFIBaDDsBBOBCFCJDbC@hADlD?LEH"
+                     },
+                     "start_location" : {
+                        "lat" : 32.4489434,
+                        "lng" : 74.3122128
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.6 km",
+                        "value" : 2557
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 336
+                     },
+                     "end_location" : {
+                        "lat" : 32.4617417,
+                        "lng" : 74.2875397
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eMalkhanwala Road\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "k~`eEacpdMIBkA@kCDk@B[BYLSRqAnB_BbCiBnCoBtCKLwAxBu@dAiBrC[j@EHGPOh@qAdEOZ_@f@CDyBvCkAzAo@d@SPABCFCXFpE?`@ANENKRiCdEW`@MTCFABANH`G@PN~JD|BHjIHlC?\\APENGHg@R{@VMHGRgAfEIJA@OFaCj@o@JM?cD@s@A"
+                     },
+                     "start_location" : {
+                        "lat" : 32.4504599,
+                        "lng" : 74.3072104
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 424
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 80
+                     },
+                     "end_location" : {
+                        "lat" : 32.4610676,
+                        "lng" : 74.28323189999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{dceEchldMKpOjAhDv@hCLV"
+                     },
+                     "start_location" : {
+                        "lat" : 32.4617417,
+                        "lng" : 74.2875397
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 659
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 79
+                     },
+                     "end_location" : {
+                        "lat" : 32.4558671,
+                        "lng" : 74.28028309999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eBegowala Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "u`ceEemkdMLAd@a@TA\\HxDzBlGpDvL`Hf@X"
+                     },
+                     "start_location" : {
+                        "lat" : 32.4610676,
+                        "lng" : 74.28323189999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "sr`eEevndMIuGDUJEp@Gl@AnBC|AEFE@IMgGCq@@KDq@Q_P?iACwCEkDE{BGmJEeBCaDDq@wHNM@IHCPDdEHhGCbAQJuGHOBCF@nCFvF?LEHuADwDH[BYLSRqAnBiErGiGbJeC~DMZaBnFOZ_@f@}B|CkAzAo@d@UTG`@FrFG^{DpGEJFpG`@zYHjDG`@GHg@R{@VMHoAzEKLqCr@}@JwE?KpOjAhDv@hCLVLAd@a@TA\\HfMlH~MzH"
+         },
+         "summary" : "Malkhanwala Road",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

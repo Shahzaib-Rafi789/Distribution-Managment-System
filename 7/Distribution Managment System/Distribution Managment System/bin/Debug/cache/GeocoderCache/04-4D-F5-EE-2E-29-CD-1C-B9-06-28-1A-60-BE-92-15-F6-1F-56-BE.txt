@@ -1,0 +1,376 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "RMWP+763 Chak 191 GB, Pakistan",
+      "global_code" : "8J2JRMWP+763"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "RMWP+76",
+               "short_name" : "RMWP+76",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Chak 191 GB",
+               "short_name" : "Chak 191 GB",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toba Tek Singh",
+               "short_name" : "Toba Tek Singh",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Toba Tek Singh District",
+               "short_name" : "Toba Tek Singh District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "RMWP+76 Chak 191 GB, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.84575,
+                  "lng" : 72.685625
+               },
+               "southwest" : {
+                  "lat" : 30.845625,
+                  "lng" : 72.68549999999999
+               }
+            },
+            "location" : {
+               "lat" : 30.84564739999999,
+               "lng" : 72.68554689999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.8470364802915,
+                  "lng" : 72.6869114802915
+               },
+               "southwest" : {
+                  "lat" : 30.8443385197085,
+                  "lng" : 72.68421351970849
+               }
+            }
+         },
+         "place_id" : "GhIJifIWWXzYPkAR8tcaAOArUkA",
+         "plus_code" : {
+            "compound_code" : "RMWP+76 Chak 191 GB, Pakistan",
+            "global_code" : "8J2JRMWP+76"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Toba Tek Singh",
+               "short_name" : "Toba Tek Singh",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Toba Tek Singh District",
+               "short_name" : "Toba Tek Singh District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Toba Tek Singh District, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.8466748,
+                  "lng" : 72.68532279999999
+               },
+               "southwest" : {
+                  "lat" : 30.84103009999999,
+                  "lng" : 72.6807312
+               }
+            },
+            "location" : {
+               "lat" : 30.8438451,
+               "lng" : 72.683015
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.8466748,
+                  "lng" : 72.68532279999999
+               },
+               "southwest" : {
+                  "lat" : 30.84103009999999,
+                  "lng" : 72.6807312
+               }
+            }
+         },
+         "place_id" : "ChIJA4e_Mb8fIzkRKLd2xKmW5t4",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chak 251 GB",
+               "short_name" : "Chak 251 GB",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Toba Tek Singh",
+               "short_name" : "Toba Tek Singh",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chak 251 GB, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.92135729999999,
+                  "lng" : 72.7354818
+               },
+               "southwest" : {
+                  "lat" : 30.8382894,
+                  "lng" : 72.6638751
+               }
+            },
+            "location" : {
+               "lat" : 30.8734133,
+               "lng" : 72.6919814
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.92135729999999,
+                  "lng" : 72.7354818
+               },
+               "southwest" : {
+                  "lat" : 30.8382894,
+                  "lng" : 72.6638751
+               }
+            }
+         },
+         "place_id" : "ChIJiUOOniIeIzkRSIed9Hbooo8",
+         "types" : [ "administrative_area_level_5", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Toba Tek Singh",
+               "short_name" : "Toba Tek Singh",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Toba Tek Singh District",
+               "short_name" : "Toba Tek Singh District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Toba Tek Singh, Toba Tek Singh District, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.135551,
+                  "lng" : 72.7764636
+               },
+               "southwest" : {
+                  "lat" : 30.735675,
+                  "lng" : 72.2498255
+               }
+            },
+            "location" : {
+               "lat" : 30.9285968,
+               "lng" : 72.5678041
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.135551,
+                  "lng" : 72.7764636
+               },
+               "southwest" : {
+                  "lat" : 30.735675,
+                  "lng" : 72.2498255
+               }
+            }
+         },
+         "place_id" : "ChIJUR9NPXEQIzkR6pWRWS_xRng",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Toba Tek Singh District",
+               "short_name" : "Toba Tek Singh District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Toba Tek Singh District, Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.3653637,
+                  "lng" : 72.832489
+               },
+               "southwest" : {
+                  "lat" : 30.5315109,
+                  "lng" : 72.1540833
+               }
+            },
+            "location" : {
+               "lat" : 31.0685004,
+               "lng" : 72.61511689999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.3653637,
+                  "lng" : 72.832489
+               },
+               "southwest" : {
+                  "lat" : 30.5315109,
+                  "lng" : 72.1540833
+               }
+            }
+         },
+         "place_id" : "ChIJxT_AEBcXIzkRKB96DT1d8dU",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punjab, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            },
+            "location" : {
+               "lat" : 31.1704063,
+               "lng" : 72.70971609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0434647,
+                  "lng" : 75.3796504
+               },
+               "southwest" : {
+                  "lat" : 27.7056256,
+                  "lng" : 69.3288726
+               }
+            }
+         },
+         "place_id" : "ChIJy5pBdImU3zgRoOxO0hgwnjo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0841069,
+                  "lng" : 77.1204247
+               },
+               "southwest" : {
+                  "lat" : 23.6344999,
+                  "lng" : 60.8729721
+               }
+            }
+         },
+         "place_id" : "ChIJH3X9-NJS2zgRXJIU5veht0Y",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
